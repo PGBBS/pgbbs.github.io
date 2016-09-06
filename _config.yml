@@ -23,6 +23,9 @@ markdown: kramdown
 # Instead of cluttering the root-directy, we put static pages into `_pages`
 include: ['_pages']
 
+	# permalink defaults
+permalink: /:title/
+
 # plugins
 gems:
   - jemoji

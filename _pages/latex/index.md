@@ -1,5 +1,6 @@
 ---
 title: Advice & Resources for Students
+layout: page
 ---
 
 

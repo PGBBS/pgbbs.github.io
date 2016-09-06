@@ -1,7 +1,6 @@
 ---
-permalink: "/how-to-contribute/"
-layout: page
 title:  "How to contribute"
+layout: page
 ---
 
 Great! You're most welcome to contribute. Don't be shy, anything that
@@ -9,10 +8,38 @@ you consider even remotely relevant already has 1 (potential) reader.
 :smile: Just get a quick 'n' dirty draft out quickly. Or edit somebody else's
 quick 'n' dirty draft.
 
+# Posts vs. Pages
+
+They live as mardown-files (.md) in the directories `_posts` and
+`_pages` (surprise). They need a header, where the minimal example (of
+this very page) is:
+
+    ---
+    title: "How to contribute"
+    layout: page
+    ---
+
+Alternatively, `post` instead of `page` (duh!). There's also one other
+point, where posts and pages differ: the filename. For posts it is
+always in the format: `_posts/YYYY-MM-DD-<title>.md` (where title may differ
+from the title in the frontmatter). For pages it is either
+`_pages/<title>.md` or `_pages/<title-as-directory>/index.md`.
+
+Optional header information: `category`.
+
+Expert note: Further possible information for the header is `date` and
+`permalink`. We don't use any of these (at least not as defaults),
+because the date (for posts) is derived from the filename and the
+permalink as well (as set in `_config.yml`). If you ever want to set a
+permalink, remember forward-slashes on both ends, like `permalink:
+"/about/"`.
+
 # Markup
 
 We use Markdown as markup-language (with file-extension .md). Here's a
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+More specifically, we use markdown's
+[kramdown](http://kramdown.gettalong.org/syntax.html)-flavor.
 
 You can also use emojis -- at least the ones supported by Github's
 Jekyll-plugin. Here's a list [TODO].

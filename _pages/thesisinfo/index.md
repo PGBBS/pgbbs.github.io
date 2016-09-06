@@ -1,5 +1,6 @@
 ---
-title: Writing Your Thesis: Things Worth Knowing
+title: "Writing Your Thesis: Things Worth Knowing"
+layout: page
 ---
 
 
