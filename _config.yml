@@ -20,6 +20,9 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+# Instead of cluttering the root-directy, we put static pages into `_pages`
+include: ['_pages']
+
 # plugins
 gems:
   - jemoji
