@@ -9,10 +9,10 @@ Zentrum für Medien und Kommunikation (short: ZMK).
 
 Here are two maps of the University campus:
 
-- city map with campus highlighted:
-http://www.dhd2014.uni-passau.de/fileadmin/dokumente/Lageplan/Stadtplan_Universitaet.pdf
-- campus map only:
-http://www.uni-passau.de/fileadmin/dokumente/Lageplan/UNI-Lageplan_Info_mini.pdf
+- [city map with campus highlighted](
+http://www.dhd2014.uni-passau.de/fileadmin/dokumente/Lageplan/Stadtplan_Universitaet.pdf)
+- [campus map](
+http://www.uni-passau.de/fileadmin/dokumente/Lageplan/UNI-Lageplan_Info_mini.pdf)
 
 # ITZ/IH
 
@@ -33,8 +33,8 @@ You can take the stairs or the elevator. In either case, turn left and
 walk down the hallway untily you reach a door labelled
 "Distributed Multimedia and Informition Systems". You have
 reached your destination. Here are the exact x-y-coordinates
-on OpenStreetmap.
-https://www.openstreetmap.org/?mlat=48.56591&mlon=13.45063#map=19/48.56591/13.45063
+on
+[OpenStreetmap](https://www.openstreetmap.org/?mlat=48.56591&mlon=13.45063#map=19/48.56591/13.45063).
 
 The office is held by [Ingrid
 Winter](http://www.fim.uni-passau.de/en/distributed-information-systems/).
@@ -48,8 +48,8 @@ Most meetings are held in R 249.
 
 This room is located on the ground floor of the ITZ facing
 the soccer pitch. Here are the exact x-y-coordinates on
-OpenStreetmap.
-https://www.openstreetmap.org/?mlat=48.56562&mlon=13.44964#map=19/48.56552/13.44952
+[OpenStreetmap](
+https://www.openstreetmap.org/?mlat=48.56562&mlon=13.44964#map=19/48.56552/13.44952).
 
 # ZMK
 
