@@ -66,3 +66,8 @@ The address is :
 
 Michael Granitzer and his group are located (mostly) on the first
 floor. The office is held by [Annemarie Gertler-Weber](http://www.fim.uni-passau.de/medieninformatik).
+
+# APPENDIX Taxi in Passau
+
+Taxis in Passau are organized within the [Taxi
+Zentrale](http://taxi-zentrale-passau.de/).
