@@ -61,6 +61,5 @@ A text editor is sufficient to maintain one's .bib-file, but if you
 prefer some GUI (which might for example also link to the corresponding
 pdf's), there's [JabRef](http://jabref.sourceforge.net/).
 
-## give a talk
 
 ## work collaboratively
