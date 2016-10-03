@@ -1,5 +1,5 @@
 ---
-title:  "How to reach us"
+title:  "How to reach us and what to do here"
 layout: page
 ---
 
@@ -91,3 +91,11 @@ http://schaerding.at/sehens_erlebenswertes/index.htm On the
 route to Schärding (or back or both), you may be tempted to
 stop in Wernheim for some "cidre" at
 http://mostausschankuntererinn.gemeindeausstellung.at/home
+
+## Events
+
+- The [Scharfrichterhaus](http://scharfrichterhaus.de/) offers a stage
+  for music and (mostly political) cabaret.
+- At [Youexit](https://www.youexit.de/), you and your friends can play
+  an "exit game". This means, that you will be locked up in a thematic room full of puzzles
+  which you have to solve in order to escape. (Our current record for the "Invasion" room stands at 35'.)
