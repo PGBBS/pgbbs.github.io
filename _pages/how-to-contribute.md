@@ -12,6 +12,9 @@ living at
 
 [https://github.com/PGBBS/pgbbs.github.io](https://github.com/PGBBS/pgbbs.github.io).
 
+- TOC
+{:toc}
+
 # Posts vs. Pages
 
 Posts and pages live as mardown-files (.md) in the directories `_posts` and
@@ -52,10 +55,17 @@ More specifically, we use markdown's
 [kramdown](http://kramdown.gettalong.org/syntax.html)-flavor.
 
 You can also use emojis -- at least the ones supported by Github's
-Jekyll-plugin. Here's a list [TODO].
+Jekyll-plugin. Here's a [list](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
+
+Kramdown offers a
+[table of contents](http://kramdown.gettalong.org/converter/html.html#toc)
+derived from the headlines. Just decorate an (unordered) list with the
+Inline Attribute List (IAL) `{:toc}` (see source code of this
+file). Jekyll will then replace it with a Table of Contents based on
+the headings of the file; you can exclude headings by attaching the
+IAL `{:.no_toc}`.
 
 ## Software: Editor for Markdown
 
 - Windows: [MarkdownPad](http://markdownpad.com/) has a free and paid version
 - and then, of course, the usual suspects: Vim, Emacs, Atom
-
