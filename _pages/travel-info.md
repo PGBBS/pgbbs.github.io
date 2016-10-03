@@ -3,6 +3,9 @@ title:  "How to reach us and what to do here"
 layout: page
 ---
 
+* This list will be my TOC
+{:toc}
+
 We are distributed over two buildings on the campus of the University of
 Passau: the IT-Centre/International House (short: ITZ/IH) and the
 Zentrum für Medien und Kommunikation (short: ZMK).
