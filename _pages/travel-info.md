@@ -30,8 +30,6 @@ The address is :
 
 ## Chair of Harald Kosch
 
-
-
 You can take the stairs or the elevator. In either case, turn left and
 walk down the hallway untily you reach a door labelled
 "Distributed Multimedia and Informition Systems". You have
@@ -95,10 +93,47 @@ route to Schärding (or back or both), you may be tempted to
 stop in Wernheim for some "cidre" at
 http://mostausschankuntererinn.gemeindeausstellung.at/home
 
+- [Donauradweg](www.donauradweg.at)
+
+A guided tour will/should take you to the following places
+- Alte und neue Residenz: fuerstliche Residenz; alte Residenz jetzt
+  Landgericht, neue Residenz jetzt Bischoefliches Ordinariat und
+  Eingang zum Domschatzmuseum
+- Dom St. Stephan: barocker Neubau von 1668-1693, groesste katholische
+  Kirchenorgel der Welt (spielt werktags um 12:00 und jeden Donnerstag
+  um 19:30)
+- Dreiflüsseeck: gruener Inn, scharze Ilz, blaue Donau
+- Fünferlsteg: verbindet Alt- mit Innstadt, 1916 als Hindenburgsteg
+  errichtet, Brueckenmaut bis 1976
+- Severinstor und Peicherturm: 1412 errichtet, erhaltener Teil der Stadtmauer.
+- Roemermuseum
+- Schaiblingsturm
+- Residenzplatz mit Wittelsbacherbrunnen
+- Veste Niederhaus
+
+- [Schiff-Fahrten](http://www.passau.de/Tourismus/SehenundErleben/Donausschifffahrt/Ausflugsschifffahrt.aspx)
+
+## Around Passau
+
+- [peb](http://www.passauer-erlebnisbad.de) indoor and outdoor, sauna
+- [Rottal Terme](http://www.rottal-terme.de) thermal spring
+-
+  [Naturfreibad Thyrnau](http://www.thyrnau.de/freizeit-und-tourismus/freizeitmoeglichkeiten/naturfreibad.html)
+  (10 km)
+- [Eginger See](http://www.eging.de/index.php/touristik/eginger-see)
+(30 km) Naturbadesee
+-
+  [Stausee Oberilzmühle](www.bayerischer-wald.de/Media/Attraktionen/Stausee-Oberilzmühle)
+  (8 km)
+- [Lauf- und Bewegungspark "Unterer Inn"](http://www.neuhaus-inn.de)
+- [Motorikpark Ingling](http://www.passau.de/LebeninPassau/SportundFreizeit/MotorikparkIngling.aspx)
+- [Trimm-Dich-Pfad Kohlbruck](http://www.passau.de/LebeninPassau/SportundFreizeit/Lauf--Nordic-Walking-Strecken.aspx)
+
 ## Events
 
 - The [Scharfrichterhaus](http://scharfrichterhaus.de/) offers a stage
-  for music and (mostly political) cabaret.
+  for music and (mostly political) cabaret since 1977
 - At [Youexit](https://www.youexit.de/), you and your friends can play
   an "exit game". This means, that you will be locked up in a thematic room full of puzzles
   which you have to solve in order to escape. (Our current record for the "Invasion" room stands at 35'.)
+- [Theater im Fürstbischöflichen Opernhaus Passau](http://www.landestheater-niederbayern.de/content/stadttheater-passau)
