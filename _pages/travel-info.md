@@ -94,6 +94,7 @@ stop in Wernheim for some "cidre" at
 http://mostausschankuntererinn.gemeindeausstellung.at/home
 
 - [Donauradweg](www.donauradweg.at)
+- [Bicycle routes around Passau](http://www.passauer-land.de/category/freizeitaktivitaeten/aktiv/radfahren/)
 
 A guided tour will/should take you to the following places
 - Alte und neue Residenz: fuerstliche Residenz; alte Residenz jetzt
