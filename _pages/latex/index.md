@@ -1,5 +1,5 @@
 ---
-title: Advice & Resources for Students
+title: How to write your thesis
 layout: page
 ---
 
