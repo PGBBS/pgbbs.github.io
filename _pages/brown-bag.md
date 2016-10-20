@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Brown Bag Seminar"
 layout: "pages"
 ---
 
