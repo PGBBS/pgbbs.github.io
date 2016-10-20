@@ -1,6 +1,6 @@
 ---
 title: "Source- and File-sharing"
-layout: pages
+layout: page
 ---
 
 When working together, we will sooner or later produce something
@@ -102,6 +102,3 @@ state.
 
 Read the intro of the documentation at https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 Do the tutorial at https://try.github.io/levels/1/challenges/1
-
-
-

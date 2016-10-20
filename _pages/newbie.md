@@ -1,6 +1,6 @@
 ---
 title: "Newbie Guide to MICS/DIMIS"
-layout: pages
+layout: page
 ---
 
 1. Introduce yourself to the admin `admin@dimis.fim.uni-passau.de` and
