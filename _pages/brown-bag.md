@@ -1,6 +1,6 @@
 ---
 title: "Brown Bag Seminar"
-layout: "pages"
+layout: page
 ---
 
 Things that every grad student (in Computer Scienc) should know/have
