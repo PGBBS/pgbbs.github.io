@@ -1,5 +1,5 @@
 ---
-title:  "How to reach us and what to do here"
+title:  "How to reach us and what to do in Passau"
 layout: page
 ---
 
@@ -57,7 +57,7 @@ IM.
 
 The address is :
 
-    Innstrass 33a
+    Innstrasse 33a
     94032 Passau
 
 
