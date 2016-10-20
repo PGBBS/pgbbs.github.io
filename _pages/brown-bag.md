@@ -15,7 +15,7 @@ then turns up as a blogpost as below
 
 | Date        | Topic                                            | MOC        | scribe |
 | ---------   | -----                                            | ---        | ------ |
-| 25 Aug 2016 | [Blockchain](../_posts/2016-08-25-blockchain.md) | Konstantin |        |
+| 25 Aug 2016 | [Blockchain](../../_posts/2016-08-25-blockchain.md) | Konstantin |        |
 | 20 Oct 2016 | Orga                                             | NA         | NA     |
 | 27 Oct 2016 | Privacy                                          | Armin      |        |
 | 03 Nov 3016 | Mico and my PhD                                  | Manu       |        |
@@ -31,7 +31,7 @@ then turns up as a blogpost as below
 - Tor and the Dark Web (Konstantin)
 - tests of (Artificial) Intelligence (e.g. in the context of
   psychology)
-- [public key cryptography](../_posts/public-key-cryptography.md) (Konstantin)
+- [public key cryptography](../../_posts/public-key-cryptography.md) (Konstantin)
 
 ## round table, elevator pitch
 
