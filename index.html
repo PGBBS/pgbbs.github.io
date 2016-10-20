@@ -5,23 +5,18 @@ layout: default
 <div class="home">
 
   Welcome to this collection of bits and pieces by some (not so
-  random) Passau Graduate Students. On the one hand, there's general
-  information that we refer to (and are asked for) regularly (see
-  "Pages" below). On the other hand, there are (very) rough notes on
+  random) Passau Graduate Students. They are technically built from a
+  github-repository using Jekyll. And they are philosophically founded
+  as a [do-ocracy](https://communitywiki.org/wiki/DoOcracy): if you
+  think something should be on these pages, put it here. If you see
+  something that could be improved, do it. (The whole thing is
+  version-controlled.)
+
+  On the one hand, there are (very) rough notes on
   topics that we discuss while simultaneously enjoying a meal (see
-  "Posts" below).
-
-  <h1 class="page-heading">Pages</h1>
-
-  <ul class="pages-list">
-    {% for page in site.pages %}
-    <li>
-        <h2>
-          <a class="pages-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        </h2>
-    </li>
-    {% endfor %}
-  </ul>
+  "Posts" below). On the other hand, there's general
+  information that we refer to (and are asked for) regularly (see
+  "Pages" below).
 
   <h1 class="page-heading">Posts</h1>
 
@@ -34,6 +29,18 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+    {% endfor %}
+  </ul>
+
+  <h1 class="page-heading">Pages</h1>
+
+  <ul class="pages-list">
+    {% for page in site.pages %}
+    <li>
+        <h2>
+          <a class="pages-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        </h2>
+    </li>
     {% endfor %}
   </ul>
 
