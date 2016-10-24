@@ -3,8 +3,16 @@ title: "How to give a talk"
 layout: page
 ---
 
-# Add-On in the DIMIS/MICS-Oberseminar
+# Use Case: Arbeitsgruppe (AG) DIMIS-MICS
 
-The seminar is usually held on mondays, so send around the abstract of
-your talk on friday.
+Master's students have to give two talks:
+- the first talk (20') at the beginning of your thesis work should
+  contain
+  - State of the Art
+  - Central Idea
+  - Work Schedule
+- the second talk (40') should conclude your thesis work
+  - first 3 min.: convince the audience about the relevance
 
+In either case, post the abstract of your talk to the mailing
+list ahead of time (at least 24 hours).
