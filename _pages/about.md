@@ -1,7 +1,16 @@
 ---
 layout: page
-title: About
+title: "About Us"
 ---
+
+# Disclaimer
+
+This is not an official publication of our employer (in most cases the
+University of Passau). The provided information reflects the
+personal opinion of the respective author, and does not represent all
+contributors.
+
+# Jekyll
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
