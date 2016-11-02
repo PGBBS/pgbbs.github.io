@@ -15,4 +15,8 @@ Master's students have to give two talks:
   - first 3 min.: convince the audience about the relevance
 
 In either case, post the abstract of your talk to the mailing
-list ahead of time (at least 24 hours).
+list ahead of time (at least 24 hours)
+- in English
+- in the mail body
+- here's a rough
+  [guideline](https://www.verywell.com/how-to-write-an-abstract-2794845)
