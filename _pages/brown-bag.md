@@ -9,10 +9,11 @@ date is :
 
     Thursday afternoon, ~18:00
 
-Every session lasts for roughly an hour and is led by a "Master of
-Ceremony" (MOC). There's also always a -- more or less voluntary --
+Every session is led by a "Master of Ceremony" (MOC), lasts for
+roughly an hour, is usually accompanied by some food (hence the name
+of the seminar). There's also always a -- more or less voluntary --
 scribe who takes notes in the form of a simple markdown-file which
-then turns up as a blogpost as below
+then turn into evolving blogposts as below
 
 # Schedule
 
@@ -23,6 +24,16 @@ then turns up as a blogpost as below
 | 27 Oct 2016 | Privacy                                             | Armin      |
 | 03 Nov 2016 | Mico and my PhD                                     | Manu       |
 | 10 Nov 2016 |                                                     |            |
+| 17 Nov 2016 |                                                     |            |
+| 24 Nov 2016 |                                                     |            |
+| 01 Dec 2016 |                                                     |            |
+| 08 Dec 2016 |                                                     |            |
+| 15 Dec 2016 |                                                     |            |
+| 12 Jan 2017 |                                                     |            |
+| 19 Jan 2017 |                                                     |            |
+| 26 Jan 2017 |                                                     |            |
+| 02 Feb 2017 |                                                     |            |
+| 09 Feb 2017 |                                                     |            |
 
 # topic/format incubator
 
