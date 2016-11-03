@@ -16,9 +16,10 @@ idea: user needs to show some work to use a service
 # Blockchain
 
 key features
-- log, i.e. records over time
+- log (aka ledger, dt. "Kassenbuch"), i.e. records over time
 - immutable
 - distributed
+- "trustless", i.e. w/o trusted third party
 
 ## Example 1: Bitcoin
 
