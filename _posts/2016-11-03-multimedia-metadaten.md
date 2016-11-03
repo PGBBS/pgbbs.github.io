@@ -1,7 +1,7 @@
 ---
 title: "A lot of dissing -- Manu's PhD Thesis"
 layout: post
-date: 2016-11-03 18:00 +01:00
+date: 2016-11-03 18:00 +0100
 ---
 
 three pillars
