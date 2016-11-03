@@ -1,7 +1,8 @@
---
+---
 title: "A lot of dissing -- Manu's PhD Thesis"
 layout: post
---
+date: 2016-11-03 18:00 +01:00
+---
 
 three pillars
 1. metadata modelling
@@ -56,3 +57,5 @@ Because <reasons>, otherwise relational data base
 # How to evaluate?
 
 Fusionator
+
+# Links
