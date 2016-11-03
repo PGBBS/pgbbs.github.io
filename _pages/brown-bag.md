@@ -17,23 +17,23 @@ then turn into evolving blogposts as below
 
 # Schedule
 
-| Date        | Topic                                               | MOC        |
-| ---------   | -----                                               | ---        |
-| 25 Aug 2016 | [Blockchain](../../_posts/2016-08-25-blockchain.md) | Konstantin |
-| 20 Oct 2016 | Orga                                                |            |
-| 27 Oct 2016 | Privacy                                             | Armin      |
-| 03 Nov 2016 | Mico and my PhD                                     | Manu       |
-| 10 Nov 2016 |                                                     |            |
-| 17 Nov 2016 |                                                     |            |
-| 24 Nov 2016 |                                                     |            |
-| 01 Dec 2016 |                                                     |            |
-| 08 Dec 2016 |                                                     |            |
-| 15 Dec 2016 |                                                     |            |
-| 12 Jan 2017 |                                                     |            |
-| 19 Jan 2017 |                                                     |            |
-| 26 Jan 2017 |                                                     |            |
-| 02 Feb 2017 |                                                     |            |
-| 09 Feb 2017 |                                                     |            |
+| Date        | Topic                                                                       | MOC        |
+| ---------   | -----                                                                       | ---        |
+| 25 Aug 2016 | [Blockchain]({% link _posts/2016-08-25-blockchain.md %})                    | Konstantin |
+| 20 Oct 2016 | Orga (this document)                                                        |            |
+| 27 Oct 2016 | [Privacy]({% link _posts/2016-10-27-privacy.md %})                          | Armin      |
+| 03 Nov 2016 | [Mico and Multimedia]({% link _posts/2016-11-03-multimedia-metadaten.md %}) | Manu       |
+| 10 Nov 2016 |                                                                             |            |
+| 17 Nov 2016 |                                                                             |            |
+| 24 Nov 2016 |                                                                             |            |
+| 01 Dec 2016 |                                                                             |            |
+| 08 Dec 2016 |                                                                             |            |
+| 15 Dec 2016 |                                                                             |            |
+| 12 Jan 2017 |                                                                             |            |
+| 19 Jan 2017 |                                                                             |            |
+| 26 Jan 2017 |                                                                             |            |
+| 02 Feb 2017 |                                                                             |            |
+| 09 Feb 2017 |                                                                             |            |
 
 # topic/format incubator
 
