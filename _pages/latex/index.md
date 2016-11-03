@@ -1,5 +1,5 @@
 ---
-title: How to write your thesis
+title: How to write your thesis (in LaTeX)
 layout: page
 ---
 
@@ -63,3 +63,9 @@ pdf's), there's [JabRef](http://jabref.sourceforge.net/).
 
 
 ## work collaboratively
+
+# Tutorials/Links
+
+-
+  [Begin LaTeX in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
+  (short, basic)
