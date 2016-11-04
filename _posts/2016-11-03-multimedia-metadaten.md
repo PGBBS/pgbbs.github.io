@@ -1,5 +1,5 @@
 ---
-title: "A lot of dissing -- Manu's PhD Thesis"
+title: "Metadata for Multimedia"
 layout: post
 date: 2016-11-03 18:00 +0100
 ---
@@ -59,3 +59,5 @@ Because <reasons>, otherwise relational data base
 Fusionator
 
 # Links
+
+- [slides]({% link /docs/2016-11-03--Berndl.pdf %})

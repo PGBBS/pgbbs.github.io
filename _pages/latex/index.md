@@ -37,13 +37,8 @@ IDE-functionality
 Armin Gerl (thank you!) has provided a template for the (German)
 master thesis. It consists of
 
-- [main][1]
-- [titlepage][2]
-
-Alternatively,
-
-[1]:{{ site.url }}/src/master-thesis-de.tex
-[2]:{{ site.url }}/src/title-page.tex
+- [main]({% link /docs/master-thesis-de.tex %})
+- [titlepage]({% link /docs/title-page.tex %})
 
 ## Help
 
