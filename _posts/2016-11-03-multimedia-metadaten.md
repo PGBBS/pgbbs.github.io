@@ -60,4 +60,4 @@ Fusionator
 
 # Links
 
-- [slides]({% link /docs/2016-11-03--Berndl.pdf %})
+- [slides]({% link docs/2016-11-03--Berndl.pdf %})
