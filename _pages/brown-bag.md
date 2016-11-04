@@ -19,11 +19,11 @@ then turn into evolving blogposts as below
 
 | Date        | Topic                                                                       | MOC        |
 | ---------   | -----                                                                       | ---        |
-| 25 Aug 2016 | [Blockchain]({% link _posts/2016-08-25-blockchain.md %})                    | Konstantin |
+| 25 Aug 2016 | [Blockchain]({% post_url 2016-08-25-blockchain %})                    | Konstantin |
 | 20 Oct 2016 | Orga (this document)                                                        |            |
-| 27 Oct 2016 | [Privacy]({% link _posts/2016-10-27-privacy.md %})                          | Armin      |
-| 03 Nov 2016 | [Mico and Multimedia]({% link _posts/2016-11-03-multimedia-metadaten.md %}) | Manu       |
-| 10 Nov 2016 |                                                                             |            |
+| 27 Oct 2016 | [Privacy]({% post_url 2016-10-27-privacy %})                          | Armin      |
+| 03 Nov 2016 | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %}) | Manu       |
+| 10 Nov 2016 | Automatic Test Generation | Andy |
 | 17 Nov 2016 |                                                                             |            |
 | 24 Nov 2016 |                                                                             |            |
 | 01 Dec 2016 |                                                                             |            |
@@ -39,11 +39,10 @@ then turn into evolving blogposts as below
 
 ## things that at least one of us would like to know/talk about
 
-- Automatic Test Generation (Andy)
 - Recommender Systems (Manu)
 - App-Programmierung
 - Tor and the Dark Web (Konstantin)
-- [public key cryptography](../../_posts/public-key-cryptography.md) (Konstantin)
+- public key cryptography (Konstantin, see `_drafts`)
 - Tests of (Artificial) Intelligence (e.g. in the context of
   psychology)
 - Hackathon-Preparation: lehrstuhlweite Blink-Kommunikation

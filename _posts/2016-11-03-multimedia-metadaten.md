@@ -60,5 +60,6 @@ Fusionator
 
 # Links
 
-- [slides]({% link docs/2016-11-03--Berndl.pdf %})
-- [Link t]({% link /assets/files/doc.pdf %})
+[slides][1]
+
+[1]:{{ site.url }}/docs/DA_BA_MA wissenswertes.doc
