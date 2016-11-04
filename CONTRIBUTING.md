@@ -46,13 +46,25 @@ be thought of as static (for example the "About"-page).
 
 ## Links
 
-[Here](http://jekyllrb.com/docs/templates/#link)'s how to create a
-link to a document, post, file using Jekyll's `link`-tag:
+To link to a post, we use :
 
-    [Link to a document]({% link _collection/name-of-document.md %})
-    [Link to a post]({% link _posts/2016-07-26-name-of-post.md %})
-    [Link to a page]({% link news/index.html %})
-    [Link to a file]({% link /assets/files/doc.pdf %})
+    {% post_url 2016-11-03-multimedia-metadata %}
+    {% post_url /subdir/2010-07-21-name-of-post %}
+
+*without* the filename-extension.
+
+To link to a file in `docs`, we use :
+
+    [main][1]
+    [1]:{{ site.url }}/docs/master-thesis-de.tex
+
+CAVE: The `link`-tag as suggested
+[here](http://jekyllrb.com/docs/templates/#link)  was not recognized
+neither by my local nor by github's jekyll-installation. Yielding :
+
+    Liquid Exception: Liquid syntax error (line 34): Unknown tag 'link' in _pages/latex/index.md
+    jekyll 3.1.3 | Error:  Liquid syntax error (line 34): Unknown tag 'link'
+
 
 # Language: English
 
