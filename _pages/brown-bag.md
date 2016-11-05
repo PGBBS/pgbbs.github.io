@@ -44,7 +44,7 @@ then turn into evolving blogposts as below
 - Tor and the Dark Web (Konstantin)
 - public key cryptography (Konstantin, see `_drafts`)
 - Tests of (Artificial) Intelligence (e.g. in the context of
-  psychology)
+  psychology, AI in computer games)
 - Hackathon-Preparation: lehrstuhlweite Blink-Kommunikation
 - Hackathon-Preparation: Amphibien-Roboter
 
