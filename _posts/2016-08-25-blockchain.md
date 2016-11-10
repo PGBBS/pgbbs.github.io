@@ -31,6 +31,9 @@ visit Ethereum's [blockchain](https://etherchain.org/)
 
 # Resources and Further Reading
 
+- concise (24 slides) presentation
+  [Blockchain for Beginners](http://bford.info/log/2016/1102-cybsec-blockchain.pdf)
+  by Bryan Ford
 - 2h-podcast [Chaosradio 225
   (German)](http://chaosradio.ccc.de/cr225.html) on "Digitales Geld &
   Smart Contracts"

@@ -51,7 +51,8 @@ then turn into evolving blogposts as below
 ## papers that every computer scientist should have read
 
 Barbara Liskov gave the following ["must-read" list](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/) at the 16th
-Heidelberg Laureate Forum.
+Heidelberg Laureate Forum. There's also the
+[Papers We Love](http://paperswelove.org/) repository.
 
 
 
