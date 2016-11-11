@@ -1,6 +1,8 @@
+---
+title: "How to Write a (Good) Paper"
+layout: post
+---
 #PGBBS - Konstantin - 10.11.16
-
-##"How to Write a (good) Paper"
 
 * "Regeln sind da, um gebrochen zu werden"
 	* Nicht auf biegen und brechen beim Paper schreiben. 
