@@ -54,9 +54,6 @@ Barbara Liskov gave the following ["must-read" list](http://jpirker.com/hlf16-li
 Heidelberg Laureate Forum. There's also the
 [Papers We Love](http://paperswelove.org/) repository.
 
-
-
-
 ## trial presentation (Probevortrag)
 
 Before giving a presentation at a workshop/conference, here's the
@@ -72,3 +69,6 @@ place and time to practice it and get some feedback.
  - ... We should really write a paper about:" (joint paper title)
 
  TODO maybe we should do this on the first meeting of each semester?
+ TODO Does it make sense to have a SCRUM-like "What I learned last week
+ and what I'll do next week" at the beginning of each session? -- Or
+ have a (joint) Lerntagebuch?
