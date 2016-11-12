@@ -23,8 +23,8 @@ then turn into evolving blogposts as below
 | 20 Oct 2016 | Orga (this document)                                                        |            |
 | 27 Oct 2016 | [Privacy]({% post_url 2016-10-27-privacy %})                          | Armin      |
 | 03 Nov 2016 | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %}) | Manu       |
-| 10 Nov 2016 | Automatic Test Generation | Andy |
-| 17 Nov 2016 |                                                                             |            |
+| 10 Nov 2016 | How to write a paper | Konstantin |
+| 17 Nov 2016 | Automatic Test Generation | Andy |
 | 24 Nov 2016 |                                                                             |            |
 | 01 Dec 2016 |                                                                             |            |
 | 08 Dec 2016 |                                                                             |            |
@@ -72,3 +72,4 @@ place and time to practice it and get some feedback.
  TODO Does it make sense to have a SCRUM-like "What I learned last week
  and what I'll do next week" at the beginning of each session? -- Or
  have a (joint) Lerntagebuch?
+ TODO Schreibwerkstatt?
