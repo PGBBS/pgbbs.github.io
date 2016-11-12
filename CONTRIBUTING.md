@@ -29,7 +29,7 @@ always in the format: `_posts/YYYY-MM-DD-<title>.md` (where title may differ
 from the title in the frontmatter). For pages it is either
 `_pages/<title>.md` or `_pages/<title-as-directory>/index.md`.
 
-Optional header information: `category`.
+Optional header information: `category` with space-separated keywords.
 
 Expert note: Further possible information for the header is `date` and
 `permalink`. We don't use any of these (at least not as defaults),
@@ -90,6 +90,27 @@ IAL `{:.no_toc}`.
 
 - Windows: [MarkdownPad](http://markdownpad.com/) has a free and paid version
 - and then, of course, the usual suspects: Vim, Emacs, Atom
+
+## Code Snippets with Markdown
+
+You can have a basic code block as an (4-space) indented text
+surrounded by blank lines, where the preceding paragraph ends with a
+colon :
+
+    like this
+	and that
+
+More specifically, you can specify the language for proper
+highlighting as you can see in the source of this example (taken from
+the default installation's `welcome-to-jekyll`)
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
 # Links
 
