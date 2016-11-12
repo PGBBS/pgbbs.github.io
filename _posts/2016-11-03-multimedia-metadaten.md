@@ -62,4 +62,4 @@ Fusionator
 
 [slides][1]
 
-[1]:{{ site.url }}/docs/2016-11-03--Berndl.pdf
+[1]:{{ site.url }}/docs/2016-11-03--Berndl.pptx
