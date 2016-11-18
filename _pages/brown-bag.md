@@ -27,7 +27,7 @@ then turn into evolving blogposts as below
 | 17 Nov 2016    | Automatic Test Generation                                             | Andy       |
 | 22(!) Nov 2016 | LPL -- A Layered Privacy Language                                     | Armin      |
 | 01 Dec 2016    | -- canceled (MDPS workshop) --                                        |            |
-| 08 Dec 2016    | Brainstorming for Hackathon                                           | all        |
+| 08 Dec 2016    | Brainstorming for Hackathon | Thommy       |
 | 15 Dec 2016    |                                                                       |            |
 | 12 Jan 2017    |                                                                       |            |
 | 19 Jan 2017    |                                                                       |            |
