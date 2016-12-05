@@ -101,7 +101,7 @@ state.
 ## Further Reading
 
 - Read the [intro of the
-  documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control{
+  documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - Do this [tutorial](https://try.github.io/levels/1/challenges/1)
 - Here's an exemplary
   [workflow](http://nvie.com/posts/a-successful-git-branching-model/)
