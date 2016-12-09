@@ -1,6 +1,6 @@
 ---
 title: Brainstorming for Hackathon
-layout: posts
+layout: post
 ---
 
 # Tech-Support for "Das Schwarze Auge" (our favorite Pen-and-Paper)
