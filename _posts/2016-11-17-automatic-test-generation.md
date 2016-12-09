@@ -1,6 +1,7 @@
 ---
-title: Generating Qualified Avionics Software
+title: "Generating Qualified Avionics Software"
 layout: post
+date:   2016-11-17 11:21:35 +0200
 ---
 
 Ada-Code (83)

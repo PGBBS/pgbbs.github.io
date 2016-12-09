@@ -1,6 +1,8 @@
 ---
 title: "How to Write a (Good) Paper"
 layout: post
+date:   2016-11-10 11:21:35 +0200
+
 ---
 #PGBBS - Konstantin - 10.11.16
 
