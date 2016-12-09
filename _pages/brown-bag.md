@@ -17,23 +17,23 @@ then turn into evolving blogposts as below
 
 # Schedule
 
-| Date           | Topic                                                                            | MOC        |
-| ---------      | -----                                                                            | ---        |
-| 25 Aug 2016    | [Blockchain]({% post_url 2016-08-25-blockchain %})                               | Konstantin |
-| 20 Oct 2016    | Orga (this document)                                                             |            |
-| 27 Oct 2016    | [Privacy]({% post_url 2016-10-27-privacy %})                                     | Armin      |
-| 03 Nov 2016    | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %})            | Manu       |
-| 10 Nov 2016    | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %})            | Konstantin |
-| 17 Nov 2016    | [Automatic Test Generation]({% post_url 2016-11-17-automatic-test-generation %}) | Andy       |
-| 22(!) Nov 2016 | LPL -- A Layered Privacy Language                                                | Armin      |
-| 01 Dec 2016    | -- canceled (MDPS workshop) --                                                   |            |
-| 08 Dec 2016    | [Brainstorming for Hackathon]({% post_url 2016-12-08-hackathon-brainstorming %}) | Thommy     |
-| 15 Dec 2016    | -- canceled (Hackathon) --                                                       |            |
-| 12 Jan 2017    | Elevator pitch, New year's resolutions, Group Photo                              | Konstantin |
-| 19 Jan 2017    |                                                                                  |            |
-| 26 Jan 2017    |                                                                                  |            |
-| 02 Feb 2017    |                                                                                  |            |
-| 09 Feb 2017    |                                                                                  |            |
+| Date            | Topic                                                                            | MOC        |
+| ---------       | -----                                                                            | ---        |
+| 25 Aug 2016     | [Blockchain]({% post_url 2016-08-25-blockchain %})                               | Konstantin |
+| 20 Oct 2016     | Orga (this document)                                                             |            |
+| 27 Oct 2016     | [Privacy]({% post_url 2016-10-27-privacy %})                                     | Armin      |
+| 03 Nov 2016     | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %})            | Manu       |
+| 10 Nov 2016     | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %})            | Konstantin |
+| 17 Nov 2016     | [Automatic Test Generation]({% post_url 2016-11-17-automatic-test-generation %}) | Andy       |
+| 22(!) Nov 2016  | LPL -- A Layered Privacy Language                                                | Armin      |
+| ~~01 Dec 2016~~ | MDPS workshop                                                                    |            |
+| 08 Dec 2016     | [Brainstorming for Hackathon]({% post_url 2016-12-08-hackathon-brainstorming %}) | Thommy     |
+| ~~15 Dec 2016~~ | Hackathon                                                                        |            |
+| 12 Jan 2017     | Elevator pitch, New year's resolutions, Group Photo                              | Konstantin |
+| 19 Jan 2017     |                                                                                  |            |
+| 26 Jan 2017     |                                                                                  |            |
+| 02 Feb 2017     |                                                                                  |            |
+| 09 Feb 2017     |                                                                                  |            |
 
 # topic/format incubator
 
