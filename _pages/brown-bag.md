@@ -29,7 +29,7 @@ then turn into evolving blogposts as below
 | 01 Dec 2016    | -- canceled (MDPS workshop) --                                                   |            |
 | 08 Dec 2016    | [Brainstorming for Hackathon]({% post_url 2016-12-08-hackathon-brainstorming %}) | Thommy     |
 | 15 Dec 2016    | -- canceled (Hackathon) --                                                       |            |
-| 12 Jan 2017    |                                                                                  |            |
+| 12 Jan 2017    | Elevator pitch, New year's resolutions, Group Photo                              | Konstantin |
 | 19 Jan 2017    |                                                                                  |            |
 | 26 Jan 2017    |                                                                                  |            |
 | 02 Feb 2017    |                                                                                  |            |
@@ -59,7 +59,9 @@ place and time to practice it and get some feedback.
 
 ## round table/elevator pitch
 
-- everybody: 5 min's on his/her topic
+- everybody: 5 min's on his/her topic "Hallo, ich bin der <name>. Ich
+  mach' <topic>, d.h. <explanation>. Und da bin I dahoam."
+
 - everybody: feedback in the form of "Thanks for your interesting
   talk ...
   - ... One point that really caught my attention was:" (dig deeper)
