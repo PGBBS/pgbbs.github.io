@@ -5,7 +5,7 @@ layout: post
 
 # Tech-Support for "Das Schwarze Auge" (our favorite Pen-and-Paper)
 - DSA1 (low-effort): provide collab drawing tools for the whole group
-  a la http://twiddla.com, i.e. also web-based; features: integrated
+  a la [twiddla](http://twiddla.com), i.e. also web-based; features: integrated
   spider/monster stamp, incl. pets
 - DSA2 (high-effort): provide an opp for the master; xml-parsing is
   not so exciting; features: supply xml to master and master can
@@ -35,8 +35,9 @@ layout: post
 # Wikipedia Plug-In for pdf-artifacts
 - PassRDF: input: pdf with image and (machine-readable) text and
   word-document with structured description. Cany you, e.g. query
-  wikipedia to a) check the description for plagariasm and b) suggest
-  additional information (e.g. birthdates) via access to wikipedia?
+  wikipedia to
+  - check the description for plagariasm and
+  - suggest additional information (e.g. birthdates) via access to wikipedia?
   (1st todo: ask Manu about RDF.)
 
 # Hardware-Hacking
