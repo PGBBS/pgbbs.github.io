@@ -7,7 +7,9 @@ date:   2016-08-25 11:21:35 +0200
 # Theoretical Background: Proof of Work
 
 - [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system),
-  suggested by [Dwork & Naor (1993)](http://dl.acm.org/citation.cfm?id=705669)
+  suggested by [Dwork & Naor
+  (1993)](http://dl.acm.org/citation.cfm?id=705669), e.g. hashcash
+  (compute 2nd pre-image on SHA256^2) or Ethash
 
 ## Application: Hashcash
 
