@@ -22,13 +22,13 @@ Fun facton avionics certification: toilets and fly-by-wire have the same securit
 
 code-based development
 - manual coding
-- maintaining traceability
+- maintaining traceability :
 
-: qualification assets (units tests, ...) + source code => qualified variant
+    qualification assets (units tests, ...) + source code => qualified variant
 
-tool-based development
+tool-based development :
 
-: qualification assets => development tool => source code => qualified variant
+    qualification assets => development tool => source code => qualified variant
 
 certify development tool on the highest level
 
