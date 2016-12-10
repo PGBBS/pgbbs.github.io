@@ -1,4 +1,4 @@
-# Honw to contribute
+# How to contribute
 
 Great! You're most welcome to contribute. Don't be shy, anything that
 you consider even remotely relevant already has 1 (potential) reader.
