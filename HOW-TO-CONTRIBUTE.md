@@ -1,4 +1,4 @@
-# How to contribute
+# Honw to contribute
 
 Great! You're most welcome to contribute. Don't be shy, anything that
 you consider even remotely relevant already has 1 (potential) reader.
@@ -47,10 +47,10 @@ be thought of as static (for example the "About"-page).
 ## Links
 
 To link to a post, we use :
-
+{% raw %}
     {% post_url 2016-11-03-multimedia-metadata %}
     {% post_url /subdir/2010-07-21-name-of-post %}
-
+{% endraw %}
 *without* the filename-extension.
 
 To link to a file in `docs`, we use :
