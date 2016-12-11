@@ -73,7 +73,10 @@ neither by my local nor by github's jekyll-installation. Yielding :
 We use Markdown as markup-language (with file-extension .md). Here's a
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 More specifically, we use markdown's
-[kramdown](http://kramdown.gettalong.org/syntax.html)-flavor.
+[kramdown](http://kramdown.gettalong.org/syntax.html)-flavor. Sometimes,
+the Liquid processing might interpret some markdown incorrectly (e.g.
+the links to posts in the code block above). Then you have to enclose
+them with "raw"-tags (see the source if this file).
 
 You can also use emojis -- at least the ones supported by Github's
 Jekyll-plugin. Here's a [list](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
