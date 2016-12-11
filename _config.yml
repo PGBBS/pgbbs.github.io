@@ -4,7 +4,10 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-
+#
+# the defaults for GitHub Pages (which may override what we provide
+# here) are given at https://help.github.com/articles/configuring-jekyll/
+#
 # Site settings
 title: Passau Graduate Student Brown Bag Seminar
 email: your-email@domain.com
