@@ -5,11 +5,12 @@ layout: page
 
 # Books
 - Swaroop, [A Byte of Python](https://python.swaroopch.com/), CC-BY-SA.
-  (Freep pdf and epub download)
+  (Free pdf and epub download, audience: programming beginners)
 - Allen B. Downey, [Think
   Python](http://greenteapress.com/wp/think-python-2e/), 2nd edition,
   2015. (Cave: 1st edition uses python2. Free pdf and html download,
-  sample code available on webpage and github)
+  sample code available on webpage and github, audience: python
+  beginners with programming experience)
 
 # Free Online Courses
 - Codecademy's [Python track](https://www.codecademy.com/learn/python)
