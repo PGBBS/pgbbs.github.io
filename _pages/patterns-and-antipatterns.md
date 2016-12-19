@@ -23,3 +23,8 @@ He concludes with this beautiful caveat:
 > Chinese engineer did 2,000 years ago, "If we're going to put a wheel
 > on this thing, where is the best place to put it?" And to realize that
 > two questions were asked.
+
+# Links
+
+- [SourceMaking](https://sourcemaking.com/) guides you through design
+  patterns, antipatterns, refactoring and UML
