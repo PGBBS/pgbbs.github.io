@@ -13,6 +13,9 @@ An example that I saw as image-caption:
 <Title> (CC BY-SA 2.0 (linked to license) by <author> (linked to
 source on flickr))
 
+Source:
+https://netzpolitik.org/2016/creative-commons-lizenzierte-bilder-die-fuenf-haeufigsten-fehler-bei-der-weiternutzung/
+
 # VG Wort et al
 
 In Germany, there used to be a "Rahmenvertrag for Paragraph 52a UrhG"
