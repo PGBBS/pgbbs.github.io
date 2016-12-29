@@ -50,7 +50,11 @@ then turn into evolving blogposts as below
 
 Barbara Liskov gave the following ["must-read" list](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/) at the 16th
 Heidelberg Laureate Forum. There's also the
-[Papers We Love](http://paperswelove.org/) repository.
+[Papers We Love](http://paperswelove.org/) repository. Harry Lewis has
+drafted a course [Classics of Computer
+Science](https://harry-lewis.blogspot.de/2016/12/classics-of-computer-science.html?m=0)
+with 25 lectures (a 90 min.) around papers taken from this [master
+list](https://docs.google.com/spreadsheets/d/1wS6O7-ZoFL7Cfjgt-kdhYxfg0qHdXyzpjJxikiqNPZg/edit#gid=65049622).
 
 ## trial presentation (Probevortrag)
 
