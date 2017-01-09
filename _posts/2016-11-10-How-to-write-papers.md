@@ -93,3 +93,7 @@ date:   2016-11-10 11:21:35 +0200
 	* Picture explanations are important 
 	* Manu: Oftentimes I have had bad comments about my pictures that are not described enough
 	* Manu: Sometimes you can use caption to explain the picture 
+
+# Links
+
+- [Andreas Eschbachs 10-Punkte Text-ÜV](http://www.andreaseschbach.com/schreiben/10punkte/10punkte.html) (deutsch)
