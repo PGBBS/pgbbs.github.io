@@ -17,11 +17,17 @@ When working together, we will sooner or later produce something
 
 # Sourcesharing
 
-- public: [Github](https://github.com),
-  [Bitbucket](https://bitbucket.com), [Gitlab](https://gitlab.com) (?),
-  [Savannah](https://savannah.gnu.org) (?); TODO do the latter two offer
-  public/private repositories?
-- private: [local gitlab](https://gitlab.dimis.uni-passau.de)
+- public:
+
+  | host                               | public | private       | size limit                         | groups           |
+  |------------------------------------+--------+---------------+------------------------------------+------------------|
+  | [Github](https://github.com)       | oo     | none (edu: 5) | 1 GB/repo; 100 MB/file             | oo               |
+  | [Bitbucket](https://bitbucket.com) | oo     | oo            | 1 GB/repo (soft); 2 GB/repo (hard) | max. 5 (edu: oo) |
+  | [Gitlab](https://gitlab.com)       | oo     | oo            | 10 GB/repo                         | oo               |
+
+  Untested alternative: [Savannah](https://savannah.gnu.org)
+
+- private: [local gitlab](https://gitlab.dimis.uni-passau.de); your `localhost`
 
 ## Setup
 
