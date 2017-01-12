@@ -2,6 +2,18 @@
 layout: post
 ---
 
+# Software
+
+At the top of my head, my first choice is GPLv2 omitting the clause "and later
+versions" (like the Linux kernel, because the GPLv3 seems like a real
+SNAFU).
+
+# Text and Images
+
+For text (documentation), we use CC BY-SA, like wikipedia. (Stay away from the GNU FDL,
+because the invariant-clause is non-free and the DRM-clause is badly
+written.)
+
 Examples for CC-license
 
 http://wiki.creativecommons.org/wiki/Best_practices_for_attribution
@@ -16,7 +28,7 @@ source on flickr))
 Source:
 https://netzpolitik.org/2016/creative-commons-lizenzierte-bilder-die-fuenf-haeufigsten-fehler-bei-der-weiternutzung/
 
-# VG Wort et al
+## VG Wort et al
 
 In Germany, there used to be a "Rahmenvertrag for Paragraph 52a UrhG"
 dealing with the re-use of copy-righted material for educational

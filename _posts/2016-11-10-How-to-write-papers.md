@@ -7,8 +7,8 @@ date:   2016-11-10 11:21:35 +0200
 #PGBBS - Konstantin - 10.11.16
 
 * "Regeln sind da, um gebrochen zu werden"
-	* Nicht auf biegen und brechen beim Paper schreiben. 
-	* Es gibt einige Regeln, teilweise auch community-driven, die fürs Schreiben eingehalten werden sollten. Einige dieser Punkte werden hier aufgeführt und diskutiert.   
+	* Nicht auf biegen und brechen beim Paper schreiben.
+	* Es gibt einige Regeln, teilweise auch community-driven, die fürs Schreiben eingehalten werden sollten. Einige dieser Punkte werden hier aufgeführt und diskutiert.
 
 * Top to bottom Ansatz: Science - Paper - Sections - Paragraphs - ... - Sentence
 	* Viele der Regeln lassen sich anwenden, und zwar sukzessive von oben nach unten, siehe z.B. Bonbon-Regel
@@ -25,7 +25,7 @@ date:   2016-11-10 11:21:35 +0200
 
 * Constraints and rescrictions fuel creativity
 	* Might be hard to use sometimes
-	* But you should try to bring the elements into the restricted form - the results might surprise you! 
+	* But you should try to bring the elements into the restricted form - the results might surprise you!
 
 * Contributions!
 	* First impression for the reviewer is important
@@ -60,10 +60,10 @@ date:   2016-11-10 11:21:35 +0200
 	* "The crap, the crap, cut the fucking crap!"
 
 * Adjectives are bad!
-	* Mostly only subjectives and verbs are important 
+	* Mostly only subjectives and verbs are important
 
 * Position of related work, can be at front or in the back
-	* Manu: the position might correlate with the question if you want to position your work against the others, to highlight things you have done better 
+	* Manu: the position might correlate with the question if you want to position your work against the others, to highlight things you have done better
 
 * Title
 	* keep it short, but cover the main points and the contributions!
@@ -80,9 +80,9 @@ date:   2016-11-10 11:21:35 +0200
 
 * Use Present Tense (Exception Conclusion)
 
-* No Cascading subsentences (Schachtelsätze) 
-	* There are people who never use "which" => Which-hunting. 
-	* Other nono-words: very, a lot ... 
+* No Cascading subsentences (Schachtelsätze)
+	* There are people who never use "which" => Which-hunting.
+	* Other nono-words: very, a lot ...
 	* Remove insertions (Einschübe)
 
 * Never copy - but imitate!
@@ -90,9 +90,9 @@ date:   2016-11-10 11:21:35 +0200
 * Grind and polish. Read pharagraphs out aloud.
 
 * Pictures good! Formulars bad!
-	* Picture explanations are important 
+	* Picture explanations are important
 	* Manu: Oftentimes I have had bad comments about my pictures that are not described enough
-	* Manu: Sometimes you can use caption to explain the picture 
+	* Manu: Sometimes you can use caption to explain the picture
 
 ### APPENDIX yet another skeleton for a computer science paper
 
@@ -103,3 +103,7 @@ date:   2016-11-10 11:21:35 +0200
 5. Experiments
 6. Related Work
 7. Conclusions
+
+# Links
+
+- [Andreas Eschbachs 10-Punkte Text-ÜV](http://www.andreaseschbach.com/schreiben/10punkte/10punkte.html) (deutsch)
