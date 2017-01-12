@@ -93,3 +93,13 @@ date:   2016-11-10 11:21:35 +0200
 	* Picture explanations are important 
 	* Manu: Oftentimes I have had bad comments about my pictures that are not described enough
 	* Manu: Sometimes you can use caption to explain the picture 
+
+### APPENDIX yet another skeleton for a computer science paper
+
+1. Introduction
+2. Background
+3. Approach
+4. (Key) Implementation (decisions)
+5. Experiments
+6. Related Work
+7. Conclusions
