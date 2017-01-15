@@ -28,3 +28,5 @@ He concludes with this beautiful caveat:
 
 - [SourceMaking](https://sourcemaking.com/) guides you through design
   patterns, antipatterns, refactoring and UML
+- Huge alphabetic list of
+  [AntiPatterns](http://wiki.c2.com/?AntiPatternsCatalog)
