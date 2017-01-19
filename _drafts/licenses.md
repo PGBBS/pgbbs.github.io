@@ -35,3 +35,8 @@ dealing with the re-use of copy-righted material for educational
 purposes. You can ignore all these commercial and legal shenanigans by
 choosing material from the Public Domain, Creative Commons, and Open
 Access. Do it!
+
+## Links
+
+CAVE [Abmahnungen wegen Creative
+Commons](https://netzpolitik.org/2017/neue-abmahnungen-der-cider-connection-wegen-creative-commons/)
