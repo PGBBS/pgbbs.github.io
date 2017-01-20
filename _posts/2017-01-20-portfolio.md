@@ -39,3 +39,6 @@ Kommentar-Felder, Peer-Review (Evaluierung)
 # Kontext/Motivation
 
 Developer-Blogs, e.g. https://stackoverflow.com/search?q=mahara
+
+![alt text](http://www.jwebmedia.com/wp-content/uploads/2015/07/business-138-820x400.jpg
+“developers at work”)
