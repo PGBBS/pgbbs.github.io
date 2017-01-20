@@ -30,8 +30,11 @@ nicht) :
 - Schliessen Welche Information haette Ihnen am Anfang der Woche geholfen, das
   Problem besser anzugehen. Formulieren Sie es in einem Satz als "Note
   to past self."
-  -
 
-# Evaluierung
+# Kontext/Motivation
+
+Developer-Blogs, e.g. https://stackoverflow.com/search?q=mahara
 
 # Feedback
+
+Kommentar-Felder, Peer-Review (Evaluierung)
