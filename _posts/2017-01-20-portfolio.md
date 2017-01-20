@@ -17,15 +17,15 @@ Blog-Post von max. einer Bildschirmseite
 - Identifizieren Sie ein zentrales/interessantes/technisches Problem
   in der vergangenen Woche. :
 
-    $ www.mahara.edu
-	> no access
+      www.mahara.edu
+	  no access
 
 - Beschreiben Sie alle Loesungsversuche/-ansaetze (erfolgreich oder
-nicht)
+nicht) :
 
-    - anderer Browser > gleiches Ergebnis
-	- google > keine relevanten Webseiten
-	- Dozentin fragen > Erfolg
+      - anderer Browser > gleiches Ergebnis
+	  - google > keine relevanten Webseiten
+	  - Dozentin fragen > Erfolg
 
 - Schliessen Welche Information haette Ihnen am Anfang der Woche geholfen, das
   Problem besser anzugehen. Formulieren Sie es in einem Satz als "Note
