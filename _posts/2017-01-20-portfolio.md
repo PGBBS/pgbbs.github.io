@@ -1,15 +1,29 @@
 ---
 title: "e-Portfolio Konzept: e-diary/blog"
 layout: post
-date:   2016-11-17 11:21:35 +0200
+author: "Armin & Konstantin"
+date:   2017-01-20 11:21:35 +0200
 ---
 
-# Vorueberleh
+# Vorueberlegungen
 
 # Zielgruppe
 - Bachelor ab 1. Semester
-- Vorlesung "Einfuehrun in P." -> "Vertiefung in P." -> "P.-Projekt"
+- Vorlesung "Einfuehrung in P." -> "Vertiefung in P." -> "P.-Projek"t
 
-#
+# Aufgabenstellung
 
-#
+Schreiben Sie einen Blog-Eintrag
+
+- Identifizieren Sie ein zentrales/interessantes/technisches Problem in der vergangenen Woche.
+-
+- Dokumentieren Sie ihre Schwierigkeiten in einem woechentlichen
+Blog-Post von max. einer Bildschirmseite
+- Welche Information haette Ihnen am Anfang der Woche geholfen, das
+  Problem besser anzugehen. Formulieren Sie es in einem Satz als "Note
+  to past self."
+  -
+
+# Evaluierung
+
+# Feedback
