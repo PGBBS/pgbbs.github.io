@@ -32,8 +32,8 @@ then turn into evolving blogposts as below
 | 12 Jan 2017     | Elevator pitch, New year's resolutions, Group Photo                   | Konstantin |
 | 19 Jan 2017     |                                                                       |            |
 | 26 Jan 2017     |                                                                       |            |
-| 02 Feb 2017     |                                                                       |            |
-| 09 Feb 2017     |                                                                       |            |
+| 02 Feb 2017     | Thommys Kickstarter Start-Up Talk                                     | Thommy     |
+| 09 Feb 2017     | Semester-Abschluss-Powerpoint-Karaoke with Trinkspiel                 | all        |
 
 # topic/format incubator
 
