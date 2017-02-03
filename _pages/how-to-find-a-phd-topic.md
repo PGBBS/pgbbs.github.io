@@ -1,5 +1,5 @@
 ---
-title: "Finding a Topic and Yourself: The Way to choosing a Topic for your PhD Thesis"
+title: "Finding a PhD Topic and Yourself"
 layout: page
 ---
 
