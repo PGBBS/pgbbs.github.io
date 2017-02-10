@@ -8,6 +8,12 @@
 
 https://guides.github.com/features/issues/
 
+# Wishlist
+
+- Search: jekyll plugins are generally disabled for github pages, so in
+  particular the [search
+  plugin](https://github.com/slashdotdash/jekyll-lunr-js-search/issues/82)
+
 # Troubleshooting
 
 If your page does not build, you'll receive an email-notification and
