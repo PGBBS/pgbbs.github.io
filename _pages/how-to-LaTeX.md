@@ -38,17 +38,17 @@ IDE-functionality
 Armin Gerl has provided a template for the (German) master thesis
 (based on the standard `report`-class):
 
-- [pdf-preview][1]
-- [directory as zip][2]
+- preview of the [pdf][1]
+- all sources (and the pdf) in a [directory][2]
 
 [1]:{{ site.url }}/docs/thesis-de-report/master-thesis-de.pdf
-[2]:https://github.com/PGBBS/pgbbs.github.io/tree/master/docs/thesis-de-report
+[2]:{{ site.repo }}/docs/thesis-de-report
 
 Alternatively, Florian Stegmaier built template (based on the
 KomaScript `scrreprt`-class):
 
-- [pdf-preview][3]
-- [directory as zip][4]
+- preview of the [pdf][3]
+- all sources (and the pdf) in a [directory][4]
 
 [3]:{{ site.url }}/docs/thesis-de-scrreprt/rootFile.pdf
 [4]:{{ site.repo }}/docs/thesis-de-scrreprt
