@@ -9,11 +9,11 @@ publication of my employer. The views and advice presented here are
 therefore completely nonbinding -- in any direction. Use at your own
 risk. :-)
 
-## write your thesis
-
-### Install LaTeX
+# Install LaTeX
 
 You will need LaTeX-distribution and an editor.
+
+## LaTeX-distributions
 
 For the former, the most popular is
 
@@ -21,6 +21,8 @@ For the former, the most popular is
   the TeX User Group
 - [MacTeX](http://www.tug.org/mactex/) (Mac OS) by the TeX User Group
 - MiKTeX (Windows only)
+
+## LaTeX-editors
 
 For the latter, any text editor will do, but you might also want some
 IDE-functionality
@@ -31,25 +33,27 @@ IDE-functionality
 - [TeXPad](http://www.texpadapp.com) (Mac OS X)
 - ... and of course: Emacs with AucTeX
 
+# Write LaTeX
 
-### Write LaTeX
+Armin Gerl has provided a template for the (German) master thesis
+(based on the standard `report`-class):
 
-Armin Gerl (thank you!) has provided a template for the (German)
-master thesis. It consists of
+- [pdf-preview][1]
+- [directory as zip][2]
 
-- [main][1]
-- [titlepage][2]
+[1]:{{ site.url }}/docs/thesis-de-report/master-thesis-de.pdf
+[2]:{{ site.url }}/docs/thesis-de-report.zip
 
-[1]:{{ site.url }}/docs/master-thesis-de.tex
-[2]:{{ site.url }}/docs/title-page.tex
+Alternatively, Florian Stegmaier built template (based on the
+KomaScript `scrreprt`-class):
 
-## Help
+- [pdf-preview][1]
+- [directory as zip][2]
 
-- [LaTeX
-  Basics](https://www.youtube.com/playlist?list=PLuyjaM3Uz-oOS7zcMFaROwrg83KBR1Sui)
-  (Introduction videos, in German)
+[1]:{{ site.url }}/docs/thesis-de-scrreprt/rootFile.pdf
+[2]:{{ site.url }}/docs/thesis-de-scrreprt.zip
 
-### Maintain your bibliography with BibTeX
+## Maintain your bibliography with BibTeX
 
 - [german introduction](http://www.juergenfenn.de/tex/dtk/bibonline.pdf)
 - [english
@@ -59,11 +63,10 @@ A text editor is sufficient to maintain one's .bib-file, but if you
 prefer some GUI (which might for example also link to the corresponding
 pdf's), there's [JabRef](http://jabref.sourceforge.net/).
 
+## Help
 
-## work collaboratively
-
-# Tutorials/Links
-
--
-  [Begin LaTeX in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
-  (short, basic)
+- [LaTeX
+  Basics](https://www.youtube.com/playlist?list=PLuyjaM3Uz-oOS7zcMFaROwrg83KBR1Sui)
+  (introduction videos, in German)
+- [Begin LaTeX in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
+  (short introduction text, in English)
