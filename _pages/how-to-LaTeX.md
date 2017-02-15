@@ -42,7 +42,7 @@ Armin Gerl has provided a template for the (German) master thesis
 - [directory as zip][2]
 
 [1]:{{ site.url }}/docs/thesis-de-report/master-thesis-de.pdf
-[2]:{{ site.url }}/docs/thesis-de-report.zip
+[2]:https://github.com/PGBBS/pgbbs.github.io/tree/master/docs/thesis-de-report
 
 Alternatively, Florian Stegmaier built template (based on the
 KomaScript `scrreprt`-class):
@@ -51,7 +51,7 @@ KomaScript `scrreprt`-class):
 - [directory as zip][2]
 
 [1]:{{ site.url }}/docs/thesis-de-scrreprt/rootFile.pdf
-[2]:{{ site.url }}/docs/thesis-de-scrreprt.zip
+[2]:https://github.com/PGBBS/pgbbs.github.io/tree/master/docs/thesis-de-scrreprt
 
 ## Maintain your bibliography with BibTeX
 
