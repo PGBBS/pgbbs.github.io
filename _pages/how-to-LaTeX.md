@@ -51,7 +51,7 @@ KomaScript `scrreprt`-class):
 - [directory as zip][2]
 
 [1]:{{ site.url }}/docs/thesis-de-scrreprt/rootFile.pdf
-[2]:https://github.com/PGBBS/pgbbs.github.io/tree/master/docs/thesis-de-scrreprt
+[2]:{{ site.repo }}/docs/thesis-de-scrreprt
 
 ## Maintain your bibliography with BibTeX
 
