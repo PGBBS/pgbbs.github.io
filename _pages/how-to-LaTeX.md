@@ -47,11 +47,11 @@ Armin Gerl has provided a template for the (German) master thesis
 Alternatively, Florian Stegmaier built template (based on the
 KomaScript `scrreprt`-class):
 
-- [pdf-preview][1]
-- [directory as zip][2]
+- [pdf-preview][3]
+- [directory as zip][4]
 
-[1]:{{ site.url }}/docs/thesis-de-scrreprt/rootFile.pdf
-[2]:{{ site.repo }}/docs/thesis-de-scrreprt
+[3]:{{ site.url }}/docs/thesis-de-scrreprt/rootFile.pdf
+[4]:{{ site.repo }}/docs/thesis-de-scrreprt
 
 ## Maintain your bibliography with BibTeX
 
