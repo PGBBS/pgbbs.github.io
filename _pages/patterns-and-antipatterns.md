@@ -9,6 +9,12 @@ half refers to "AntiPatterns: Refactoring Software, Architectures, and
 Projects in Crisis". In either case, selected best-/worst-practices
 in software architecture are examined. We present a digest.
 
+# Patterns
+
+Kamran Ahmed made a
+[summary](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md)
+for humans
+
 # Antipatterns
 
 ## Not-invented-here syndrome
