@@ -17,23 +17,23 @@ then turn into evolving blogposts as below
 
 # Schedule
 
-| Date            | Topic                                                                 | MOC                |
-| ---------       | -----                                                                 | ---                |
-| 25 Aug 2016     | [Blockchain]({% post_url 2016-08-25-blockchain %})                    | Konstantin         |
-| 20 Oct 2016     | Orga (this document)                                                  |                    |
-| 27 Oct 2016     | [Privacy]({% post_url 2016-10-27-privacy %})                          | Armin              |
-| 03 Nov 2016     | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %}) | Manu               |
-| 10 Nov 2016     | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %}) | Konstantin         |
-| 17 Nov 2016     | Automatic Test Generation                                             | Andy               |
-| 22(!) Nov 2016  | LPL -- A Layered Privacy Language                                     | Armin              |
-| ~~01 Dec 2016~~ | MDPS workshop                                                         |                    |
-| 08 Dec 2016     | Brainstorming for Hackathon                                           | Thommy             |
-| 15 Dec 2016     | Hackathon                                                             | all                |
-| ~~12 Jan 2017~~ |                                                                       |                    |
-| 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                    | Armin & Konstantin |
-| 26 Jan 2017     | Elevator pitch and New Year's resolutions                             | Konstantin         |
-| 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk] | Thommy             |
-| 09 Feb 2017     | Semester-Abschluss-Powerpoint-Karaoke with Trinkspiel, Gruppenphoto   | all                |
+| Date            | Topic                                                                                         | MOC                |
+| ---------       | -----                                                                                         | ---                |
+| 25 Aug 2016     | [Blockchain]({% post_url 2016-08-25-blockchain %})                                            | Konstantin         |
+| 20 Oct 2016     | Orga (this document)                                                                          |                    |
+| 27 Oct 2016     | [Privacy]({% post_url 2016-10-27-privacy %})                                                  | Armin              |
+| 03 Nov 2016     | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %})                         | Manu               |
+| 10 Nov 2016     | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %})                         | Konstantin         |
+| 17 Nov 2016     | Automatic Test Generation                                                                     | Andy               |
+| 22(!) Nov 2016  | LPL -- A Layered Privacy Language                                                             | Armin              |
+| ~~01 Dec 2016~~ | MDPS workshop                                                                                 |                    |
+| 08 Dec 2016     | Brainstorming for Hackathon                                                                   | Thommy             |
+| 15 Dec 2016     | Hackathon                                                                                     | all                |
+| ~~12 Jan 2017~~ |                                                                                               |                    |
+| 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                                            | Armin & Konstantin |
+| 26 Jan 2017     | Elevator pitch and New Year's resolutions                                                     | Konstantin         |
+| 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]                                                           | Thommy             |
+| 09 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({%post_url 2017-01-16-ppt-karaoke %}) with Trinkspiel | all                |
 
 # topic/format incubator
 
@@ -55,31 +55,6 @@ drafted a course [Classics of Computer
 Science](https://harry-lewis.blogspot.de/2016/12/classics-of-computer-science.html?m=0)
 with 25 lectures (a 90 min.) around papers taken from this [master
 list](https://docs.google.com/spreadsheets/d/1wS6O7-ZoFL7Cfjgt-kdhYxfg0qHdXyzpjJxikiqNPZg/edit#gid=65049622).
-
-## Powerpoint Karaoke
-
-Hat tip to Christin for introducing/organizing several of these for
-MICS. Here are some guidelines
-
-### pick sildes
-- ~10 slides
-- any topic *except* for computer science (yes, these exist)
-- informative (preferably high information density, but not full of
-  formulas)
-
-### get slides at random and present
-- 10 min
-- be convincing, confident and credible
-- be serious, yet enthusiastic
-- interact with audience
-- have transitions between the slides
-- check language quality/fluency/expression/speed
-- check non-verbal expressions/body language
-- deliver the key points
-- stand your ground in the Q&A
-
-### receive feedback
-after every presentation, commenting on the points above
 
 ## trial presentation (Probevortrag)
 
