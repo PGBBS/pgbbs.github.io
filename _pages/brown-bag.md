@@ -33,7 +33,7 @@ then turn into evolving blogposts as below
 | 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                                            | Armin & Konstantin |
 | 26 Jan 2017     | Elevator pitch and New Year's resolutions                                                     | Konstantin         |
 | 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]                                                           | Thommy             |
-| 09 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({%post_url 2017-01-16-ppt-karaoke %}) with Trinkspiel | all                |
+| 09 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({%post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel | all                |
 
 # topic/format incubator
 
