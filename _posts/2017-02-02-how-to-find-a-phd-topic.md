@@ -1,6 +1,6 @@
 ---
 title: "Finding a PhD Topic and Yourself"
-layout: page
+layout: post
 ---
 
 Disclaimer: This is a purely private page of myself and not an official
