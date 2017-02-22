@@ -37,6 +37,10 @@ then turn into evolving blogposts as below
 
 # topic/format incubator
 
+- TODO implement Up/Down-Voting?
+- Tor and the Darkweb (https and .onion) at 32c3
+
+
 ## things that at least one of us would like to know/talk about
 
 - Recommender Systems (Manu)
