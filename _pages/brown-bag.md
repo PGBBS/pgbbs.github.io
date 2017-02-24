@@ -3,17 +3,30 @@ title: "Brown Bag Seminar"
 layout: page
 ---
 
-We meet every week during the lecture time for some sandwiches and
-apfelschorle -- and discuss topics on our nerdy minds. The default
-date is :
+We meet every week on :
 
     Thursday afternoon, ~18:00
 
-Every session is led by a "Master of Ceremony" (MOC), lasts for
-roughly an hour, is usually accompanied by some food (hence the name
-of the seminar). There's also always a -- more or less voluntary --
-scribe who takes notes in the form of a simple markdown-file which
-then turn into evolving blogposts as below
+for some sandwiches and apfelschorle -- and discuss topics on our
+nerdy minds. Every session is led by a "Master of Ceremony" (MOC),
+lasts for roughly an hour, and is accompanied by some food (hence the
+name of the seminar). During the last organizational meeting, we set
+the following defaults:
+- `ON` sessions take place (unless official holiday) unless canceled
+  explicitly (usually, when less than 4 people would show up)
+- `OPT-OUT` people are expected to show up or cancel by mail to the
+  mailinglist (at least 24h before the session)
+- `abstract` the MOC should send out a quick reminder/abstract the day
+  before the session
+
+By the way, the mailing-list is located at :
+
+    pgbbs AT <domain-of-our-chair>
+
+And finally, there's also always a -- more or less voluntary
+-- scribe who takes notes in the form of a simple markdown-file which
+then turn into evolving blogposts.
+
 
 # Schedule
 
@@ -35,8 +48,8 @@ then turn into evolving blogposts as below
 | 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]({% post_url 2017-02-02-how-to-find-a-phd-topic %})         | Thommy             |
 | ~~09 Feb 2017~~ |                                                                                                |                    |
 | 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel | all                |
-| 23 Feb 2017     |                                                                                                |                    |
-| 02 Mar 2017     |                                                                                                |                    |
+| 23 Feb 2017     | organizational meeting & How to write scientific English (part 1)                              | Konstantin         |
+| 02 Mar 2017     | How to write scientific English (part 2)                                                       | Konstantin         |
 | 09 Mar 2017     |                                                                                                |                    |
 | 16 Mar 2017     |                                                                                                |                    |
 | 23 Mar 2017     |                                                                                                |                    |
