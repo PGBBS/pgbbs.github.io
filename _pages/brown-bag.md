@@ -42,7 +42,12 @@ then turn into evolving blogposts as below
 | 23 Mar 2017     |                                                                                                |                    |
 | 30 Mar 2017     |                                                                                                |                    |
 
-optimal team composition: carry, support, jungler, mid, top
+optimal team composition: carry (MOC), support (scribe),
+jungler/assassin (advocatus diaboli -- that's a critic, not a pizza),
+mid, top (one of them should lead the discussion and keep time; one of
+them is next session's MOC -- TODO ask somebody with MMORPG experience
+-- on the distinction; and also which role to skip if only 4 are
+present; I guess that would be jungler for us)
 
 # Topic/Format Incubator
 
