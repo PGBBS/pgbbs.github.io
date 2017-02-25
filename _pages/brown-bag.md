@@ -42,7 +42,7 @@ then turn into evolving blogposts as below
 | 23 Mar 2017     |                                                                                                |                    |
 | 30 Mar 2017     |                                                                                                |                    |
 
-
+optimal team composition: carry, support, jungler, mid, top
 
 # Topic/Format Incubator
 
