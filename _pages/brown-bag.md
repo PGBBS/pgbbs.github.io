@@ -114,11 +114,16 @@ Selection Criteria
 - with (graded) exercises
 - with accompanying book
 
-## Rehearsal Talk
-(Probevortrag)
+## Rehearsal Talk (Probevortrag) and Paper Peer Review
 
-Before giving a presentation at a workshop/conference, here's the
-place and time to practice it and get some feedback.
+- Before giving a presentation at a workshop/conference, here's the
+  place and time to practice it and get some feedback.
+- Also, before submitting your paper to a conference, you should let
+  (some) of your colleagues peer-review it. Maybe (?) here's a place
+  to discuss a paper with the author (once)? -- Or this better done
+  one-on-one? On the other hand, this would be a format to get
+  everybody's commitment/feedback. Maybe turn it into a speed-dating
+  like paper-review?
 
 ## round table/orientation meeting
 
