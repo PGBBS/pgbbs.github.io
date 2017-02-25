@@ -102,9 +102,12 @@ usually requires weekly reading assignmests
 
 from coursera.org
 - Neural Networks by Geoffrey Hinton
-- Probabilistic Graphical Models by Daphne Koller
-- That "Paper Writing in the Sciences Course" from the medical
-  sciences
+- [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models) by Daphne Koller
+- [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+  by Daniel Romero
+- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks)
+  by Matthew O. Jackson
+- [Writing in the Sciences](http://sciwrite.class.stanford.edu/) by Kristin Sainani
 
 Selection Criteria
 - topic
