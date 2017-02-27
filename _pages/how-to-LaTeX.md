@@ -70,3 +70,6 @@ pdf's), there's [JabRef](http://jabref.sourceforge.net/).
   (introduction videos, in German)
 - [Begin LaTeX in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
   (short introduction text, in English)
+- Donald E. Knuth (1984),
+  [The TeXbook](https://www.ctex.org/documents/shredder/src/texbook.pdf)
+  (the ultimate reference on TeX -- and also fun to read)
