@@ -37,3 +37,9 @@ MICS. Here are some guidelines
 ## receive feedback
 - the audience will provide feedback w.r.t. the points above after
   every presentation. Appreciate it.
+
+## Feedback rules:
+- use the feedback sandwich: start with something positive, then something negative, end with something positive
+- goal is to eleminate [blind spots](https://en.wikipedia.org/wiki/Johari_window "Johari Window Wikipedia")
+- An inherant property of feedback is that it can be given, but it need not be accepted. For the giver: Say what you think would be helpful for the other person, what is changeable. For the receiver: Take what you need and leave the rest. Be thankful for the effort the giver made.
+- Use "I"-phrases to indicate your subjective perception of the speaker. E.g. "For me the speed of the presentation was too fast." NOT "You talk to fast."
