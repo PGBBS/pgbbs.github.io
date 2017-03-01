@@ -71,7 +71,10 @@ TODO
 - implement topic up/down-voting here?
 
 ## Selected Topics
-that at least one of us would like to know/talk about
+that at least one of us would like to know/talk about. This may be
+technical or technological. In the spirit of Matt Might's 
+[Things that every computer science major should
+know](http://matt.might.net/articles/what-cs-majors-should-know/).
 
 - Recommender Systems (Manu)
 - App-Programmierung
