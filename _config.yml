@@ -10,7 +10,7 @@
 #
 # Site settings
 title: Passau Graduate-Students' Brown Bag Seminar
-email: pgbbs AT <chair> DOT <faculty> DOT <unversity> DOT de
+email: pgbbs AT CHAIR DOT FACULTY DOT UNIVERSITY DOT de
 description: > # this means to ignore newlines until "baseurl:"
   Some computer science graduate students have a weekly get-together.
   They share food, drinks, and -- most importantly -- nerdy ideas. These are their notes.
