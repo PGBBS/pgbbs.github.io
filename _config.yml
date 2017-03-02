@@ -9,8 +9,8 @@
 # here) are given at https://help.github.com/articles/configuring-jekyll/
 #
 # Site settings
-title: Passau Graduate Student Brown Bag Seminar
-email: your-email@domain.com
+title: Passau Graduate-Students' Brown Bag Seminar
+email: pgbbs AT <chair> DOT <faculty> DOT <unversity> DOT de
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -18,7 +18,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pgbbs.github.io" # the base hostname & protocol for your site
 repo: "https://github.com/PGBBS/pgbbs.github.io/tree/master" # base for github-repo
-github_username:  pgbbs
+
+# These usernames will occur in the footer (with icons) via
+# _layouts/default.html > _includes/footer.html
+github_username: pgbbs
+github_username: zieglerk 
+twitter: kziegl
 
 # Build settings
 markdown: kramdown
@@ -33,3 +38,5 @@ permalink: /:title/
 gems:
   - jemoji
   - jekyll-sitemap
+
+
