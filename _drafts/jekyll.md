@@ -150,6 +150,11 @@ formatting to HTML.""" -- https://daringfireball.net/projects/markdown/
 Similarly, kramdown is a superset of markdown (in the first sense) and a
 Ruby library for conversion and parsing (in the second sense).
 
+There are several markdown flavors. Jekyll supports `kramdown`,
+`redcarpet`, `rdiscount`. These are all different from
+"Github-flavored markdown" (`GFM`) where the specs don't seem to be
+public. :-(
+
 # Plugins
 
 You can add functionality to Jekyll via plugins, but beware: GitHub
