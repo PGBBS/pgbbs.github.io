@@ -35,3 +35,7 @@ permalink: /:title/
 gems:
   - jemoji
   - jekyll-sitemap
+
+# choose from the Jekyll themes supported by GitHub Pages: https://pages.github.com/themes/
+theme: jekyll-theme-hacker
+# theme: jekyll-theme-architect
