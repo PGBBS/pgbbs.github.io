@@ -45,11 +45,13 @@ https://gorails.com/setup/ubuntu/14.04
   github-pages gem
 : $ gem install jekyll
 : $ gem install github-pages
+then specify in the `Gemfile` and
+: $ bundle install
 
 ## Local (pre)view
 
 preview your site at `localhost:4000`
-: $ jekyll serve
+: $ bundle exec jekyll serve
 use the option --watch to rebuild when content changes
 use the option --drafts to include posts from the (otherwise excluded)
 _draft-folder
@@ -165,4 +167,4 @@ github currently supports none.
 
 # Links
 
-Jekyll [documentation](http://jekyllrb.com/docs/home/)
+- Jekyll [documentation](http://jekyllrb.com/docs/home/)

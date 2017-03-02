@@ -3,6 +3,12 @@ title: "Brown Bag Seminar"
 layout: page
 ---
 
+{% include image.html
+            img="images/Wikimedia_Hackathon_2013%2C_Amsterdam_-_Flickr_-_Sebastiaan_ter_Burg_%2828%29.jpg"
+            title="Wikimedia Hackathon 2013, Amsterdam"
+            caption="By Sebastiaan ter Burg from Utrecht, The Netherlands (Wikimedia Hackathon 2013, Amsterdam), CC BY 2.0 (http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons"
+            url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Wikimedia_Hackathon_2013%2C_Amsterdam_-_Flickr_-_Sebastiaan_ter_Burg_%2828%29.jpg" %}
+
 We meet every week on :
 
     Thursday afternoon, ~18:00
