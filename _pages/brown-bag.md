@@ -21,7 +21,7 @@ the following defaults:
 - `ON` sessions take place (unless official holiday) unless canceled
   explicitly (usually, when less than 4 people would show up)
 - `OPT-OUT` people are expected to show up or cancel by mail to the
-  mailinglist (at least 24h before the session)
+  mailinglist (at least 24h before the sessio)n
 - `abstract` the MOC should send out a quick reminder/abstract the day
   before the session
 
