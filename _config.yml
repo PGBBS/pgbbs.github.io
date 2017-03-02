@@ -38,5 +38,5 @@ gems:
   - jekyll-sitemap
 
 # choose from the Jekyll themes supported by GitHub Pages: https://pages.github.com/themes/
-theme: jekyll-theme-hacker    # template-preview: https://pages-themes.github.io/hacker/
-# theme: jekyll-theme-architect    # template-preview: https://pages-themes.github.io/architect/
+# theme: jekyll-theme-hacker    # template-preview: https://pages-themes.github.io/hacker/
+theme: jekyll-theme-architect    # template-preview: https://pages-themes.github.io/architect/
