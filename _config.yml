@@ -14,7 +14,7 @@ email: pgbbs AT CHAIR DOT FACULTY DOT UNIVERSITY DOT de
 description: > # this means to ignore newlines until "baseurl:"
   Some computer science graduate students have a weekly get-together.
   They share food, drinks, and -- most importantly -- nerdy ideas. These are their notes.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://pgbbs.github.io" # the base hostname & protocol for your site
 repo: "https://github.com/PGBBS/pgbbs.github.io/tree/master" # base for github-repo
 
