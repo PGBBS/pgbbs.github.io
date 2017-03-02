@@ -32,3 +32,4 @@ permalink: /:title/
 # plugins
 gems:
   - jemoji
+  - jekyll-sitemap
