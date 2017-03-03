@@ -56,10 +56,10 @@ then turn into evolving blogposts.
 | 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel | all                |
 | 23 Feb 2017     | organizational meeting & How to write scientific English (part 1)                              | Konstantin         |
 | 02 Mar 2017     | How to write scientific English (part 2)                                                       | Konstantin         |
-| 09 Mar 2017     |                                                                                                |                    |
-| 16 Mar 2017     |                                                                                                |                    |
-| 23 Mar 2017     |                                                                                                |                    |
-| 30 Mar 2017     |                                                                                                |                    |
+| 09 Mar 2017     | Tor and The Dark Web                                                                           | Konstantin         |
+| 16 Mar 2017     | -1                                                                                             |                    |
+| 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                         | Manu               |
+| 30 Mar 2017     | **Celebrating 6 months of PGBBS**                                                              | all                |
 
 optimal team composition:
 - carry: MOC/speaker
