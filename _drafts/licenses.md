@@ -40,3 +40,12 @@ Access. Do it!
 
 CAVE [Abmahnungen wegen Creative
 Commons](https://netzpolitik.org/2017/neue-abmahnungen-der-cider-connection-wegen-creative-commons/)
+
+## Others
+
+The U.S. Department of State has issued an
+[Open Licensing Playbook](https://2009-2017.state.gov/r/pa/prs/ps/2017/01/267125.htm)
+(under CC0-license!) for recommendations ("plays") on publishing
+grant-supported material, especially educational. (Source:
+[Netzpolitik.org](https://netzpolitik.org/2017/kurz-vor-trump-us-aussenministerium-veroeffentlicht-playbook-fuer-einsatz-offener-lizenzen/),
+deutsch)
