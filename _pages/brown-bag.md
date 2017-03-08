@@ -61,19 +61,15 @@ then turn into evolving blogposts.
 | 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                         | Manu               |
 | 30 Mar 2017     | **Celebrating 6 months of PGBBS**                                                              | all                |
 
-optimal team composition:
-- carry: MOC/speaker
-- support: scribe
-- jungler/assassin: advocatus diaboli (that's a critic, not a pizza);
-  optional => skip if only 5
-- mid: lead the discussion and keep time -- basically the session
-  chair
-- top: take care of the food orders so that it doesn't always end up
-  on Manu's desk.
+# Roles
 
-I was also thinking of maybe somebody how "approves" the scribe's
-write-up by adding a nice Creative-Commons picture from the
-Internet. Maybe that's what the jungler should do?
+0. carry/speaker: give the presentation
+1. mid/session-chair: lead the discussion and keep time; aka the session chair
+2. top/breadwinner: pick delivery service and collect food orders
+3. support/scribe: take notes in .md-format and post/link them here
+4. jungler/reviewer: advocatus diaboli (that's a critic, not a pizza);
+   review what the scribe write and prettify it with a nice
+   Creative-Commons picture on top
 
 # Topic/Format Incubator
 
