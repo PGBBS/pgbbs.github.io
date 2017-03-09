@@ -13,11 +13,17 @@ Snowden revelations, Arabic Freedom Spring
 
 Here's a list of [people](https://www.torproject.org/about/torusers.html.en) who use Tor (and their stories). Also movie director's sometimes [do](https://pbs.twimg.com/media/B1VZHZZCMAA721i.jpg).
 
+
+foo
+
 {:toc}
+
+bar
 
 - TOC
 {:toc}
 
+bas
 
 # Tor
 
