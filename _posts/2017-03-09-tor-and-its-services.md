@@ -27,10 +27,6 @@ and onion-layer animation on blackboard
 - routes get switched regularly
 - DNS servers get switched regularly
 
-## and https
-
-Here's an animation to understand what is providing what (and what not): [Tor and HTTPS](https://www.eff.org/pages/tor-and-https)
-
 ## Ingredients
 
 - client software: Tor Browser Bundle (all platforms)
@@ -38,9 +34,11 @@ Here's an animation to understand what is providing what (and what not): [Tor an
 
 The directory of relays is public, so an adversary may block these connections. Tor [bridge relays](https://www.torproject.org/docs/bridges.html.en) aren't listed in the main Tor directory, so they may evade detection. If this doesn't work, then there's [pluggable transports](https://www.torproject.org/docs/bridges.html.en#PluggableTransports), where the traffic to the first hop is manipulated to be not (easily) identifiable as Tor connection.
 
+## and https
 
+Here's an animation to understand what is providing what (and what not): [Tor and HTTPS](https://www.eff.org/pages/tor-and-https)
 
-### Three flavors of relays
+## Three flavors of relays
 
 Middle Relays ::
 
@@ -57,6 +55,17 @@ Excerpt: Users (~1.7 mil), Relays (~7 000), Bridges (~2 500), Bandwith (~100 Gbi
 
 There a few thousand relays
 and a small number (9?) of central directory authorities, where relays need to register for announcement. The (dis)agreement of these directory authorities on the relays is visualized at http://letty.io/tor
+
+# Applications
+
+- [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) :: display "Tor circuit" in browser through onion menu
+- Orfox :: Android
+- [Ricochet](https://ricochet.im/), Tor Messenger (beta) :: (de-centralized) chat client (for OTR)
+- [Tails](https://tails.boum.org/) :: (amnesic, incognito) live operating system (built on Debian GNU/Linux)
+- [SecureDrop](https://securedrop.org/) :: whistleblower submission system; used by [The New Yorker](http://projects.newyorker.com/strongbox/), [The Intercept](https://theintercept.com/securedrop/)
+
+Library Freedom Project
+ALA, Freedom to Read Statement "Freedom itself is a dangerous way of life -- but it is ours."
 
 # Attacks/Pitfalls
 
@@ -101,24 +110,9 @@ hidden services directory
 - https://ahmia.fi/search/
 - http://thehiddenwiki.org/
 
-# Applications
-
-- [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) :: display "Tor circuit" in browser through onion menu
-- Orfox :: Android
-- [Ricochet](https://ricochet.im/), Tor Messenger (beta) :: (de-centralized) chat client (for OTR)
-- [Tails](https://tails.boum.org/) :: (amnesic, incognito) live operating system (built on Debian GNU/Linux)
-- [SecureDrop](https://securedrop.org/) :: whistleblower submission system; used by [The New Yorker](http://projects.newyorker.com/strongbox/), [The Intercept](https://theintercept.com/securedrop/)
-
-Library Freedom Project
-ALA, Freedom to Read Statement "Freedom itself is a dangerous way of life -- but it is ours."
-
-# Darknet
+## "Darknet"
 
 bad term; https: is a security measure, .onion is also one
-
-surface web (indexed by google)
-deep web (not indexed but accessible)
-dark net/web (only accessible via Tor, i.e. anonymously); most URLs end with .onion
 
 search engines:
 - [onion.city](http://onion.link/), [onion.to](https://tor2web.org/), [NotEvil](https://hss3uro2hsxfogfq.onion.to/)
