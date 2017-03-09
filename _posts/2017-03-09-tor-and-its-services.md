@@ -7,15 +7,17 @@ layout: post
 
 "Wenn du meinst, Privatsphäre ist dir egal, nur weil du nichts zu verbergen hast, kannst du genauso behaupten, Redefreiheit ist dir egal, weil du nichts zu sagen hast" -- Ed Snowden
 
-When anonymity fails, people die.
+When anonymity fails, people die. The eavesdropper "Eve" should not be "cute", but a grim reaper, see Rogaway (2015).
 
-Snowden revelations and presentation :smile:
-
-Arabic Freedom Spring
-
-on the other hand: shutting down silk road was an investigative police effort (costing money and man-power)
+Snowden revelations, Arabic Freedom Spring
 
 Here's a list of [people](https://www.torproject.org/about/torusers.html.en) who use Tor (and their stories). Also movie director's sometimes [do](https://pbs.twimg.com/media/B1VZHZZCMAA721i.jpg).
+
+{:toc}
+
+- TOC
+{:toc}
+
 
 # Tor
 
@@ -69,43 +71,40 @@ Software Engineering Institute (SEI) of Carnegie Mellon University (CMU) (origin
 
 [Why TOR failed to hide the bomb hoaxer at Harvard](http://theprivacyblog.com/anonymity/why-tor-failed-to-hide-the-bomb-hoaxer-at-harvard/) TLDR; Hoaxer used TOR and Guerrilla Mail, but was the only one on Harvard Campus connected to the TOR network while the emails were sent.
 
-## Does Tor Work? (When used properly?)
+## Does Tor Work (when used properly)?
 
 Ask the NSA (c/o Edward Snowden): [Tor stinks](https://edwardsnowden.com/docs/docs/tor-stinks-presentation.pdf)
 
 # Tor Hidden Services/Tor Onion Services
 
-Are .onion-adresses the same as hidden services?!
+ICAN gives top-level addresses -- except for .onion
+
+16-digits encoded in base32 (a-z and 2-7)
+
+hidden services = .onion-adresses
 
 Think: own/parallel DNS-system
 
-base64-encoded; hash of public-key (=> self-authenticating!)
-
-
-
-riseup.net
+hash of public-key (=> self-authenticating!); NEW not 16 char hash any more, but 52 char public-key.
 
 [wikileaks](https://wikileaks.org/wiki/WikiLeaks:Tor) has a .onion address
 
-http://suw74isz7wqzpmgu.onion/
+    http://suw74isz7wqzpmgu.onion/
 
 which only works with Tor running.
 
 hidden services directory
 
-https://ahmia.fi/search/
-
-http://thehiddenwiki.org/
+- https://ahmia.fi/search/
+- http://thehiddenwiki.org/
 
 # Applications
 
-- [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) ::
-
-display "Tor circuit" in browser through onion menu
-
+- [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) :: display "Tor circuit" in browser through onion menu
 - Orfox :: Android
-- Tor Messenger/Ricochet :: chat client (for OTR)
-- Tails
+- [Ricochet](https://ricochet.im/), Tor Messenger (beta) :: (de-centralized) chat client (for OTR)
+- [Tails](https://tails.boum.org/) :: (amnesic, incognito) live operating system (built on Debian GNU/Linux)
+- [SecureDrop](https://securedrop.org/) :: whistleblower submission system; used by [The New Yorker](http://projects.newyorker.com/strongbox/), [The Intercept](https://theintercept.com/securedrop/)
 
 Library Freedom Project
 ALA, Freedom to Read Statement "Freedom itself is a dangerous way of life -- but it is ours."
@@ -133,10 +132,7 @@ is based on hidden services
 - **Roger, Jacob, Mike Perry, Shari Steele, Alison Macrina**, [State of the Onion](https://events.ccc.de/congress/2015/Fahrplan/events/7307.html) (english), presentation at 32C3, 29 Dec 2015
 - **Annette Dittert, Daniel Moßbrucker**, [Das Darknet -- Eine Reise in die digitale Unterwelt](http://www.daserste.de/information/reportage-dokumentation/dokus/sendung/das-darknet-reise-in-die-digitale-unterwelt100.html) (german), ARD-documentary, 09 Jan 2017
 
-## Audios
-
 ## Documents
 
 - Sueddeutsche Zeitung, ["Das Darknet macht keine Waffen](http://www.sueddeutsche.de/digital/tor-netzwerk-das-darknet-macht-keine-waffen-1.3101766) (german), interview with Falk Garbsch, 31 Jul 2016
-
-Phil Rogaway: ethical implications of cryptography: grim reaper instead of Alice and Bob
+- Phillip Rogaway (2015), ["The Moral Character of Cryptographic Work"](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
