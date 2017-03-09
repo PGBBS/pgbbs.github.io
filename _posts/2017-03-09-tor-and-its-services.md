@@ -76,6 +76,10 @@ Ask the NSA (c/o Edward Snowden): [Tor stinks](https://edwardsnowden.com/docs/do
 
 # Tor Hidden Services/Tor Onion Services
 
+[Overview](https://www.torproject.org/docs/hidden-services.html.en)
+
+How much? Compare [total traffic](https://metrics.torproject.org/bandwidth.html) with [onion traffic](https://metrics.torproject.org/hidserv-rend-relayed-cells.html)
+
 ICAN gives top-level addresses -- except for .onion
 
 16-digits encoded in base32 (a-z and 2-7)
