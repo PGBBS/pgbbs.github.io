@@ -36,40 +36,43 @@ then turn into evolving blogposts.
 
 # Schedule
 
-| Date            | Topic                                                                                                 | MOC                |
-| ---------       | -----                                                                                                 | ---                |
-| 25 Aug 2016     | [Blockchain]({% post_url 2016-08-25-blockchain %})                                                    | Konstantin         |
-| 20 Oct 2016     | Orga (this document)                                                                                  |                    |
-| 27 Oct 2016     | [Privacy]({% post_url 2016-10-27-privacy %})                                                          | Armin              |
-| 03 Nov 2016     | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %})                                 | Manu               |
-| 10 Nov 2016     | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %})                                 | Konstantin         |
-| 17 Nov 2016     | Automatic Test Generation                                                                             | Andy               |
-| 22(!) Nov 2016  | LPL -- A Layered Privacy Language                                                                     | Armin              |
-| ~~01 Dec 2016~~ | MDPS workshop                                                                                         |                    |
-| 08 Dec 2016     | Brainstorming for Hackathon                                                                           | Thommy             |
-| 15 Dec 2016     | Hackathon                                                                                             | all                |
-| ~~12 Jan 2017~~ |                                                                                                       |                    |
-| 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                                                    | Armin & Konstantin |
-| 26 Jan 2017     | Elevator pitch and New Year's resolutions                                                             | Konstantin         |
-| 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]({% post_url 2017-02-02-how-to-find-a-phd-topic %})                | Thommy             |
-| ~~09 Feb 2017~~ |                                                                                                       |                    |
-| 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel        | all                |
-| 23 Feb 2017     | organizational meeting & [How to write scientific English](../how-to-write-scientific-english/) (part 1)  | Konstantin         |
-| 02 Mar 2017     | [How to write scientific English](/_pages/how-to-write-scientific-english/) (part 2)                  | Konstantin         |
-| 09 Mar 2017     | Tor and The Dark Web                                                                                  | Konstantin         |
-| 16 Mar 2017     | -1                                                                                                    |                    |
-| 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                                | Manu               |
-| 30 Mar 2017     | **Celebrating 6 months of PGBBS**                                                                     | all                |
+| Date            | Topic                                                                                          | Speaker            |
+| ---------       | -----                                                                                          | ---                |
+| 25 Aug 2016     | [Blockchain]({% post_url 2016-08-25-blockchain %})                                             | Konstantin         |
+| 20 Oct 2016     | Orga (this document)                                                                           |                    |
+| 27 Oct 2016     | [Privacy]({% post_url 2016-10-27-privacy %})                                                   | Armin              |
+| 03 Nov 2016     | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %})                          | Manu               |
+| 10 Nov 2016     | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %})                          | Konstantin         |
+| 17 Nov 2016     | Automatic Test Generation                                                                      | Andy               |
+| 22(!) Nov 2016  | LPL -- A Layered Privacy Language                                                              | Armin              |
+| ~~01 Dec 2016~~ | MDPS workshop                                                                                  |                    |
+| 08 Dec 2016     | Brainstorming for Hackathon                                                                    | Thommy             |
+| 15 Dec 2016     | Hackathon                                                                                      | all                |
+| ~~12 Jan 2017~~ |                                                                                                |                    |
+| 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                                             | Armin & Konstantin |
+| 26 Jan 2017     | Elevator pitch and New Year's resolutions                                                      | Konstantin         |
+| 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]({% post_url 2017-02-02-how-to-find-a-phd-topic %})         | Thommy             |
+| ~~09 Feb 2017~~ |                                                                                                |                    |
+| 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel | all                |
+| 23 Feb 2017     | orga & [How to write scientific English](../how-to-write-scientific-english/) (part 1)         | Konstantin         |
+| 02 Mar 2017     | [How to write scientific English](/_pages/how-to-write-scientific-english/) (part 2)           | Konstantin         |
+| 09 Mar 2017     | [Tor and Its Services]({% post_url 2017-03-09-tor-and-its-services %})                         | Konstantin         |
+| 16 Mar 2017     | -1                                                                                             |                    |
+| 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                         | Manu               |
+| 30 Mar 2017     | **Celebrating 6 months of PGBBS**                                                              | all                |
 
 # Roles
 
-0. carry/speaker: give the presentation
-1. mid/session-chair: lead the discussion and keep time; aka the session chair
-2. top/breadwinner: pick delivery service and collect food orders
-3. support/scribe: take notes in .md-format and post/link them here
-4. jungler/reviewer: advocatus diaboli (that's a critic, not a pizza);
-   review what the scribe write and prettify it with a nice
-   Creative-Commons picture on top
+- speaker (*carry*): prepare the session and give the presentation
+- session-chair (*mid*): introduce the speaker, lead the discussion, and keep time
+- breadwinner (*top*): choose a delivery service and collect food orders
+- scribe (*support*): take notes (in markdown-format) and post/link them here
+- reviewer (*jungler*): advocatus diaboli (that's a critic, not a
+   pizza); also: review what the scribe wrote and prettify it with a
+   nice Creative-Commons picture on top
+
+While the speaker/topic is determined in a democratic discusison. The
+other roles are determined by a 4-sided dice, i.e. a tetrahedron.
 
 # Topic/Format Incubator
 
@@ -87,7 +90,6 @@ know](http://matt.might.net/articles/what-cs-majors-should-know/).
 
 - Recommender Systems (Manu)
 - App-Programmierung
-- Tor and the Dark Web (https and .onion; Konstantin), see the talk at 32c3
 - public key cryptography (Konstantin, see `_drafts`)
 - Tests of (Artificial) Intelligence (e.g. in the context of
   psychology, AI in computer games)

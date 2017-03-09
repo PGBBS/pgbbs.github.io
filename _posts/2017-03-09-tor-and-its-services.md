@@ -1,7 +1,7 @@
---
+---
 title: "Tor and its services"
-layout: page
---
+layout: post
+---
 
 [A message from George Torwell](https://www.youtube.com/watch?v=c4EEa0HAqzQ)
 
@@ -23,6 +23,9 @@ Here's a list of [people](https://www.torproject.org/about/torusers.html.en) who
 
 and onion-layer animation on blackboard
 
+- routes get switched regularly
+- DNS servers get switched regularly
+
 ## and https
 
 Here's an animation to understand what is providing what (and what not): [Tor and HTTPS](https://www.eff.org/pages/tor-and-https)
@@ -40,7 +43,7 @@ The directory of relays is public, so an adversary may block these connections. 
 
 Middle Relays ::
 
-Exit Relays :: will show up as the origin of traffic from the Tor network. Lawyer up!
+Exit Relays :: will show up as the origin of traffic from the Tor network. [Lawyer up!](https://www.eff.org/torchallenge/faq.html) (also: [Legal First Aid](https://www.privacyfoundation.de/wiki/Erste-Hilfe-fuer-Torbetreiber) (german))
 
 Bridges :: not publicly listed, tools to circumvent censorship in countries that block IP addresses of publicly listed Tor relays
 
@@ -49,7 +52,7 @@ Bridges :: not publicly listed, tools to circumvent censorship in countries that
 - Raw Datasets for analysis/research at [CollecTor](https://collector.torproject.org/)
 - Performance/Usage metrics derived from them at [TorMetrics](https://metrics.torproject.org/)
 
-Excepert: Users (~1.7 mil), Relays (~7 000), Bridges (~2 500), Bandwith (~100 Gbit/s)
+Excerpt: Users (~1.7 mil), Relays (~7 000), Bridges (~2 500), Bandwith (~100 Gbit/s)
 
 There a few thousand relays
 and a small number (9?) of central directory authorities, where relays need to register for announcement. The (dis)agreement of these directory authorities on the relays is visualized at http://letty.io/tor
@@ -73,6 +76,8 @@ Ask the NSA (c/o Edward Snowden): [Tor stinks](https://edwardsnowden.com/docs/do
 # Tor Hidden Services/Tor Onion Services
 
 Are .onion-adresses the same as hidden services?!
+
+Think: own/parallel DNS-system
 
 base64-encoded; hash of public-key (=> self-authenticating!)
 

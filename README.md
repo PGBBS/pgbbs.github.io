@@ -29,3 +29,9 @@ let's document the technology and steps to get this site online
   easier distribution/reproducibility). On the next `bundle install`
   these (stricter) requirements will be used (instead of Gemfile's)
 - Jekyll :: a static site generator written in Ruby
+
+## Jekyll
+
+
+
+## Markdown
