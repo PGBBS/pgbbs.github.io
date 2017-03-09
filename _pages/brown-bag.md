@@ -54,8 +54,8 @@ then turn into evolving blogposts.
 | 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]({% post_url 2017-02-02-how-to-find-a-phd-topic %})                | Thommy             |
 | ~~09 Feb 2017~~ |                                                                                                       |                    |
 | 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel        | all                |
-| 23 Feb 2017     | organizational meeting & [How to write scientific English](how-to-write-scientific-english/) (part 1) | Konstantin         |
-| 02 Mar 2017     | [How to write scientific English](/how-to-write-scientific-english/) (part 2)                         | Konstantin         |
+| 23 Feb 2017     | organizational meeting & [How to write scientific English](../how-to-write-scientific-english/) (part 1)  | Konstantin         |
+| 02 Mar 2017     | [How to write scientific English](/_pages/how-to-write-scientific-english/) (part 2)                  | Konstantin         |
 | 09 Mar 2017     | Tor and The Dark Web                                                                                  | Konstantin         |
 | 16 Mar 2017     | -1                                                                                                    |                    |
 | 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                                | Manu               |
