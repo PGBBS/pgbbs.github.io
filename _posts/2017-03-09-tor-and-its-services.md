@@ -3,7 +3,7 @@ title: "Tor and its services"
 layout: post
 ---
 
-[A message from George Torwell](https://www.youtube.com/watch?v=c4EEa0HAqzQ)
+[![A message from George Torwell](https://img.youtube.com/vi/c4EEa0HAqzQ/0.jpg)](https://www.youtube.com/watch?v=c4EEa0HAqzQ)
 
 "Wenn du meinst, Privatsphäre ist dir egal, nur weil du nichts zu verbergen hast, kannst du genauso behaupten, Redefreiheit ist dir egal, weil du nichts zu sagen hast" -- Ed Snowden
 
@@ -11,7 +11,8 @@ When anonymity fails, people die. The eavesdropper "Eve" should not be "cute", b
 
 Snowden revelations, Arabic Freedom Spring
 
-Here's a list of [people](https://www.torproject.org/about/torusers.html.en) who use Tor (and their stories). Also movie director's sometimes [do](https://pbs.twimg.com/media/B1VZHZZCMAA721i.jpg).
+Here's a list of [people](https://www.torproject.org/about/torusers.html.en) who use Tor (and their stories). Also movie directors sometimes [do](https://pbs.twimg.com/media/B1VZHZZCMAA721i.jpg).
+
 
 
 foo
