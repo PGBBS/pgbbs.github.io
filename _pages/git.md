@@ -104,10 +104,34 @@ commit not all of your changes (but only some who fit logically well
 together); maybe you're without internet connection (and thus can't push), but still want to "freeze" the current
 state.
 
+## Best Practices
+
+- Don't put (external) dependencies in version control
+- Don't put (binary) output in version control (use GitLFS or
+  pre-/post-commit hooks)
+- Use gitignore-files; here are
+  [templates](https://github.com/github/gitignore)
+- [Single Source of
+  Truth](https://en.wikipedia.org/wiki/Single_source_of_truth) is not a
+  git-principle, but applies whenever you are tempted to start "just
+  another file on the side" -- Why not continue/modify a given one. It's
+  all version controlled!
+
+## Pro Tips
+ 
+- be faster with [git bash
+  completion](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+- get more information with a [git
+  prompt](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+
+
+
 ## Further Reading
 
 - Read the [intro of the
   documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- Do this [tutorial](https://try.github.io/levels/1/challenges/1)
+- Do this interactive 15-min.
+  [tutorial](https://try.github.io/levels/1/challenges/1) (beginner
+  level)
 - Here's an exemplary
   [workflow](http://nvie.com/posts/a-successful-git-branching-model/)
