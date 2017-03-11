@@ -32,6 +32,8 @@ let's document the technology and steps to get this site online
 
 ## Jekyll
 
-
-
 ## Markdown
+
+## Issues/TODOs
+
+Do we need a LICENSE file?
