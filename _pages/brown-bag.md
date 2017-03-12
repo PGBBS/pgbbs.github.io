@@ -60,8 +60,7 @@ then turn into evolving blogposts.
 | 16 Mar 2017     | -1                                                                                             |                    |
 | 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                         | Manu               |
 | 30 Mar 2017     | **Celebrating 6 months of PGBBS**                                                              | all                |
-
-Sun, 16 Jul 2017 GoT S07E01
+| Sun, 16 Jul 2017| Winter is Coming | |
 
 # Roles
 
