@@ -30,3 +30,9 @@ meet basic scientific standards.
 Matt Might has a nice
 [illustration](http://matt.might.net/articles/phd-school-in-pictures/)
 of the relation between Bachelor, Master and PhD thesis.
+
+# Four short comments on writing papers by Kent Beck (thanks to Andy)
+
+[link](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)
+
+with a very concise four-sentence template for a good abstract
