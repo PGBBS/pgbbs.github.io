@@ -9,7 +9,7 @@
 # here) are given at https://help.github.com/articles/configuring-jekyll/
 #
 # Site settings
-title: Passau Graduate-Students' Brown Bag Seminar
+title: Passau Grad Students Brown Bag Seminar
 email: pgbbs AT \<domain-of-our-chair\>
 description: > # this means to ignore newlines until "baseurl:"
   Some computer science graduate students have a weekly get-together.
