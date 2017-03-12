@@ -68,30 +68,26 @@ floor. The office is held by [Annemarie Gertler-Weber](http://www.fim.uni-passau
 
 # APPENDIX Taxi in Passau
 
-Taxis in Passau are organized within the [Taxi
-Zentrale](http://taxi-zentrale-passau.de/).
+Taxis in Passau are organized within the [Taxi Zentrale](http://taxi-zentrale-passau.de/).
 
 # APPENDIX Places to visit in/around Passau
 
 After a long and productive week you're hopefully looking
 forward to a refreshing weekend in (and around) the Bavarian
-forest. The University maintains a website with suggestions
-for excursions (unfortunately in only German):
-
-http://www.uni-passau.de/studium/campus-und-kultur/freizeittipps/
+forest. The University maintains a [website with suggestions
+for
+excursions](http://www.uni-passau.de/studium/campus-und-kultur/freizeittipps/) (unfortunately in only German):
 
 You can enjoy a panorama view of Passau from two angles
 (i.e. restaurants)
-- Restaurant Oberhaus:
-http://www.dasoberhaus.com/en/welcome.html
-- Cafe Blas: http://www.freinberg.at/blaas/
+- [Restaurant Oberhaus](http://www.dasoberhaus.com/en/welcome.html)
+- [Cafe Blas](http://www.freinberg.at/blaas/)
 
-If you have a bike, then Schärding on the river Inn is an
-attractive destination:
-http://schaerding.at/sehens_erlebenswertes/index.htm On the
-route to Schärding (or back or both), you may be tempted to
-stop in Wernheim for some "cidre" at
-http://mostausschankuntererinn.gemeindeausstellung.at/home
+If you have a bike, then
+[Schärding](http://schaerding.at/sehens_erlebenswertes/index.htm) on the river Inn is an
+attractive destination. On the route to Schärding (or back or both), you may be tempted to
+[stop in Wernheim for some
+"cidre"](http://mostausschankuntererinn.gemeindeausstellung.at/home).
 
 - [Donauradweg](www.donauradweg.at)
 - [Bicycle routes around Passau](http://www.passauer-land.de/category/freizeitaktivitaeten/aktiv/radfahren/)
@@ -118,14 +114,10 @@ A guided tour will/should take you to the following places
 
 - [peb](http://www.passauer-erlebnisbad.de) indoor and outdoor, sauna
 - [Rottal Terme](http://www.rottal-terme.de) thermal spring
--
-  [Naturfreibad Thyrnau](http://www.thyrnau.de/freizeit-und-tourismus/freizeitmoeglichkeiten/naturfreibad.html)
+- [Naturfreibad Thyrnau](http://www.thyrnau.de/freizeit-und-tourismus/freizeitmoeglichkeiten/naturfreibad.html)
   (10 km)
-- [Eginger See](http://www.eging.de/index.php/touristik/eginger-see)
-(30 km) Naturbadesee
--
-  [Stausee Oberilzmühle](www.bayerischer-wald.de/Media/Attraktionen/Stausee-Oberilzmühle)
-  (8 km)
+- [Eginger See](http://www.eging.de/index.php/touristik/eginger-see) (30 km) Naturbadesee
+- [Stausee Oberilzmühle](www.bayerischer-wald.de/Media/Attraktionen/Stausee-Oberilzmühle) (8 km)
 - [Lauf- und Bewegungspark "Unterer Inn"](http://www.neuhaus-inn.de)
 - [Motorikpark Ingling](http://www.passau.de/LebeninPassau/SportundFreizeit/MotorikparkIngling.aspx)
 - [Trimm-Dich-Pfad Kohlbruck](http://www.passau.de/LebeninPassau/SportundFreizeit/Lauf--Nordic-Walking-Strecken.aspx)
