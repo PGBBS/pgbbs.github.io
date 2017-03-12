@@ -36,3 +36,11 @@ of the relation between Bachelor, Master and PhD thesis.
 [link](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html)
 
 with a very concise four-sentence template for a good abstract
+
+# Michael Granitzer has some advice on 
+
+- [how to write your
+  thesis](http://www.fim.uni-passau.de/en/media-computer-science/teaching/thesis/thesis-guide/)
+- [how to write a paper and software
+  frameworks](http://www.fim.uni-passau.de/en/media-computer-science/teaching/resources/)
+- 
