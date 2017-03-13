@@ -112,6 +112,10 @@ at the 16th Heidelberg Laureate Forum.
 - There's also the [Papers We Love](http://paperswelove.org/)
 repository.
 
+## Programming Pearls
+
+Jon Bentley has a column http://bit.ly/2ikzqSE
+
 ## Reading Group
 (a classic format)
 
