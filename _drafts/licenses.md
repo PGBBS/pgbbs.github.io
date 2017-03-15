@@ -1,4 +1,5 @@
 ---
+title: "Licencses with a special emphasis on Creative Commons"
 layout: post
 ---
 
@@ -7,6 +8,10 @@ layout: post
 At the top of my head, my first choice is GPLv2 omitting the clause "and later
 versions" (like the Linux kernel, because the GPLv3 seems like a real
 SNAFU).
+
+Some people opt for the/an (?) Apache License, because it's suppossed to
+be better compatible with commercial interests. (Source?) Question:
+which is better compatible with scientific interests?
 
 # Text and Images
 
@@ -27,6 +32,8 @@ source on flickr))
 
 Source:
 https://netzpolitik.org/2016/creative-commons-lizenzierte-bilder-die-fuenf-haeufigsten-fehler-bei-der-weiternutzung/
+
+## 
 
 ## VG Wort et al
 
