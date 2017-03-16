@@ -11,12 +11,13 @@ layout: page
    colleagues if you want to join -- or initiate one.
 3. Introduce yourself to the admin `admin@dimis.fim.uni-passau.de` who
    is your contact point for any hardware/software/IT-solutions.
-   - you should be added to the chair's mailinglist
+   - Ask him to add your email to the chair's mailinglist
      `lehrstuhl@dimis.fim.uni-passau.de` or
      `mics@dimis.fim.uni-passau.de`, respectively.
-   - He should also add
-     you to the `dimis`-group on LDAP for access to the
-     file-/compute-server.
-4. Prof. Granitzer's group has a Jour Fixe meeting :
+   - Ask him to add your user to the `dimis`-group on LDAP to access
+     all our file-/compute-servers.
+4. Finally, Prof. Granitzer's group has a Jour Fixe meeting :
 
-    every monday, 12:00-14:00 @ZMK, 111a
+    on every monday, 12:00-14:00 @ZMK, 111a
+
+See you there and welcome again. :smile:
