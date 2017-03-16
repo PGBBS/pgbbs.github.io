@@ -18,6 +18,6 @@ layout: page
      all our file-/compute-servers.
 4. Finally, Prof. Granitzer's group has a Jour Fixe meeting :
 
-      on every monday, 12:00-14:00 @ZMK, 111a
+    every monday, 12:00-14:00 @ZMK, 111a
 
 See you there and welcome again. :smile:
