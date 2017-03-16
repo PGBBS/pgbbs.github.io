@@ -12,7 +12,7 @@ layout: page
 3. Introduce yourself to the admin `admin@dimis.fim.uni-passau.de` who
    is your contact point for any hardware/software/IT-solutions. If
    you are part of the scientific staff ("wiss. Mitarbeiter"), then
-   then also:
+   also:
    - Ask him to add your email to the chair's mailinglist
      `lehrstuhl@dimis.fim.uni-passau.de` or
      `mics@dimis.fim.uni-passau.de`, respectively.
