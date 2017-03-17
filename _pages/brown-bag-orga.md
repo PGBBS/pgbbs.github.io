@@ -33,6 +33,8 @@ And finally, there's also always a -- more or less voluntary
 -- scribe who takes notes in the form of a simple markdown-file which
 then turn into evolving blogposts.
 
+And here's our [opening
+theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 
 # Schedule
 
