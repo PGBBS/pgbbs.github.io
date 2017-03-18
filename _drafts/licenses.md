@@ -56,3 +56,8 @@ The U.S. Department of State has issued an
 grant-supported material, especially educational. (Source:
 [Netzpolitik.org](https://netzpolitik.org/2017/kurz-vor-trump-us-aussenministerium-veroeffentlicht-playbook-fuer-einsatz-offener-lizenzen/),
 deutsch)
+
+# APPENDIX Open Source/Free Software Communities
+
+Github is hosting some [guides](https://opensource.guide/) also linking
+to a license chooser.
