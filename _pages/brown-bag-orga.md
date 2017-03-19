@@ -166,3 +166,8 @@ if we do more, then we should provide feedback:
   - ... One point that really caught my attention was:" (dig deeper)
  or
  - ... We should really write a paper about:" (joint paper title)
+
+## What else:
+
+- LaserTag
+- EscapeRoom
