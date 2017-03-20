@@ -36,3 +36,15 @@ Short and very readable easy on the (im)proper use of language. Applies to scien
 > v. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 >
 > vi. Break any of these rules sooner than say anything outright barbarous.
+
+# References
+
+## Nonfiction writing
+
+- William Strunk Jr. and E. B. White (2009), The Elements of Style,
+  4th edition
+- William Zinsser (2006), On Writing Well, 7th edition
+
+## Math/Computer Science writing
+
+## Thesis/Paper writing
