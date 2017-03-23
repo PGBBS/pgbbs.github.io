@@ -20,9 +20,9 @@ Here's a list of [people](https://www.torproject.org/about/torusers.html.en) who
 
 # Tor
 
-[overview](https://www.torproject.org/about/overview.html.en) with *the* three pictures from EFF.
+In short Tor is a network of servers that tries to improve privacy on the internet by redirecting encrypted traffic over virtual tunnels. By using Tor internet surveilance techniques like simple traffic analysis can be made harder or in practice impossible. A common data packet sent over the internet is split in the payload and the header. The payload contains the content of the data packet, while the header is used for enrollment. By looking into the payload anyone observing the traffic can extract all the information of the communication. This risk can be reduced by encrypting the payload. This is for example done in HTTPS. Unfortunatly the header can't be obfuscated in the same way because it is needed for routing the packet to the right receiver. By analyzing the header third parties are able to extract information about who communicated with whom, the time of communication and size of the sent data.
 
-and onion-layer animation on blackboard
+This [overview](https://www.torproject.org/about/overview.html.en) link gives an introdcution to the functionality of the Tor network by text and three pictograms released by the [Electronic Frontier Foundation](https://www.eff.org/de).
 
 - routes get switched regularly
 - DNS servers get switched regularly
@@ -59,7 +59,8 @@ and a small number (9?) of central directory authorities, where relays need to r
 # Applications
 
 - [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) :: display "Tor circuit" in browser through onion menu
-- Orfox :: Android
+- Orfox :: The Tor Browser for Android
+- Orbot :: Enabling Tor network for other applications in Android
 - [Ricochet](https://ricochet.im/), Tor Messenger (beta) :: (de-centralized) chat client (for OTR)
 - [Tails](https://tails.boum.org/) :: (amnesic, incognito) live operating system (built on Debian GNU/Linux)
 - [SecureDrop](https://securedrop.org/) :: whistleblower submission system; used by [The New Yorker](http://projects.newyorker.com/strongbox/), [The Intercept](https://theintercept.com/securedrop/)

@@ -35,6 +35,7 @@ wrap-up, everybody then picked one of the points that Knuth mentions:
 * Konstantin: "I pick Rule 13 which is based on the observation that
   '[m]any readers will skim over formulas on their first reading of
   your exposition'. I've also made this observation for myself."
+* Thomas: "Personally I liked Rule 20 best. One reason for this is the style it is written in. The maxims can be hard to understand because they are guidlines and bad examples breaking these guidelines in a single sentence. A counter-example in itself. Discussing eagerly, these maxims were analyzed by the seminar. Each part of this rule, had their own bit of wittiness and made me think about grammar more than I normally like to. It relayed its messages about grammar in a clear and smart way."  
 
 # Correct Punctutation
 
