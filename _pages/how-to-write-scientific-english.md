@@ -9,8 +9,7 @@ or on a technical (LaTeX) level.
 * TOC-placeholder-line
 {:toc}
 
-# from Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1987),
-  [Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
+# from Donald E. Knuth, Tracy Larrabee, and Paul M. Roberts (1987), [Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 
 We went over the first section (pp. 3--8) together. As a
 wrap-up, everybody then picked one of the points that Knuth mentions:
