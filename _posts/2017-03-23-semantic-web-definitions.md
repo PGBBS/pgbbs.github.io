@@ -1,4 +1,7 @@
-# Linked Data? Web of Data? Semantic Web? WTF?*
+---
+title: "Semantics of Linked Data, Web of Data and Semantic Web?"
+layout: post
+---
 
 - Web of People / Web of Data / Web of Things
 - Linked Data
