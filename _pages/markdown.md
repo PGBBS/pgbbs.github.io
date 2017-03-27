@@ -44,7 +44,17 @@ print_hi('Tom')
 {% endhighlight %}
 
 
-## Software: Editor for Markdown
+## Software: Editors with markdown support
 
-- Windows: [MarkdownPad](http://markdownpad.com/) has a free and paid version
-- and then, of course, the usual suspects: Vim, Emacs, Atom
+- [MarkdownPad](http://markdownpad.com/) (Windows only) has a free and paid
+  version
+- [Atom](https://atom.io/) (Linux, MacOS, Windows) is a free editor
+  with great github-integration and
+  [markdown preview](https://atom.io/packages/markdown-preview)
+- [MacDown](http://macdown.uranusjr.com/) (MacOS only) is free
+  markdown editor with preview
+- and then, of course, the usual suspects: Vim, Emacs
+
+The previews are limited to the markdown-syntax and do not extend to
+the jekyll/liquid-blocks. To preview the latter, you need to locally
+run and serve jekyll.
