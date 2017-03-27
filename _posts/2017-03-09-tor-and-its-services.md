@@ -5,7 +5,7 @@ layout: post
 
 {:refdef: style="text-align: center;"}
 [![A message from George Torwell](https://img.youtube.com/vi/c4EEa0HAqzQ/0.jpg)](https://www.youtube.com/watch?v=c4EEa0HAqzQ)
-{: refdef}
+{:refdef}
 
 "Wenn du meinst, Privatsphäre ist dir egal, nur weil du nichts zu verbergen hast, kannst du genauso behaupten, Redefreiheit ist dir egal, weil du nichts zu sagen hast" -- Ed Snowden
 
@@ -22,13 +22,13 @@ Tor is used by Journalists all around the world to enable privacy of themselves 
 
 # Tor
 
-In short Tor is a network of servers that tries to improve privacy on the internet by redirecting encrypted traffic over virtual tunnels. By using Tor internet surveilance techniques like simple traffic analysis can be made harder or in practice impossible. A common data packet sent over the internet is split in the payload and the header. The payload contains the content of the data packet, while the header is used for enrollment. By looking into the payload anyone observing the traffic can extract all the information of the communication. This risk can be reduced by encrypting the payload. This is for example done in HTTPS. Unfortunatly the header can't be obfuscated in the same way because it is needed for routing the packet to the right receiver. By analyzing the header third parties are able to extract information about who communicated with whom, the time of communication and size of the sent data.
+In short Tor is a network of servers that tries to improve privacy on the internet by redirecting encrypted traffic over virtual tunnels. By using Tor, internet surveillance techniques like simple traffic analysis can be made much harder or even impossible. A common data packet sent over the internet is split in the payload and the header. The payload contains the content of the data packet, while the header is used for enrollment. By looking into the payload, anyone observing the traffic can extract all the information of the communication. This risk can be reduced by encrypting the payload. This is for example done in HTTPS. Unfortunatly the header can't be obfuscated in the same way because it is needed for routing the packet to the right receiver. By analyzing the header, third parties are able to extract information about who communicated with whom, the time of communication, and the size of the sent data.
 
 This [overview](https://www.torproject.org/about/overview.html.en) link gives an introdcution to the functionality of the Tor network by text and three pictograms released by the [Electronic Frontier Foundation](https://www.eff.org/de).
 
-Tor creates private network pathways to make it harder to locate the sender of a data packet. This is archieved by starting the communication with an randomly chosen and from here iteratively extend the path one hop at a time. Idividual relays can't see further in the path than one step of communication. Each relay knows only the sender of the last hop and the reciever of the next.
+Tor creates private network pathways to make it harder to locate the sender of a data packet. This is achieved by starting the communication with a randomly chosen starting point. From here, the path is iteratively extended one hop at a time. Individual relays can't see further in the path than one step of communication. Each relay knows only the sender of the last hop and the receiver of the next.
 
-Directory servers are hereby used to track the IPs of all voluntarily participating nodes in the Tor network. They are asked by the client to yield an entry point to the network. There are currently 9 directory servers feeding the Tor network. The client can switch between DNS servers and entry points and therefore distribute it's actions even more. Regular switching of routes makes it harder to use timing based and similar information to pinpoint communications.
+Directory servers are hereby used to track the IPs of all voluntarily participating nodes in the Tor network. They are asked by the client to yield an entry point to the network. There are currently 9 directory servers feeding the Tor network. The client can switch between DNS servers and entry points and therefore distribute it's actions even more. Regular switching of routes makes it harder to pinpoint communications.
 
 - routes get switched regularly
 - DNS servers get switched regularly
@@ -41,7 +41,7 @@ Directory servers are hereby used to track the IPs of all voluntarily participat
             caption="CC BY 2.0 (http://creativecommons.org/licenses/by/2.0), via flickr.com"
             url="https://www.flickr.com/photos/g4ll4is/8521624548/" %}
 
-These are the ingredients for the tor network:
+These are the ingredients for the Tor network:
 
 - directory servers
 - network of relays (~8 000), also called nodes or routers
@@ -54,7 +54,7 @@ The directory of relays is public, so an adversary may block these connections. 
 
 ## Tor and https
 
-Tor is used to obfuscated the header information and https is used to obfuscated the content.
+Tor is used to obfuscate the header information and HTTPS is used to obfuscate the content.
 
 Here's an animation to understand what is providing what (and what not): [Tor and HTTPS](https://www.eff.org/pages/tor-and-https)
 
