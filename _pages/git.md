@@ -12,12 +12,13 @@ When working together, we will sooner or later produce something
 
 - centralized (DEPRECATED): owncloud, Dropbox (~5 GB), Google Drive (~15 GB), Novell Filr
   via UPassau's ZIM (~600 MB, mounted as `H:/`)
-- distributed: [Resilio Sync](http://getsync.com) (formerly: Bittorrent
-  Sync), [Syncthing](https://syncthing.net/)
+- distributed: [Syncthing](https://syncthing.net/) (free and
+  open-source, OUR CHOICE), [Resilio Sync](http://getsync.com)
+  (proprietary, formerly: Bittorrent Sync)
 
-# Sourcesharing
+# Sourcesharing aka git
 
-- public:
+## public hosts
 
   | host                               | public | private       | size limit                         | groups           |
   |------------------------------------+--------+---------------+------------------------------------+------------------|
@@ -27,7 +28,10 @@ When working together, we will sooner or later produce something
 
   Untested alternative: [Savannah](https://savannah.gnu.org)
 
-- private: [local gitlab](https://gitlab.dimis.uni-passau.de); your `localhost`
+## private hosts
+
+- [local gitlab](https://gitlab.dimis.uni-passau.de)
+- `localhost`
 
 ## Setup
 
@@ -44,7 +48,6 @@ copy it to the settings.)
 4. Clone your project.
 
 ### GUIs for git
-
 
 If you don't want/like to interact via the command line, the git-webpage maintains an extensive list of [GUI
 clients](https://git-scm.com/downloads/guis).
@@ -118,13 +121,11 @@ state.
   all version controlled!
 
 ## Pro Tips
- 
+
 - be faster with [git bash
   completion](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
 - get more information with a [git
   prompt](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
-
-
 
 ## Further Reading
 
