@@ -68,7 +68,7 @@ This should follow the "Don't repeat yourself" (DRY) principle.
 
 - Nobody knows a killer app for Semantic Web - Only data sources are created
 - Everyone is implementing own Ontologies - DRY principle is disobeyed
-- Nobody wants invest for mapping data if there is no recognizable benefit
+- Nobody invests for mapping data if there is no recognizable benefit
 
 # LOD Cloud Diagram (2011)
 ![alt text](http://compgen.de/userfiles/images/2000px-LOD_Cloud_Diagram_as_of_September_2011.svg.png
