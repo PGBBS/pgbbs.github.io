@@ -3,6 +3,9 @@ title: "Newbie Guide to MICS/DIMIS"
 layout: page
 ---
 
+0. Most forms are in German. The
+   [international office](http://www.uni-passau.de/en/international/)
+   of our cosmopolitan university will kindly help with a translation.
 1. Introduce yourself to the secretaries and ask where your (postal)
    mail will arrive. It is your responsibility to check it regularly.
 2. Introduce yourself to your colleagues (with some cookies or

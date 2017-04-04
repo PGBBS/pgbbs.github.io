@@ -61,8 +61,15 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 09 Mar 2017     | [Tor and Its Services]({% post_url 2017-03-09-tor-and-its-services %})                         | Konstantin         |
 | 16 Mar 2017     | -1                                                                                             |                    |
 | 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                         | Manu               |
-| 30 Mar 2017     | **Celebrating 6 months of PGBBS**                                                              | all                |
-| Sun, 16 Jul 2017| Winter is Coming | |
+| 30 Mar 2017     | **Celebrating 6 months of PGBBS** with a games night                                           | all                |
+| 6 Apr 2017      | Armin Paper Presentation Workshop                                                              |                    |
+| 13 Apr 2017     | Eiersuchen                                                                                     |                    |
+| 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                            |                    |
+| 27 Apr 2017     | Lasertag Tactical Meeting                                                                      |                    |
+| May             |                                                                                                |                    |
+| 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
+
+
 
 # Roles
 
