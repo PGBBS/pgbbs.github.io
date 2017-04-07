@@ -36,7 +36,7 @@ When working together, we will sooner or later produce something
 ## Setup
 
 Github has its own
-[tutorial](https://guides.github.com/activities/hello-world/).
+[tutorial](https://guides.github.com/activities/hello-world/). There is also a [tutorial by BitBucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud).
 
 1. Get a bitbucket/github/gitlab-account. In the latter case, send and
 email to your adivsor, because he has to manually "activate" your
