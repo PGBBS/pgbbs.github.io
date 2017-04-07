@@ -62,7 +62,7 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 |                 | **Mar**                                                                                        |                    |
 | 02 Mar 2017     | [How to write scientific English](/_pages/how-to-write-scientific-english/) (part 2)           | Konstantin         |
 | 09 Mar 2017     | [Tor and Its Services]({% post_url 2017-03-09-tor-and-its-services %})                         | Konstantin         |
-| ~~16 Mar 2017~~ | _under-staffed_ (due to holidays)                                                                |                    |
+| ~~16 Mar 2017~~ | _under-staffed_ (due to holidays)                                                              |                    |
 | 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                         | Manu               |
 | 30 Mar 2017     | Games Night                                                                                    | all                |
 |                 | **Apr**                                                                                        |                    |
@@ -74,11 +74,6 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 |                 | **Jun**                                                                                        |                    |
 |                 | **Jul**                                                                                        |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
-|                 | **Aug**                                                                                        |                    |
-|                 | **Sep**                                                                                        |                    |
-|                 | **Oct**                                                                                        |                    |
-|                 | **Nov**                                                                                        |                    |
-|                 | **Dec**                                                                                        |                    |
 
 
 
