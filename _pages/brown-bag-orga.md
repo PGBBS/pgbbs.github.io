@@ -50,24 +50,35 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | ~~01 Dec 2016~~ | MDPS workshop                                                                                  |                    |
 | 08 Dec 2016     | Brainstorming for Hackathon                                                                    | Thommy             |
 | 15 Dec 2016     | Hackathon                                                                                      | all                |
+| **Jan**         |                                                                                                |                    |
 | ~~12 Jan 2017~~ |                                                                                                |                    |
 | 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                                             | Armin & Konstantin |
 | 26 Jan 2017     | Elevator pitch and New Year's resolutions                                                      | Konstantin         |
+| **Feb**         |                                                                                                |                    |
 | 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]({% post_url 2017-02-02-how-to-find-a-phd-topic %})         | Thommy             |
 | ~~09 Feb 2017~~ |                                                                                                |                    |
 | 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel | all                |
 | 23 Feb 2017     | orga & [How to write scientific English](../how-to-write-scientific-english/) (part 1)         | Konstantin         |
+| **Mar**         |                                                                                                |                    |
 | 02 Mar 2017     | [How to write scientific English](/_pages/how-to-write-scientific-english/) (part 2)           | Konstantin         |
 | 09 Mar 2017     | [Tor and Its Services]({% post_url 2017-03-09-tor-and-its-services %})                         | Konstantin         |
-| 16 Mar 2017     | -1                                                                                             |                    |
+| ~~16 Mar 2017~~ | under-staffed                                                                                  |                    |
 | 23 Mar 2017     | SWTF (Semantic Web, Linked Data and the Whole Shebang)                                         | Manu               |
-| 30 Mar 2017     | **Celebrating 6 months of PGBBS** with a games night                                           | all                |
-| 6 Apr 2017      | Armin Paper Presentation Workshop                                                              |                    |
-| 13 Apr 2017     | Eiersuchen                                                                                     |                    |
+| 30 Mar 2017     | Games night in celebration of 6 months PGBBS                                                   | all                |
+| **Apr**         |                                                                                                |                    |
+| 6 Apr 2017      | Armin Paper Presentation Workshop                                                              | Armin              |
+| 13 Apr 2017     | Eiersuchen                                                                                     | Steffi (?)         |
 | 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                            |                    |
 | 27 Apr 2017     | Lasertag Tactical Meeting                                                                      |                    |
-| May             |                                                                                                |                    |
+| **May**         |                                                                                                |                    |
+| **Jun**         |                                                                                                |                    |
+| **Jul**         |                                                                                                |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
+| **Aug**         |                                                                                                |                    |
+| **Sep**         |                                                                                                |                    |
+| **Oct**         |                                                                                                |                    |
+| **Nov**         |                                                                                                |                    |
+| **Dec**         |                                                                                                |                    |
 
 
 
