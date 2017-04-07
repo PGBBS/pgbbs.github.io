@@ -75,7 +75,10 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 
 - speaker (*carry*): prepare the session and give the presentation
 - session-chair (*mid*): introduce the speaker, lead the discussion, and keep time
-- breadwinner (*top*): choose a delivery service and collect food orders
+- breadwinner (*top*): choose a delivery service, like
+  [1](http://passau.suborder.de/) or
+  [2](https://pizza.de/lieferservice/passau/restaurant-der-pizzaservice-passau-dr-hans-kapfinger-str-302/36052/),
+  and collect food orders
 - scribe (*support*): take notes (in markdown-format) and post/link them here
 - reviewer (*jungler*): advocatus diaboli (that's a critic, not a
    pizza); also: review what the scribe wrote and prettify it with a
