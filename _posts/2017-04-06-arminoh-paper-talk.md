@@ -3,8 +3,10 @@ title: "Cut it down! - Towards Awesome Paper(s)"
 layout: post
 ---
 
+{:refdef: style="text-align: center;"}
 ![alt text](https://i0.wp.com/funlexia.com/wp-content/uploads/2012/08/Do-you-accept-the-terms-and-conditions.jpg?fit=464%2C339
 "I accept all terms and conditions! ALWAYS!")
+{:refdef}
 
 # "I accept all terms and conditions! ALWAYS!"
 
