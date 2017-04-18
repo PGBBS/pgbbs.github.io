@@ -23,6 +23,12 @@ key features
 - distributed
 - "trustless", i.e. w/o trusted third party
 
+## Further Reading
+
+- Vinay Gupta, [A Brief History of
+  Blockchain](https://hbr.org/2017/02/a-brief-history-of-blockchain), 28
+  Feb 2017
+
 ## Example 1: Bitcoin
 
 visit Bitcoin's [blockchain](https://blockchain.info/)

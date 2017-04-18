@@ -76,12 +76,14 @@ After a long and productive week you're hopefully looking
 forward to a refreshing weekend in (and around) the Bavarian
 forest. The University maintains a [website with suggestions
 for
-excursions](http://www.uni-passau.de/studium/campus-und-kultur/freizeittipps/) (unfortunately in only German):
+excursions](http://www.uni-passau.de/studium/campus-und-kultur/freizeittipps/)
+(unfortunately only in German). Also, the city has a monthly
+[magazine](http://www.pastaonline.de/) (unfortunately also only in German).
 
 You can enjoy a panorama view of Passau from two angles
 (i.e. restaurants)
 - [Restaurant Oberhaus](http://www.dasoberhaus.com/en/welcome.html)
-- [Cafe Blas](http://www.freinberg.at/blaas/)
+- [Cafe Blaas](http://www.freinberg.at/blaas/)
 
 If you have a bike, then
 [Schärding](http://schaerding.at/sehens_erlebenswertes/index.htm) on the river Inn is an
@@ -121,6 +123,7 @@ A guided tour will/should take you to the following places
 - [Lauf- und Bewegungspark "Unterer Inn"](http://www.neuhaus-inn.de)
 - [Motorikpark Ingling](http://www.passau.de/LebeninPassau/SportundFreizeit/MotorikparkIngling.aspx)
 - [Trimm-Dich-Pfad Kohlbruck](http://www.passau.de/LebeninPassau/SportundFreizeit/Lauf--Nordic-Walking-Strecken.aspx)
+- [Pilgrimage Church Mariahilf](http://www.mariahilf-passau.de/en/)
 
 ## Events
 
@@ -128,5 +131,7 @@ A guided tour will/should take you to the following places
   for music and (mostly political) cabaret since 1977
 - At [Youexit](https://www.youexit.de/), you and your friends can play
   an "exit game". This means, that you will be locked up in a thematic room full of puzzles
-  which you have to solve in order to escape. (Our current record for the "Invasion" room stands at 35'.)
+  which you have to solve in order to escape. (Our current record for
+  the "Invasion" room stands at 35'.)
+- [LaserTag Arena Passau](https://de-de.facebook.com/LaserTag-Arena-Passau-734413493368568/)
 - [Theater im Fürstbischöflichen Opernhaus Passau](http://www.landestheater-niederbayern.de/content/stadttheater-passau)

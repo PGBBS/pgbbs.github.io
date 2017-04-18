@@ -55,6 +55,8 @@ clients](https://git-scm.com/downloads/guis).
 - [SourceTree](https://www.sourcetreeapp.com/) (Mac & Windows)
 - [Github Desktop](https://desktop.github.com/) (Mac & Windows)
 - [TortoiseGit](https://tortoisegit.org/) (Windows)
+- [GitKraken](https://www.gitkraken.com/) (Linux, Mac & Windos;
+  UNTESTED)
 
 Field Report (git with gui on windows): Tried SourceTree at first and it
 worked reasonably well, but I found the interface bloated (for our
