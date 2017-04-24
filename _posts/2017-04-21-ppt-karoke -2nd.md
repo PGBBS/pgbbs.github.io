@@ -24,8 +24,8 @@ To round our session a game of activity has been started which has also been att
 
 The line-up for the teams has been:
 
- - Team 1: Armin and Steffi
- - Team 2: Manu, Thomas and Matthias
+ - Team 1: Armin and Steffi aka. Team Arffi
+ - Team 2: Manu, Thomas and Matthias aka. Team Mamas
 
 The two teams have been fighting hard for the victory.
 One Expression after another has been described, painted or mimiced from each team.
