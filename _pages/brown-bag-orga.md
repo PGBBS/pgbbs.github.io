@@ -71,6 +71,7 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke | Thommy |
 | 27 Apr 2017     | Lasertag Tactical Meeting                                                                      |                    |
 |                 | **May**                                                                                        |                    |
+| 18 May 2017     | Guest-Speaker Talk, topic to be added | Angelika |
 |                 | **Jun**                                                                                        |                    |
 |                 | **Jul**                                                                                        |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
