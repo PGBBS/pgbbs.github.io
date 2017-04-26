@@ -67,11 +67,11 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 30 Mar 2017     | Games Night                                                                                    | all                |
 |                 | **Apr**                                                                                        |                    |
 | 6 Apr 2017      | Armin Paper Presentation Workshop                                                              | Armin              |
-| 13 Apr 2017     | Eiersuchen                                                                                     | Steffi          |
-| 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke | Thommy |
-| 27 Apr 2017     | Lasertag Tactical Meeting                                                                      |                    |
+| 13 Apr 2017     | Eiersuchen                                                                                     | Steffi             |
+| 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                            | Thommy             |
+| 27 Apr 2017     | Lasertag Tactical Meeting & May Orga                                                           | Manu               |
 |                 | **May**                                                                                        |                    |
-| 18 May 2017     | Guest-Speaker Talk, topic to be added | Angelika |
+| 18 May 2017     | Guest-Speaker Talk, topic to be added                                                          | Angelika           |
 |                 | **Jun**                                                                                        |                    |
 |                 | **Jul**                                                                                        |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
