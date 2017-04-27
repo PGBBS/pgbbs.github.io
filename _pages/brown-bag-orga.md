@@ -69,16 +69,16 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 6 Apr 2017      | Armin Paper Presentation Workshop                                                              | Armin              |
 | 13 Apr 2017     | Eiersuchen                                                                                     | Steffi             |
 | 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                            | Thommy             |
-| 27 Apr 2017     | Lasertag Tactical Meeting & May Orga                                                           | Manu               |
+| 27 Apr 2017     | [Lasertag Tactical Meeting]({% post_url 2017-04-27-lasertag %}) & May Orga                     | Manu               |
 |                 | **May**                                                                                        |                    |
 | 04 May 2017     | Deep Learning for commercial use/LaTeX-Hero                                                    | Konstantin         |
 | 11 May 2017     | Games Night                                                                                    | all                |
 | 18 May 2017     | Guest-Speaker Talk, topic to be added                                                          | Angelika           |
-| 25 May 2017     | _Christi Himmelfahrt_                                                                          |                    |
+| ~~25 May 2017~~     | _Christi Himmelfahrt_                                                                          |                    |
 |                 | **Jun**                                                                                        |                    |
 | 01 Jun 2017     |                                                                                                |                    |
 | 08 Jun 2017     |                                                                                                |                    |
-| 15 Jun 2017     | _Fronleichnam_                                                                                 |                    |
+| ~~15 Jun 2017~~     | _Fronleichnam_                                                                                 |                    |
 | 22 Jun 2017     | w/o Konstantin                                                                                 |                    |
 | 29 Jun 2017     |                                                                                                |                    |
 |                 | **Jul**                                                                                        |                    |
