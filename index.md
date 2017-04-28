@@ -6,7 +6,7 @@ layout: default
    img="images/ITZ-banner.jpg"
    title="ITZ from north"
    author="by Konstantin Ziegler"
-   license="<a href="http://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>"
+   license="foo CC BY-SA 2.0"
    url="https://www.fim.uni-passau.de/en/distributed-information-systems/"
 %}
 
