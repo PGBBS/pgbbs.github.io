@@ -20,7 +20,8 @@ layout: default
   "Pages" below).
 
   For more details, see the
-  <a href="{{_pages/brown-bag-orga | prepend: site.baseurl }}">organizational page</a> of the seminar or a get a first impression of the latest topics in the following list.
+  <a href="_pages/brown-bag-orga">organizational page</a> of the seminar or a get a first
+  impression of the latest topics in the following list or [here](./_pages/brown-bag-orga).
 
 <h2 class="page-heading">Last Three Sessions</h2>
 
