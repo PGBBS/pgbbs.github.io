@@ -19,30 +19,25 @@ layout: default
   we refer to (and are asked for) regularly (think: "How to ...?", see
   "Pages" below).
 
-  <h2 class="page-heading">Last Three Sessions</h2>
+  For more details, see the
+  [organizational page](_pages/brown-bag-orga) of the seminar or a get
+  a first impression of the latest topics in the following list
 
-  <ul>
-    {% for post in site.posts offset:0 limit:3 %}
-      <li>
-      {{ post.date | date: "%b %-d, %Y" }} &raquo; <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h2 class="page-heading">Last Three Sessions</h2>
+<h2 class="page-heading">Last Three Sessions</h2>
 
 <ul class="post-list">
     {% for post in site.posts offset:0 limit:3 %}
       <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend:
-    site.baseurl }}">{{ post.title }}</a> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        </h2>
+        <h3>
+          <span class="post-meta">{{
+    post.date | date: "%-d %b %Y" }}</span> <a class="post-link" href="{{ post.url | prepend:
+    site.baseurl }}">{{ post.title }}</a>
+        </h3>
       </li>
     {% endfor %}
   </ul>
 
-  <h2 class="page-heading">Pages</h2>
+<h2 class="page-heading">Pages</h2>
 
   <ul class="pages-list">
     {% for page in site.pages %}
