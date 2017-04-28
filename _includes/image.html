@@ -7,8 +7,8 @@
     {% if include.url %}
     </a>
     {% endif %}
-    {% if include.caption %}
-    <p class="image-caption">{{ include.caption }}
+    {% if include.author %}
+    <p class="image-caption">by {{ include.author }}
       {% if include.license %}
       , {{ include.license }}
       {% endif %}
