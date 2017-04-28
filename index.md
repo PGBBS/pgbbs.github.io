@@ -24,7 +24,7 @@ layout: default
   <ul>
     {% for post in site.posts offset:0 limit:3 %}
       <li>
-      &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%b %-d, %Y" }} &raquo; <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       </li>
     {% endfor %}
   </ul>
