@@ -10,8 +10,8 @@
 
     {% if include.author %}
       <p class="image-caption">by {{ include.author }}
-{% if include.license %}
-,       {% if include.license-url %}
+{% if include.license %},
+       {% if include.license-url %}
         <a href="{{ include.license-url }}" target="_blank">
         {% endif %}
         {{ include.license }}
