@@ -2,6 +2,13 @@
 layout: default
 ---
 
+{% include image.html
+            img="images/ITZ-banner.jpg"
+            title="ITZ from north"
+            caption="by Konstantin Ziegler, CC BY-SA 2.0
+            (http://creativecommons.org/licenses/by-sa/2.0)"
+            url="https://www.fim.uni-passau.de/en/distributed-information-systems/" %}
+
 # Welcome
 
   Welcome to this collection of bits and pieces by some (not so
