@@ -19,13 +19,22 @@ layout: default
   we refer to (and are asked for) regularly (think: "How to ...?", see
   "Pages" below).
 
+  <h1 class="page-heading">Last Three Sessions</h1>
+
+  <ul>
+    {% for post in site.posts offset:0 limit:3 %}
+      <li>
+      &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
+<ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
