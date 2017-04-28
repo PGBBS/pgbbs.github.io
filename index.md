@@ -4,10 +4,11 @@ layout: default
 
 {% include image.html
    img="images/ITZ-banner.jpg"
-   title="ITZ from north"
-   author="by Konstantin Ziegler"
-   license="foo CC BY-SA 2.0"
    url="https://www.fim.uni-passau.de/en/distributed-information-systems/"
+   title="ITZ from north"
+   author="Konstantin Ziegler"
+   license="CC BY-SA 2.0"
+   license-url="http://creativecommons.org/licenses/by-sa/2.0"
 %}
 
 # Welcome
