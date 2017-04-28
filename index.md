@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+# Welcome
 
   Welcome to this collection of bits and pieces by some (not so
   random) Passau Graduate Students. They are technically built from a
@@ -19,12 +19,11 @@ layout: default
   we refer to (and are asked for) regularly (think: "How to ...?", see
   "Pages" below).
 
-  For more details, see the <a
-  href="_pages/brown-bag-orga">organizational page</a> of the seminar
-  or a get a first impression of the latest topics in the following
-  list.
+  For more details, see the
+  [organizational page](./_pages/brown-bag-orga) of the seminar or a
+  get a first impression of the latest topics in the following list.
 
-<h2 class="page-heading">Last Three Sessions</h2>
+## Last Three Sessions
 
 <ul class="post-list">
     {% for post in site.posts offset:0 limit:3 %}
@@ -38,7 +37,7 @@ layout: default
     {% endfor %}
   </ul>
 
-<h2 class="page-heading">Pages</h2>
+## Pages
 
   <ul class="pages-list">
     {% for page in site.pages %}
@@ -51,7 +50,3 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
-
-[foo](./_pages/brown-bag-orga)
