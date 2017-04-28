@@ -5,8 +5,9 @@ layout: default
 {% include image.html
    img="images/ITZ-banner.jpg"
    title="ITZ from north"
-   caption="by Konstantin Ziegler, **CC BY-SA 2.0**"
-   url="https://www.fim.uni-passau.de/en/distributed-information-systems/" %}
+   caption="by Konstantin Ziegler, <em>CC BY-SA 2.0</em>"
+   url="https://www.fim.uni-passau.de/en/distributed-information-systems/"
+%}
 
 # Welcome
 
