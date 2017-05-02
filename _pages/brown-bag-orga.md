@@ -73,6 +73,7 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 |                 | **May**                                                                                        |                    |
 | 18 May 2017     | Guest-Speaker Talk, topic to be added | Angelika |
 |                 | **Jun**                                                                                        |                    |
+| 29 Jun 2017     | Guest-Speaker Talk, PhD talk, topic to be added | Julia |
 |                 | **Jul**                                                                                        |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
 
