@@ -34,6 +34,18 @@ There are plenty of [alternatives](https://en.wikipedia.org/wiki/Comparison_of_T
 - [Texmaker](http://www.xm1math.net/texmaker/) (Linux, Mac OS X,
   Windows); CONTRA: seems to be superseded by TeXStudio
 
+## Testing the installation
+
+a minimal latex document contains :
+
+    \documentclass{article}
+
+    \begin{document}
+    Hello world!
+    \end{document}
+
+Save the 5 lines above as `minimal.tex`, open it with the editor and compile.
+
 # Write LaTeX
 
 Armin Gerl has provided a template for the (German) master thesis
