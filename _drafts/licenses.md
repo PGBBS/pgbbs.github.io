@@ -36,7 +36,9 @@ and then locally store a medium sized version in `image` and set the
 Source:
 https://netzpolitik.org/2016/creative-commons-lizenzierte-bilder-die-fuenf-haeufigsten-fehler-bei-der-weiternutzung/
 
-## 
+## My Choice
+
+For texts and images, we use CC BY-SA. (Alternatively, CC BY.)
 
 ## VG Wort et al
 
