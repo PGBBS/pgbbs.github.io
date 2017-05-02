@@ -83,7 +83,7 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 08 Jun 2017     |                                                                                                |                    |
 | ~~15 Jun 2017~~ | _Fronleichnam_                                                                                 |                    |
 | 22 Jun 2017     | w/o Konstantin                                                                                 |                    |
-| 29 Jun 2017     |                                                                                                |                    |
+| 29 Jun 2017     | Guest-Speaker PhD Talk, topic to be added                                                                                            | Julia              |
 |                 | **Jul**                                                                                        |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
 
