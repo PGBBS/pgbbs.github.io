@@ -72,4 +72,3 @@ This is a purely private endeavor and not an official
 publication of our employer or the university. The views and advice
 presented here are therefore completely nonbinding -- in any
 direction. Use at your own risk. :-)
-

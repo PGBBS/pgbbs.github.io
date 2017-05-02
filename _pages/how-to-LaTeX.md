@@ -3,12 +3,6 @@ title: How to write your thesis (in LaTeX)
 layout: page
 ---
 
-
-Disclaimer: This is a purely private page of myself and not an official
-publication of my employer. The views and advice presented here are
-therefore completely nonbinding -- in any direction. Use at your own
-risk. :-)
-
 # Install LaTeX
 
 You will need LaTeX-distribution and an editor.
@@ -20,18 +14,25 @@ For the former, the most popular is
 - [TeX Live](https://www.tug.org/texlive/) (Linux, Windows) by
   the TeX User Group
 - [MacTeX](http://www.tug.org/mactex/) (Mac OS) by the TeX User Group
-- MiKTeX (Windows only)
+- [MiKTeX](https://miktex.org/download) (Windows only)
+
+
 
 ## LaTeX-editors
 
-For the latter, any text editor will do, but you might also want some
-IDE-functionality
+In theory, any text editor will do the job. In practice, you probably
+want syntax highlighting and some IDE-functionality. Here are our top
+recommendations:
 
-- [TeXStudio](http://www.texstudio.org) (Linux, Mac OS X, Windows)
+- on Windows: [TeXStudio](http://www.texstudio.org) (Linux, Mac OS X, Windows)
+- on MacOS: [TeXPad](http://www.texpadapp.com) (Mac OS X)
+- on Linux: Emacs with [AucTeX](https://www.gnu.org/software/auctex/)
+
+There are plenty of [alternatives](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors):
+- [Lyx](http://www.lyx.org/) (Linux, Mac OS X, Windows); CONTRA:
+  do you really need your own file format .lyx?!
 - [Texmaker](http://www.xm1math.net/texmaker/) (Linux, Mac OS X,
-  Windows)
-- [TeXPad](http://www.texpadapp.com) (Mac OS X)
-- ... and of course: Emacs with AucTeX
+  Windows); CONTRA: seems to be superseded by TeXStudio
 
 # Write LaTeX
 
