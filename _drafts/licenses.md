@@ -27,13 +27,18 @@ and how to mention the source, when you modify them (i.e. generate
 derivative work)
 
 An example that I saw as image-caption:
-<Title> (CC BY-SA 2.0 (linked to license) by <author> (linked to
-source on flickr))
+
+    <Title> (CC BY-SA 2.0 (linked to license) by <author> (linked to source on flickr))
+
+and then locally store a medium sized version in `image` and set the
+`url` attribute to the flickr-share-link.
 
 Source:
 https://netzpolitik.org/2016/creative-commons-lizenzierte-bilder-die-fuenf-haeufigsten-fehler-bei-der-weiternutzung/
 
-## 
+## My Choice
+
+For texts and images, we use CC BY-SA. (Alternatively, CC BY.)
 
 ## VG Wort et al
 

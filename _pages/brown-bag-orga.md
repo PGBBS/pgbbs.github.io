@@ -4,10 +4,13 @@ layout: page
 ---
 
 {% include image.html
-            img="images/Wikimedia_Hackathon_2013%2C_Amsterdam_-_Flickr_-_Sebastiaan_ter_Burg_%2828%29.jpg"
-            title="Wikimedia Hackathon 2013, Amsterdam"
-            caption="By Sebastiaan ter Burg from Utrecht, The Netherlands (Wikimedia Hackathon 2013, Amsterdam), CC BY 2.0 (http://creativecommons.org/licenses/by/2.0), via Wikimedia Commons"
-            url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Wikimedia_Hackathon_2013%2C_Amsterdam_-_Flickr_-_Sebastiaan_ter_Burg_%2828%29.jpg" %}
+   img="images/hackathon.jpg"
+   url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Wikimedia_Hackathon_2013%2C_Amsterdam_-_Flickr_-_Sebastiaan_ter_Burg_%2828%29.jpg"
+   title="Wikimedia Hackathon 2013, Amsterdam"
+   author="Sebastiaan ter Burg from Utrecht, The Netherlands via Wikimedia Commons"
+   license="CC BY 2.0"
+   license-url="http://creativecommons.org/licenses/by/2.0"
+%}
 
 We meet every week on :
 
@@ -67,22 +70,29 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 30 Mar 2017     | Games Night                                                                                    | all                |
 |                 | **Apr**                                                                                        |                    |
 | 6 Apr 2017      | Armin Paper Presentation Workshop                                                              | Armin              |
-| 13 Apr 2017     | Eiersuchen                                                                                     | Steffi          |
-| 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke | Thommy |
-| 27 Apr 2017     | Lasertag Tactical Meeting                                                                      |                    |
+| 13 Apr 2017     | Eiersuchen                                                                                     | Steffi             |
+| 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                            | Thommy             |
+| 27 Apr 2017     | [Lasertag Tactical Meeting]({% post_url 2017-04-27-lasertag %}) & May Orga                     | Manu               |
 |                 | **May**                                                                                        |                    |
-| 18 May 2017     | Guest-Speaker Talk, topic to be added | Angelika |
+| 04 May 2017     | Deep Learning for commercial use/LaTeX-Hero                                                    | Konstantin         |
+| 11 May 2017     | Games Night                                                                                    | all                |
+| 18 May 2017     | Guest-Speaker Talk, topic to be added                                                          | Angelika           |
+| ~~25 May 2017~~ | _Christi Himmelfahrt_                                                                          |                    |
 |                 | **Jun**                                                                                        |                    |
-| 29 Jun 2017     | Guest-Speaker Talk, PhD talk, topic to be added | Julia |
+| 01 Jun 2017     |                                                                                                |                    |
+| 08 Jun 2017     |                                                                                                |                    |
+| ~~15 Jun 2017~~ | _Fronleichnam_                                                                                 |                    |
+| 22 Jun 2017     | w/o Konstantin                                                                                 |                    |
+| 29 Jun 2017     |                                                                                                |                    |
 |                 | **Jul**                                                                                        |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
-
-
 
 # Roles
 
 - speaker (*carry*): prepare the session and give the presentation
-- session-chair (*mid*): introduce the speaker, lead the discussion, and keep time
+- session-chair (*mid*): introduce the speaker, stick to the
+  agenda/lead the discussion, and keep time (we start on time, we
+  finish on time)
 - breadwinner (*top*): choose a delivery service, like
   [1](http://passau.suborder.de/),
   [2](https://pizza.de/lieferservice/passau/restaurant-der-pizzaservice-passau-dr-hans-kapfinger-str-302/36052/),
@@ -91,8 +101,10 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
   and collect food orders
 - scribe (*support*): take notes (in markdown-format) and post/link them here
 - reviewer (*jungler*): advocatus diaboli (that's a critic, not a
-   pizza); also: review what the scribe wrote and prettify it with a
-   nice Creative-Commons picture on top
+   pizza); review what the scribe wrote (content and style, also: add
+   links of necessary, e.g. from the orga's schedule) and prettify it
+   with a nice Creative-Commons picture on top (don't forget the
+   license)
 
 While the speaker/topic is determined in a democratic discusison. The
 other roles are determined by a 4-sided dice, i.e. a tetrahedron.

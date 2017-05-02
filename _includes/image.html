@@ -7,7 +7,17 @@
     {% if include.url %}
     </a>
     {% endif %}
-    {% if include.caption %}
-        <p class="image-caption">{{ include.caption }}</p>
+
+    {% if include.author %}
+      <p class="image-caption">Image by {{ include.author }}{% if include.license %},
+       {% if include.license-url %}
+        <a href="{{ include.license-url }}" target="_blank">
+        {% endif %}
+        {{ include.license }}
+        {% if include.license-url %}
+        </a>
+        {% endif %}
+      {% endif %}
+      </p>
     {% endif %}
 </div>

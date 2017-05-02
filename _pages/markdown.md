@@ -5,6 +5,22 @@ layout: page
 
 We use Markdown as markup-language (with file-extension .md). Here's a
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+(Historical) Development: Markdown was initially specified by John
+Gruber in 2004 (inspired by the syntax used in emails).  He provided a
+description of the language and a perl-converter from markdown-text to
+valid XHTML.
+
+The original markdown hasn't been updated since its initial release in
+2004, but several variants have popped up.
+- [kramdown](https://kramdown.gettalong.org/) (also a Ruby-converter,
+  e.g. used in this Jekyll blog)
+- CommonMark, a standardization effort with extensive specs and plenty
+  of implementations
+- [GitHub Flavored Markdown](https://github.github.com/gfm/) (GFM), now also
+  specified (based on CommonMark) and the default rendering of your
+  README.md in a github-project
+
 More specifically, we use markdown's
 [kramdown](http://kramdown.gettalong.org/syntax.html)-flavor. Sometimes,
 the Liquid processing might interpret some markdown incorrectly (e.g.
