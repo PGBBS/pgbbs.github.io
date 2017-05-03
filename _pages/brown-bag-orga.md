@@ -199,6 +199,11 @@ if we do more, then we should provide feedback:
  or
  - ... We should really write a paper about:" (joint paper title)
 
+## Presentation Skills
+
+- PowerPointKaraoke
+- [PechaKucha](http://en.wikipedia.org/wiki/PechaKucha)
+
 ## Hour of Hacking
 
 - QR-codes for our office windows, see
