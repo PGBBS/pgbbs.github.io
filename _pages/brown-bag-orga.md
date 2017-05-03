@@ -199,7 +199,14 @@ if we do more, then we should provide feedback:
  or
  - ... We should really write a paper about:" (joint paper title)
 
-## What else:
+## Hour of Hacking
 
-- LaserTag
+- QR-codes for our office windows, see
+  http://github.com/henryk/QRtistry
+- bring a [Code for Germany](https://codefor.de/projekte/) project to
+  Passau (or at least Niederbayern)
+
+## Excursion
+
+- LaserTag Arena
 - EscapeRoom
