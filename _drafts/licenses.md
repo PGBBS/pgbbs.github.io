@@ -3,6 +3,37 @@ title: "Licencses with a special emphasis on Creative Commons"
 layout: post
 ---
 
+Meta-Diclaimer: This topic is a legal mine field, so please keep our disclaimer in mind.
+
+There's usually two angles
+1. use (e.g. in a presentation/collection)
+2. modification (adaptation/remix)
+For one example, some software licenses allow the use, but not the
+modification of software. For another example, some image licenses
+require any modification (remix) to be released under a similar license.
+
+
+We discuss licensing in the context of
+1. text and images (also: audios and videos)
+2. software
+
+# Use Case: use somebody else's CC-picture in your blog
+
+We are using, but not remixing other people's work. (This may change,
+when you want to issue a "printed" version of your blog?!)
+
+All CC-licenses are OK
+
+An example that I saw as image-caption:
+
+    <Title> (CC BY-SA 2.0 (linked to license) by <author> (linked to source on flickr))
+
+and then locally store a medium sized version in `image` and set the
+`url` attribute to the flickr-share-link.
+
+
+
+
 # Software
 
 At the top of my head, my first choice is GPLv2 omitting the clause "and later
@@ -21,20 +52,16 @@ written.)
 
 Examples for CC-license
 
-http://wiki.creativecommons.org/wiki/Best_practices_for_attribution
-
 and how to mention the source, when you modify them (i.e. generate
 derivative work)
 
-An example that I saw as image-caption:
-
-    <Title> (CC BY-SA 2.0 (linked to license) by <author> (linked to source on flickr))
-
-and then locally store a medium sized version in `image` and set the
-`url` attribute to the flickr-share-link.
-
 Source:
 https://netzpolitik.org/2016/creative-commons-lizenzierte-bilder-die-fuenf-haeufigsten-fehler-bei-der-weiternutzung/
+
+
+## Use Case: publish a text/image of your own on the internet
+
+
 
 ## My Choice
 
