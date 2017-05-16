@@ -6,7 +6,7 @@ layout: page
 Disclaimer: This is a purely private page of myself and not an official
 publication of my employer. The views and advice presented here are
 therefore completely nonbinding -- in any direction. Use at your own
-risk. :-)
+risk. :smile:
 
 This document addresses the content and style of your thesis. The
 technical (typographical) parts are addressed in the related document on
@@ -37,10 +37,20 @@ of the relation between Bachelor, Master and PhD thesis.
 
 with a very concise four-sentence template for a good abstract
 
-# Michael Granitzer has some advice on 
+# Advice: start with the title, introduction and table of contents
+Then update as you move along
+
+"You may change your itinerary in the middle of the voyage, but you
+will modify that itinerary, and not no itinerary." -- Umberto Eco, How
+To Write A Thesis
+
+# Advice: Make a mess, then clean up.
+aka "Puke on the paper." (Thanks Isma!)
+
+# Michael Granitzer has some advice on
 
 - [how to write your
   thesis](http://www.fim.uni-passau.de/en/media-computer-science/teaching/thesis/thesis-guide/)
 - [how to write a paper and software
   frameworks](http://www.fim.uni-passau.de/en/media-computer-science/teaching/resources/)
-- 
+-
