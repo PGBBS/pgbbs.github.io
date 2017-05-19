@@ -3,19 +3,8 @@ title: "Python"
 layout: page
 ---
 
-# Books
-- Swaroop, [A Byte of Python](https://python.swaroopch.com/), CC-BY-SA.
-  (Free pdf and epub download, audience: programming beginners)
-- Allen B. Downey, [Think
-  Python](http://greenteapress.com/wp/think-python-2e/), 2nd edition,
-  2015. (Cave: 1st edition uses python2. Free pdf and html download,
-  sample code available on webpage and github, audience: python
-  beginners with programming experience)
-
-# Free Online Courses
-- Codecademy's [Python track](https://www.codecademy.com/learn/python)
-- Udacity's [Intro to Computer
-  Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
-
-# Exercises/Generic Projects
-- Karan Goel's [Mega Project List](https://github.com/karan/Projects)
+We do most of our coding in [Python](https://www.python.org). We've
+assembled a small repository of
+[coding tutorials](https://github.com/zieglerk/python-tutorials) to
+introduce you to Python. This repository also contains links to other
+useful resources (books, online courses, coding challenges).
