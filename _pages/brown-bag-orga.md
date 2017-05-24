@@ -74,18 +74,20 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                            | Thommy             |
 | 27 Apr 2017     | [Lasertag Tactical Meeting]({% post_url 2017-04-27-lasertag %}) & May Orga                     | Manu               |
 |                 | **May**                                                                                        |                    |
-| 04 May 2017     | Deep Learning for commercial use/LaTeX-Hero                                                    | Konstantin         |
+| 04 May 2017     | [Deep Learning for commercial use]                                                             | Konstantin         |
 | 11 May 2017     | Games Night                                                                                    | all                |
-| 18 May 2017     | Guest-Speaker Talk, topic to be added                                                          | Angelika           |
+| 18 May 2017     | dynamics, networks, and the future                                                             | Angelika           |
 | ~~25 May 2017~~ | _Christi Himmelfahrt_                                                                          |                    |
 |                 | **Jun**                                                                                        |                    |
-| 01 Jun 2017     |                                                                                                |                    |
-| 08 Jun 2017     |                                                                                                |                    |
+| 01 Jun 2017     | ITZ-Lasertag-Finals: Lehrstuhl Lehner vs. Lehrstuhl Kosch                                      | all                |
+| 08 Jun 2017     | ?LaTeX-Hero?                                                                                   |                    |
 | ~~15 Jun 2017~~ | _Fronleichnam_                                                                                 |                    |
 | 22 Jun 2017     | w/o Konstantin                                                                                 |                    |
-| 29 Jun 2017     | Guest-Speaker PhD Talk, topic to be added                                                                                            | Julia              |
+| 29 Jun 2017     | Guest-Speaker PhD Talk, topic to be added                                                      | Julia              |
 |                 | **Jul**                                                                                        |                    |
 | 16(!) Jul 2017  | Winter is Coming                                                                               |                    |
+
+[Deep Learning for commercial use]: http://www.jctt.cz/cz/vsechny-novinky/item/802-tiskova-zprava-ke-konani-konference-znalostni-a-technologicky-transfer-inovacni-region-jizni-cechy-dolni-bavorsko
 
 # Roles
 
