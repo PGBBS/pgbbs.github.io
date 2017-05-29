@@ -76,7 +76,19 @@ A text editor is sufficient to maintain one's .bib-file, but if you
 prefer some GUI (which might for example also link to the corresponding
 pdf's), there's [JabRef](http://jabref.sourceforge.net/).
 
+see
+[tex-stackexchange](https://tex.stackexchange.com/questions/143/what-are-good-sites-to-find-citations-in-bibtex-format)
+for a list of sources for bibtex-entries
+
+## Draw beautiful inline graphics with TikZ
+
+see
+[tex-stackexchange](https://tex.stackexchange.com/questions/42611/list-of-available-tikz-libraries-with-a-short-introduction)
+for a list of libraries
+
 ## Help
+
+### General
 
 - [LaTeX
   Basics](https://www.youtube.com/playlist?list=PLuyjaM3Uz-oOS7zcMFaROwrg83KBR1Sui)
@@ -86,3 +98,14 @@ pdf's), there's [JabRef](http://jabref.sourceforge.net/).
 - Donald E. Knuth (1984),
   [The TeXbook](https://www.ctex.org/documents/shredder/src/texbook.pdf)
   (the ultimate reference on TeX -- and also fun to read)
+
+### Specific
+
+- [Detexify](http://detexify.kirelabs.org/classify.html) by Philipp
+  Kühl and Daniel Kirsch to reverse-lookup the LaTeX-command for that
+  math-symbol for which you don't know the name
+- [Beamer Theme Matrix](https://hartwork.org/beamer-theme-matrix/) to
+  visualize combinations of themes (rows) and color themes (columns)
+- Advice on
+  [Data Presentation/Visualization](https://github.com/IEEE-SB-Passau/latex-data-presentation)
+  with LaTeX by Stephan Lukasczyk
