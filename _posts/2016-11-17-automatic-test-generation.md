@@ -17,7 +17,7 @@ implementation of embedded database
 goal: qualification (for certification of the complete system)
 but: coding constraints
 
-Fun facton avionics certification: toilets and fly-by-wire have the same security level. :-)
+Fun facton avionics certification: toilets and fly-by-wire have the same security level. :smile:
 
 # Development approaches
 
@@ -44,3 +44,7 @@ key idea:
 
 Demo-Time
 - Meta-Modell in Sys-ML using domain-specific language (DSL): typ-model, daten-model, configuration-model (may be provided by non-experts)
+
+# Reference
+
+**Andreas Wölfl, Norbert Siegmund, Sven Apel, Harald Kosch, Johann Krautlager, and Guillermo Weber-Urbina**. [Generating Qualifiable Avionics Software: An Experience Report](http://www.infosun.fim.uni-passau.de/cl/publications/docs/WSA+15.pdf). In Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE), pages 726--736. IEEE Computer Society, November 2015.
