@@ -1,5 +1,5 @@
 ---
-title: "Source- and File-sharing"
+title: "Version-Control (via Git) and File-Sharing (via Syncthing)"
 layout: page
 ---
 
@@ -114,8 +114,8 @@ state.
 - Don't put (external) dependencies in version control
 - Don't put (binary) output in version control (use GitLFS or
   pre-/post-commit hooks)
-- Use gitignore-files; here are
-  [templates](https://github.com/github/gitignore)
+- Use gitignore-files, e.g. for paper-repositories ([LaTeX](https://github.com/github/gitignore/blob/master/TeX.gitignore)),
+  code-repositories ([Python](https://github.com/github/gitignore/blob/master/Python.gitignore)), and [others](https://github.com/github/gitignore)
 - [Single Source of
   Truth](https://en.wikipedia.org/wiki/Single_source_of_truth) is not a
   git-principle, but applies whenever you are tempted to start "just
