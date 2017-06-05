@@ -149,6 +149,12 @@ is based on hidden services
 - **Roger, David Goulet, asn**, [Tor onion services: more useful than you think](https://events.ccc.de/congress/2015/Fahrplan/events/7322.html) (english), presentation at 32C3, 29 Dec 2015
 - **Roger, Jacob, Mike Perry, Shari Steele, Alison Macrina**, [State of the Onion](https://events.ccc.de/congress/2015/Fahrplan/events/7307.html) (english), presentation at 32C3, 29 Dec 2015
 - **Annette Dittert, Daniel Moßbrucker**, [Das Darknet -- Eine Reise in die digitale Unterwelt](http://www.daserste.de/information/reportage-dokumentation/dokus/sendung/das-darknet-reise-in-die-digitale-unterwelt100.html) (german), ARD-documentary, 09 Jan 2017
+- **Daniel Mossbrucker (Reporter Ohne Grenzen), Andreas May
+  (Generalstaatsanwaltschaft Frankfurt), Julia Eikmann (Journalistin,
+  Autorin, Moderatorin) und Ahmad Alrifaee (Hamburg Media School)**,
+  [Darknet -- Das Internet der
+  Zukunft?](https://www.youtube.com/watch?v=ImW5lLfiT6I) (german),
+  Podiumsdiskussion auf der re:publica 17
 
 ## Documents
 
