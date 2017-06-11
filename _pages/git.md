@@ -140,3 +140,10 @@ state.
   [workflow](http://nvie.com/posts/a-successful-git-branching-model/)
 - Read the [intro of the
   documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- 2-page
+  [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+  from github; [Jan Krüger](https://jan-krueger.net/git-cheat-sheet-extended-edition) and [Zack Rusin](https://zrusin.blogspot.de/2007/09/git-cheat-sheet.html) posted some pretty cheat
+  sheets in 2007, somebody needs to check whether they're still
+  up-to-date #TODO
+- a [visualization](http://ndpsoftware.com/git-cheatsheet.html) between the five areas (stash, workspace, index,
+  local repo, upstream repo)
