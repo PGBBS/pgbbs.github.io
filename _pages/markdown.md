@@ -4,7 +4,10 @@ layout: page
 ---
 
 We use Markdown as markup-language (with file-extension .md). Here's a
-[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+(html) by Adam Pritchard and a
+[reference card](https://scottboms.com/2004/03/markdown-syntax-cheatsheet/)
+(pdf) by Scott Boms.
 
 (Historical) Development: Markdown was initially specified by John
 Gruber in 2004 (inspired by the syntax used in emails).  He provided a
