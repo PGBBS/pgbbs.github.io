@@ -38,9 +38,7 @@ When working together, we will sooner or later produce something
 Github has its own
 [tutorial](https://guides.github.com/activities/hello-world/). There is also a [tutorial by BitBucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud).
 
-1. Get a bitbucket/github/gitlab-account. In the latter case, send and
-email to your adivsor, because he has to manually "activate" your
-account. (The notification system for this is broken.)
+1. Get a bitbucket/github/gitlab-account.
 2. Install the necessary software on your local computer (usually
 `git`, `ssh`, and optionally some GUI).
 3. Link your local machine with your bitbucket/github/gitlab-account. (You need to generate an SSH-key and
