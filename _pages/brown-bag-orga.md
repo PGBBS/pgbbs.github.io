@@ -83,8 +83,8 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 08 Jun 2017     | ?LaTeX-Hero?                                                                                                 |                           |
 | ~~15 Jun 2017~~ | _Fronleichnam_                                                                                               |                           |
 | ~~22 Jun 2017~~ | w/o Konstantin                                                                                               |                           |
-| 29 Jun 2017     | Asymptotische Entwicklung für den Zeitverlauf der Wahrscheinlichkeitsverteilung                              | [Julia Ruppert][Ruppert]  |
-|                 | der Brownsche Bewegung auf semialgebraischen Mengen                                                          |                           |
+| 29 Jun 2017     | Asymptotische Entwicklung für den Zeitverlauf der Wahrscheinlichkeits-                                       | [Julia Ruppert][Ruppert]  |
+|                 | verteilung der Brownsche Bewegung auf semialgebraischen Mengen                                               |                           |
 |                 | **Jul**                                                                                                      |                           |
 | 16(!) Jul 2017  | Winter is Coming                                                                                             |                           |
 
