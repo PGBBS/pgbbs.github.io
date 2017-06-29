@@ -79,13 +79,16 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | 18 May 2017     | [dynamics, networks, and the future]({% post_url 2017-05-25-guest-talk-spectral-analysis %})                                                  | [Angelika Schmid][Schmid] |
 | ~~25 May 2017~~ | _Christi Himmelfahrt_                                                                                                                         |                           |
 |                 | **Jun**                                                                                                                                       |                           |
-| 01 Jun 2017     | ITZ-Lasertag-Finals: Lehrstuhl Lehner vs. Lehrstuhl Kosch                                                                                     | all                       |
-| 08 Jun 2017     | ?LaTeX-Hero?                                                                                                                                  |                           |
+| 01 Jun 2017     | ITZ-Lasertag-Finals: <br> Lehrstuhl Lehner vs. Lehrstuhl Kosch                                                                                | all                       |
+| ~~08 Jun 2017~~ | _unscheduled_ -- shame!                                                                                                                       |                           |
 | ~~15 Jun 2017~~ | _Fronleichnam_                                                                                                                                |                           |
 | ~~22 Jun 2017~~ | w/o Konstantin                                                                                                                                |                           |
 | 29 Jun 2017     | Asymptotische Entwicklung <br> für den Zeitverlauf der Wahrscheinlichkeitsverteilung <br> der Brownsche Bewegung auf semialgebraischen Mengen | [Julia Ruppert][Ruppert]  |
-|                 | **Jul**                                                                                                                                       |                           |
-| 16(!) Jul 2017  | Winter is Coming                                                                                                                              |                           |
+|                 | **Jul**                                                                                                                                       | 06                        |
+| 06 Jul 2017     | Rehearsal for Chiemsee Workshop                                                                                                               | Andy                      |
+| 13 Jul 2017     |                                                                                                                                               |                           |
+| ~~20 Jul 2017~~ | _under-staffed_ (IRIXYS Workshop)                                                                                                             |                           |
+| 27 Jul 2017     |                                                                                                                                               |                           |
 
 [shebang]: {% post_url 2017-03-23-semantic-web-definitions %}
 [deep]: http://www.jctt.cz/cz/vsechny-novinky/item/802-tiskova-zprava-ke-konani-konference-znalostni-a-technologicky-transfer-inovacni-region-jizni-cechy-dolni-bavorsko
@@ -135,6 +138,7 @@ know](http://matt.might.net/articles/what-cs-majors-should-know/).
 - Tests of (Artificial) Intelligence (e.g. in the context of
   psychology, AI in computer games)
 - Presentation of a single recent (landmark) paper/result
+- LaTeX-hero (Konstantin)
 
 Or the (ongoing) classic
 - Schreibwerkstatt?
