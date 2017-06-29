@@ -3,9 +3,9 @@ title: "Brown Bag Seminar"
 layout: page
 ---
 
-We meet every week during the lecture time for some sandwiches and
-apfelschorle -- and discuss topics on our nerdy minds. The default
-date is :
+We meet in R 249, ITZ, every week during the lecture time for some
+sandwiches and apfelschorle -- and discuss topics on our nerdy
+minds. The default date is :
 
     Thursday afternoon, ~18:00
 
