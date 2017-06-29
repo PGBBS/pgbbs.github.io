@@ -1,5 +1,5 @@
 ---
-title: "Source- and File-sharing"
+title: "Version-Control (via Git) and File-Sharing (via Syncthing)"
 layout: page
 ---
 
@@ -12,25 +12,33 @@ When working together, we will sooner or later produce something
 
 - centralized (DEPRECATED): owncloud, Dropbox (~5 GB), Google Drive (~15 GB), Novell Filr
   via UPassau's ZIM (~600 MB, mounted as `H:/`)
-- distributed: [Resilio Sync](http://getsync.com) (formerly: Bittorrent
-  Sync), [Syncthing](https://syncthing.net/)
+- distributed: [Syncthing](https://syncthing.net/) (free and
+  open-source, OUR CHOICE), [Resilio Sync](http://getsync.com)
+  (proprietary, formerly: Bittorrent Sync)
 
-# Sourcesharing
+# Sourcesharing aka git
 
-- public: [Github](https://github.com),
-  [Bitbucket](https://bitbucket.com), [Gitlab](https://gitlab.com) (?),
-  [Savannah](https://savannah.gnu.org) (?); TODO do the latter two offer
-  public/private repositories?
-- private: [local gitlab](https://gitlab.dimis.uni-passau.de)
+## public hosts
+
+  | host                               | public | private       | size limit                         | groups           |
+  |------------------------------------+--------+---------------+------------------------------------+------------------|
+  | [Github](https://github.com)       | oo     | none (edu: 5) | 1 GB/repo; 100 MB/file             | oo               |
+  | [Bitbucket](https://bitbucket.com) | oo     | oo            | 1 GB/repo (soft); 2 GB/repo (hard) | max. 5 (edu: oo) |
+  | [Gitlab](https://gitlab.com)       | oo     | oo            | 10 GB/repo                         | oo               |
+
+  Untested alternative: [Savannah](https://savannah.gnu.org)
+
+## private hosts
+
+- [local gitlab](https://gitlab.dimis.uni-passau.de)
+- `localhost`
 
 ## Setup
 
 Github has its own
-[tutorial](https://guides.github.com/activities/hello-world/).
+[tutorial](https://guides.github.com/activities/hello-world/). There is also a [tutorial by BitBucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud).
 
-1. Get a bitbucket/github/gitlab-account. In the latter case, send and
-email to your adivsor, because he has to manually "activate" your
-account. (The notification system for this is broken.)
+1. Get a bitbucket/github/gitlab-account.
 2. Install the necessary software on your local computer (usually
 `git`, `ssh`, and optionally some GUI).
 3. Link your local machine with your bitbucket/github/gitlab-account. (You need to generate an SSH-key and
@@ -39,13 +47,14 @@ copy it to the settings.)
 
 ### GUIs for git
 
-
 If you don't want/like to interact via the command line, the git-webpage maintains an extensive list of [GUI
 clients](https://git-scm.com/downloads/guis).
 
 - [SourceTree](https://www.sourcetreeapp.com/) (Mac & Windows)
 - [Github Desktop](https://desktop.github.com/) (Mac & Windows)
 - [TortoiseGit](https://tortoisegit.org/) (Windows)
+- [GitKraken](https://www.gitkraken.com/) (Linux, Mac & Windos;
+  UNTESTED)
 
 Field Report (git with gui on windows): Tried SourceTree at first and it
 worked reasonably well, but I found the interface bloated (for our
@@ -98,10 +107,41 @@ commit not all of your changes (but only some who fit logically well
 together); maybe you're without internet connection (and thus can't push), but still want to "freeze" the current
 state.
 
+## Best Practices
+
+- Don't put (external) dependencies in version control
+- Don't put (binary) output in version control (use GitLFS or
+  pre-/post-commit hooks)
+- Use gitignore-files, e.g. for paper-repositories ([LaTeX](https://github.com/github/gitignore/blob/master/TeX.gitignore)),
+  code-repositories ([Python](https://github.com/github/gitignore/blob/master/Python.gitignore)), and [others](https://github.com/github/gitignore)
+- [Single Source of
+  Truth](https://en.wikipedia.org/wiki/Single_source_of_truth) is not a
+  git-principle, but applies whenever you are tempted to start "just
+  another file on the side" -- Why not continue/modify a given one. It's
+  all version controlled!
+
+## Pro Tips
+
+- be faster with [git bash
+  completion](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+- get more information with a [git
+  prompt](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+
 ## Further Reading
 
-- Read the [intro of the
-  documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- Do this [tutorial](https://try.github.io/levels/1/challenges/1)
+- Do this interactive 15-min.
+  [tutorial](https://try.github.io/levels/1/challenges/1) (beginner
+  level)
+- Do the [tutorial on Git and Github](http://git-lectures.github.io/)
+  from EuroScipy '13
 - Here's an exemplary
   [workflow](http://nvie.com/posts/a-successful-git-branching-model/)
+- Read the [intro of the
+  documentation](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- 2-page
+  [cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+  from github; [Jan Krüger](https://jan-krueger.net/git-cheat-sheet-extended-edition) and [Zack Rusin](https://zrusin.blogspot.de/2007/09/git-cheat-sheet.html) posted some pretty cheat
+  sheets in 2007, somebody needs to check whether they're still
+  up-to-date #TODO
+- a [visualization](http://ndpsoftware.com/git-cheatsheet.html) between the five areas (stash, workspace, index,
+  local repo, upstream repo)

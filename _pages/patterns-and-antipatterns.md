@@ -9,6 +9,12 @@ half refers to "AntiPatterns: Refactoring Software, Architectures, and
 Projects in Crisis". In either case, selected best-/worst-practices
 in software architecture are examined. We present a digest.
 
+# Patterns
+
+Kamran Ahmed made a
+[summary](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md)
+for humans
+
 # Antipatterns
 
 ## Not-invented-here syndrome
@@ -23,3 +29,10 @@ He concludes with this beautiful caveat:
 > Chinese engineer did 2,000 years ago, "If we're going to put a wheel
 > on this thing, where is the best place to put it?" And to realize that
 > two questions were asked.
+
+# Links
+
+- [SourceMaking](https://sourcemaking.com/) guides you through design
+  patterns, antipatterns, refactoring and UML
+- Huge alphabetic list of
+  [AntiPatterns](http://wiki.c2.com/?AntiPatternsCatalog)

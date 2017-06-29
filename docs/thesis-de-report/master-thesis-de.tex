@@ -1,0 +1,107 @@
+\documentclass[12pt, a4paper,oneside]{report}
+
+
+
+\usepackage{titlesec}
+\usepackage[utf8]{inputenc}
+\usepackage{german}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{framed}
+\usepackage{pbox}
+\usepackage{caption}
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage[pdftex]{graphicx}
+\usepackage[toc]{glossaries}
+\usepackage{amssymb, amsmath}
+\usepackage[colorlinks,
+pdfstartview = FitH,
+linkcolor = black,
+plainpages = false,
+hypertexnames = false,
+citecolor = black]{hyperref}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage[left=3.5cm,right=3.5cm,top=2cm,bottom=2cm]{geometry}
+\graphicspath{{./pics/}}
+\usepackage[printonlyused]{acronym}
+\usepackage{todonotes}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\usepackage{multirow}
+\usepackage{pdflscape}
+\usepackage{eurosym}
+
+\usepackage{tocbibind}
+
+
+
+\parindent 0pt
+
+\begin{document}
+
+\input{title-page}
+
+\setcounter{tocdepth}{10}
+\tableofcontents
+
+
+% \begin{acronym}
+
+% \acro{XML} {Extensible Markup Language}s
+
+% \end{acronym}
+
+
+\listoffigures
+\listoftables
+
+\titleformat{\chapter}{\LARGE\bfseries}{\thechapter}{1em}{}
+
+
+
+
+\chapter*{Abstract}
+
+TODO
+
+
+\newpage
+\chapter{Einleitung}
+
+\section{Motivation}
+
+\begin{figure}[!ht]
+	\centering
+% remove these comments to insert picture at img/file.png
+% \includegraphics[width=1.0\textwidth]{img/file.png}
+	\caption{Describe this picture.}
+	\label{fig:1}
+\end{figure}
+
+
+
+
+
+
+
+\begin{thebibliography}{12345678}
+\bibitem[BDE-1, o.J.]{BDE-1} "'The Big List of D3.js Examples"', http://christopheviau.com/d3list/, 20.01.2015
+
+\end{thebibliography}
+
+\newpage
+\chapter*{Erklärung zur Masterarbeit}
+Ich erkläre hiermit, dass ich die vorliegende Arbeit selbständig verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel verwendet habe. \newline
+\ \\
+Die Arbeit wurde bisher keiner anderen Prüfungsbehörde vorgelegt und auch noch nicht veröffentlicht.\newline
+\ \\
+Passau, den <date>
+\newline
+\ \\
+\ \\
+<First Name, Last Name>
+\end{document}

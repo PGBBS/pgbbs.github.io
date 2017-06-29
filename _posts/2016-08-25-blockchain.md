@@ -7,7 +7,9 @@ date:   2016-08-25 11:21:35 +0200
 # Theoretical Background: Proof of Work
 
 - [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system),
-  suggested by [Dwork & Naor (1993)](http://dl.acm.org/citation.cfm?id=705669)
+  suggested by [Dwork & Naor
+  (1993)](http://dl.acm.org/citation.cfm?id=705669), e.g. hashcash
+  (compute 2nd pre-image on SHA256^2) or Ethash
 
 ## Application: Hashcash
 
@@ -20,6 +22,12 @@ key features
 - immutable
 - distributed
 - "trustless", i.e. w/o trusted third party
+
+## Further Reading
+
+- Vinay Gupta, [A Brief History of
+  Blockchain](https://hbr.org/2017/02/a-brief-history-of-blockchain), 28
+  Feb 2017
 
 ## Example 1: Bitcoin
 
@@ -34,6 +42,8 @@ visit Ethereum's [blockchain](https://etherchain.org/)
 - concise (24 slides) presentation
   [Blockchain for Beginners](http://bford.info/log/2016/1102-cybsec-blockchain.pdf)
   by Bryan Ford
+- step-by-step [Blockchain Demo](https://anders.com/blockchain/) (18')
+  with DIY-webpage by Anders Brownworth
 - 2h-podcast [Chaosradio 225
   (German)](http://chaosradio.ccc.de/cr225.html) on "Digitales Geld &
   Smart Contracts"

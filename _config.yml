@@ -4,17 +4,24 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-
+#
+# the defaults for GitHub Pages (which may override what we provide
+# here) are given at https://help.github.com/articles/configuring-jekyll/
+#
 # Site settings
-title: Passau Graduate Student Brown Bag Seminar
-email: your-email@domain.com
+title: Passau Grad Students Brown Bag Seminar
+email: pgbbs AT \<domain-of-our-chair\>
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Some computer science graduate students have a weekly get-together.
+  They share food, drinks, and -- most importantly -- nerdy ideas. These are their notes.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-github_username:  pgbbs
+url: "https://pgbbs.github.io" # the base hostname & protocol for your site
+repo: "https://github.com/PGBBS/pgbbs.github.io/tree/master" # base for github-repo
+
+# These usernames will occur in the footer (with icons) via
+# _layouts/default.html > _includes/footer.html
+github_username: pgbbs
+# twitter_username: kziegl
 
 # Build settings
 markdown: kramdown
@@ -28,3 +35,9 @@ permalink: /:title/
 # plugins
 gems:
   - jemoji
+  - jekyll-sitemap
+  - jekyll-feed
+
+# choose from the Jekyll themes supported by GitHub Pages: https://pages.github.com/themes/
+# theme: jekyll-theme-hacker    # template-preview: https://pages-themes.github.io/hacker/
+theme: jekyll-theme-architect    # template-preview: https://pages-themes.github.io/architect/

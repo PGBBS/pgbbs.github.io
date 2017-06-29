@@ -25,3 +25,5 @@ list ahead of time (at least 24 hours)
 - in English
 - in the mail body
 - here's a rough [guideline](https://www.verywell.com/how-to-write-an-abstract-2794845)
+
+Take into account Hofstadter's Law -- for your talk and for your work schedule.
