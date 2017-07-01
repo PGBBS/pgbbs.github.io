@@ -202,6 +202,11 @@ elevator pitch
 - everybody: 5 min's on his/her topic "Hallo, ich bin der <name>. Ich
   mach' <topic>, d.h. <explanation>. Und da bin I dahoam."
 
+Alternative (inspired by the meetings of group N. Bourbaki)
+- everybody talks on somebody else's topic (disjoint from their own) to
+  enforce a change of perspective, higher expository quality, and
+  general appreciation
+
 if we do more, then we should provide feedback:
 - everybody: feedback in the form of "Thanks for your interesting
   talk ...
