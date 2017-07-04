@@ -83,7 +83,7 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 | ~~08 Jun 2017~~ | _unscheduled_ -- shame!                                                                                                                       |                           |
 | ~~15 Jun 2017~~ | _Fronleichnam_                                                                                                                                |                           |
 | ~~22 Jun 2017~~ | w/o Konstantin                                                                                                                                |                           |
-| 29 Jun 2017     | Asymptotische Entwicklung <br> für den Zeitverlauf der Wahrscheinlichkeitsverteilung <br> der Brownsche Bewegung auf semialgebraischen Mengen | [Julia Ruppert][Ruppert]  |
+| 29 Jun 2017     | [Asymptotische Entwicklung <br> für den Zeitverlauf der Wahrscheinlichkeitsverteilung <br> der Brownsche Bewegung auf semialgebraischen Mengen][Julia] | [Julia Ruppert][Ruppert]  |
 |                 | **Jul**                                                                                                                                       | 06                        |
 | 06 Jul 2017     | Rehearsal for Chiemsee Workshop                                                                                                               | Andy                      |
 | 13 Jul 2017     |                                                                                                                                               |                           |
@@ -93,6 +93,7 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 [shebang]: {% post_url 2017-03-23-semantic-web-definitions %}
 [deep]: http://www.jctt.cz/cz/vsechny-novinky/item/802-tiskova-zprava-ke-konani-konference-znalostni-a-technologicky-transfer-inovacni-region-jizni-cechy-dolni-bavorsko
 [Schmid]: http://www.wiwi.uni-passau.de/statistik/lehrstuhlteam/?module=Persondetails&target=48452&source=48452&config_id=7159c8d0d2d665b0640649fe924a184b&range_id=l52&username=schmi234&hash=3007853476
+[Julia]: {% post_url 2017-09-29-guest-talk-semialgebraic-sets %}
 [Ruppert]: http://www.fim.uni-passau.de/lehrprofessur-mathematik/team/
 
 # Roles
@@ -225,6 +226,7 @@ if we do more, then we should provide feedback:
   http://github.com/henryk/QRtistry
 - bring a [Code for Germany](https://codefor.de/projekte/) project to
   Passau (or at least Niederbayern)
+- build a quality [cycle map](https://cyclebath.org.uk/2017/05/11/finalist-creative-bath-awards-innovation/)
 
 ## Excursion
 
