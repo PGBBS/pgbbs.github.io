@@ -155,6 +155,9 @@ with 25 lectures (a 90 min.) around papers taken from this
 at the 16th Heidelberg Laureate Forum.
 - There's also the [Papers We Love](http://paperswelove.org/)
 repository.
+- Leslie Lamport's "The Part-Time Parliament" highly recommended -- for its
+  scientific contribution as well as for the exposition. Read it --
+  along with the history/notes on Lamport's homepage.
 
 ## Programming Pearls
 
