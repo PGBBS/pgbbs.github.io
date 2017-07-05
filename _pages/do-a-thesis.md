@@ -53,4 +53,16 @@ aka "Puke on the paper." (Thanks Isma!)
   thesis](http://www.fim.uni-passau.de/en/media-computer-science/teaching/thesis/thesis-guide/)
 - [how to write a paper and software
   frameworks](http://www.fim.uni-passau.de/en/media-computer-science/teaching/resources/)
--
+
+# References
+
+## undergraduate level
+
+- Helmut Balzert, Marion Schröde & Christian Schäfer (2015),
+  Wissenschaftliches Arbeiten: Ethik, Inhalt & Form wiss. Arbeiten,
+  Handwerkszeug, Quellen, Projektmanagement, Präsentation, 2. Auflage,
+  W3L-Verlag :: deutsch, (positiv) rezensiert von Kristin Butzer-Strothmann in
+  Informatik Spektrum Band 40, Heft 3, Juni 2017,
+  S. 302-303. ("Insgesamt gelingt es den Autoren mit ihrem Buch, die
+  für viele Studierende nicht einfach zu erschließende Welt des
+  "Wissenschaftlichen Arbeitens" ein markantes Stück transparenter zu machen.")
