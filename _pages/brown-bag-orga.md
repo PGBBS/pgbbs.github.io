@@ -41,54 +41,54 @@ theme](https://www.youtube.com/watch?v=LJIa7hApF9o). :smile:
 
 # Schedule
 
-| Date            | Topic                                                                                                                                         | Speaker                   |
-| ---------       | -----                                                                                                                                         | ---                       |
-| 25 Aug 2016     | [Blockchain]({% post_url 2016-08-25-blockchain %})                                                                                            | Konstantin                |
-| 20 Oct 2016     | Orga (this document)                                                                                                                          | all                       |
-| 27 Oct 2016     | [Privacy]({% post_url 2016-10-27-privacy %})                                                                                                  | Armin                     |
-| 03 Nov 2016     | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %})                                                                         | Manu                      |
-| 10 Nov 2016     | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %})                                                                         | Konstantin                |
-| 17 Nov 2016     | [Automatic Test Generation]({% post_url 2016-11-17-automatic-test-generation %})                                                              | Andy                      |
-| 22(!) Nov 2016  | LPL -- A Layered Privacy Language                                                                                                             | Armin                     |
-| ~~01 Dec 2016~~ | _under-staffed_ (MDPS workshop)                                                                                                               |                           |
-| 08 Dec 2016     | [Brainstorming for Hackathon]({% post_url 2016-12-08-hackathon-brainstorming %})                                                              | Thommy                    |
-| 15 Dec 2016     | Hackathon                                                                                                                                     | all                       |
-|                 | **Jan**                                                                                                                                       |                           |
-| ~~12 Jan 2017~~ | _unscheduled_                                                                                                                                 |                           |
-| 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                                                                                            | Armin & Konstantin        |
-| 26 Jan 2017     | Elevator pitch and New Year's resolutions                                                                                                     | Konstantin                |
-|                 | **Feb**                                                                                                                                       |                           |
-| 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]({% post_url 2017-02-02-how-to-find-a-phd-topic %})                                                        | Thommy                    |
-| ~~09 Feb 2017~~ | _unscheduled_                                                                                                                                 |                           |
-| 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel                                                | all                       |
-| 23 Feb 2017     | orga & [How to write scientific English](../how-to-write-scientific-english/) (part 1)                                                        | Konstantin                |
-|                 | **Mar**                                                                                                                                       |                           |
-| 02 Mar 2017     | [How to write scientific English](/_pages/how-to-write-scientific-english/) (part 2)                                                          | Konstantin                |
-| 09 Mar 2017     | [Tor and Its Services]({% post_url 2017-03-09-tor-and-its-services %})                                                                        | Konstantin                |
-| ~~16 Mar 2017~~ | _under-staffed_ (due to holidays)                                                                                                             |                           |
-| 23 Mar 2017     | [SWTF (Semantic Web, Linked Data and the Whole Shebang)][Shebang]                                                                             | Manu                      |
-| 30 Mar 2017     | Games Night                                                                                                                                   | all                       |
-|                 | **Apr**                                                                                                                                       |                           |
-| 6 Apr 2017      | [Armin Paper Presentation Workshop]({% post_url 2017-04-06-arminoh-paper-talk %})                                                             | Armin                     |
-| 13 Apr 2017     | [Eiersuchen]({% post_url 2017-04-13-Egghunt %})                                                                                               | Steffi                    |
-| 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                                                                           | Thommy                    |
-| 27 Apr 2017     | [Lasertag Tactical Meeting]({% post_url 2017-04-27-lasertag %}) & May Orga                                                                    | Manu                      |
-|                 | **May**                                                                                                                                       |                           |
-| 04 May 2017     | [Deep Learning for commercial use][deep]                                                                                                      | Konstantin                |
-| 11 May 2017     | Games Night                                                                                                                                   | all                       |
-| 18 May 2017     | [dynamics, networks, and the future]({% post_url 2017-05-25-guest-talk-spectral-analysis %})                                                  | [Angelika Schmid][Schmid] |
-| ~~25 May 2017~~ | _Christi Himmelfahrt_                                                                                                                         |                           |
-|                 | **Jun**                                                                                                                                       |                           |
-| 01 Jun 2017     | ITZ-Lasertag-Finals: <br> Lehrstuhl Lehner vs. Lehrstuhl Kosch                                                                                | all                       |
-| ~~08 Jun 2017~~ | _unscheduled_ -- shame!                                                                                                                       |                           |
-| ~~15 Jun 2017~~ | _Fronleichnam_                                                                                                                                |                           |
-| ~~22 Jun 2017~~ | w/o Konstantin                                                                                                                                |                           |
+| Date            | Topic                                                                                                                                                  | Speaker                   |
+| ---------       | -----                                                                                                                                                  | ---                       |
+| 25 Aug 2016     | [Blockchain]({% post_url 2016-08-25-blockchain %})                                                                                                     | Konstantin                |
+| 20 Oct 2016     | Orga (this document)                                                                                                                                   | all                       |
+| 27 Oct 2016     | [Privacy]({% post_url 2016-10-27-privacy %})                                                                                                           | Armin                     |
+| 03 Nov 2016     | [Mico and Multimedia]({% post_url 2016-11-03-multimedia-metadaten %})                                                                                  | Manu                      |
+| 10 Nov 2016     | [How to write a paper]({% post_url 2016-11-10-How-to-write-papers %})                                                                                  | Konstantin                |
+| 17 Nov 2016     | [Automatic Test Generation]({% post_url 2016-11-17-automatic-test-generation %})                                                                       | Andy                      |
+| 22(!) Nov 2016  | LPL -- A Layered Privacy Language                                                                                                                      | Armin                     |
+| ~~01 Dec 2016~~ | _under-staffed_ (MDPS workshop)                                                                                                                        |                           |
+| 08 Dec 2016     | [Brainstorming for Hackathon]({% post_url 2016-12-08-hackathon-brainstorming %})                                                                       | Thommy                    |
+| 15 Dec 2016     | Hackathon                                                                                                                                              | all                       |
+|                 | **Jan**                                                                                                                                                |                           |
+| ~~12 Jan 2017~~ | _unscheduled_                                                                                                                                          |                           |
+| 19 Jan 2017     | [e-Portfolio]({% post_url 2017-01-20-portfolio %})                                                                                                     | Armin & Konstantin        |
+| 26 Jan 2017     | Elevator pitch and New Year's resolutions                                                                                                              | Konstantin                |
+|                 | **Feb**                                                                                                                                                |                           |
+| 02 Feb 2017     | [Thommys Kickstarter Start-Up Talk]({% post_url 2017-02-02-how-to-find-a-phd-topic %})                                                                 | Thommy                    |
+| ~~09 Feb 2017~~ | _unscheduled_                                                                                                                                          |                           |
+| 16 Feb 2017     | [Semester-Abschluss-Powerpoint-Karaoke]({% post_url 2017-02-16-ppt-karaoke %}) with Trinkspiel                                                         | all                       |
+| 23 Feb 2017     | orga & [How to write scientific English](../how-to-write-scientific-english/) (part 1)                                                                 | Konstantin                |
+|                 | **Mar**                                                                                                                                                |                           |
+| 02 Mar 2017     | [How to write scientific English](/_pages/how-to-write-scientific-english/) (part 2)                                                                   | Konstantin                |
+| 09 Mar 2017     | [Tor and Its Services]({% post_url 2017-03-09-tor-and-its-services %})                                                                                 | Konstantin                |
+| ~~16 Mar 2017~~ | _under-staffed_ (due to holidays)                                                                                                                      |                           |
+| 23 Mar 2017     | [SWTF (Semantic Web, Linked Data and the Whole Shebang)][Shebang]                                                                                      | Manu                      |
+| 30 Mar 2017     | Games Night                                                                                                                                            | all                       |
+|                 | **Apr**                                                                                                                                                |                           |
+| 6 Apr 2017      | [Armin Paper Presentation Workshop]({% post_url 2017-04-06-arminoh-paper-talk %})                                                                      | Armin                     |
+| 13 Apr 2017     | [Eiersuchen]({% post_url 2017-04-13-Egghunt %})                                                                                                        | Steffi                    |
+| 20 Apr 2017     | Semester-Anfangs Powerpoint-Karaoke                                                                                                                    | Thommy                    |
+| 27 Apr 2017     | [Lasertag Tactical Meeting]({% post_url 2017-04-27-lasertag %}) & May Orga                                                                             | Manu                      |
+|                 | **May**                                                                                                                                                |                           |
+| 04 May 2017     | [Deep Learning for commercial use][deep]                                                                                                               | Konstantin                |
+| 11 May 2017     | Games Night                                                                                                                                            | all                       |
+| 18 May 2017     | [dynamics, networks, and the future]({% post_url 2017-05-25-guest-talk-spectral-analysis %})                                                           | [Angelika Schmid][Schmid] |
+| ~~25 May 2017~~ | _Christi Himmelfahrt_                                                                                                                                  |                           |
+|                 | **Jun**                                                                                                                                                |                           |
+| 01 Jun 2017     | ITZ-Lasertag-Finals: <br> Lehrstuhl Lehner vs. Lehrstuhl Kosch                                                                                         | all                       |
+| ~~08 Jun 2017~~ | _unscheduled_ -- shame!                                                                                                                                |                           |
+| ~~15 Jun 2017~~ | _Fronleichnam_                                                                                                                                         |                           |
+| ~~22 Jun 2017~~ | w/o Konstantin                                                                                                                                         |                           |
 | 29 Jun 2017     | [Asymptotische Entwicklung <br> für den Zeitverlauf der Wahrscheinlichkeitsverteilung <br> der Brownsche Bewegung auf semialgebraischen Mengen][Julia] | [Julia Ruppert][Ruppert]  |
-|                 | **Jul**                                                                                                                                       | 06                        |
-| 06 Jul 2017     | Rehearsal for Chiemsee Workshop                                                                                                               | Andy                      |
-| 13 Jul 2017     |                                                                                                                                               |                           |
-| ~~20 Jul 2017~~ | _under-staffed_ (IRIXYS Workshop)                                                                                                             |                           |
-| 27 Jul 2017     |                                                                                                                                               |                           |
+|                 | **Jul**                                                                                                                                                | 06                        |
+| 06 Jul 2017     | Rehearsal for IRIXYS Workshop                                                                                                                          | Andy                      |
+| 13 Jul 2017     | Rehearsal for IRIXYS Workshop                                                                                                                          | Armin                     |
+| ~~20 Jul 2017~~ | _under-staffed_ (IRIXYS Workshop)                                                                                                                      |                           |
+| 27 Jul 2017     |                                                                                                                                                        |                           |
 
 [shebang]: {% post_url 2017-03-23-semantic-web-definitions %}
 [deep]: http://www.jctt.cz/cz/vsechny-novinky/item/802-tiskova-zprava-ke-konani-konference-znalostni-a-technologicky-transfer-inovacni-region-jizni-cechy-dolni-bavorsko
