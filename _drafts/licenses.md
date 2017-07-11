@@ -61,6 +61,14 @@ derivative work)
 Source:
 https://netzpolitik.org/2016/creative-commons-lizenzierte-bilder-die-fuenf-haeufigsten-fehler-bei-der-weiternutzung/
 
+# Music
+
+There is some great creative-commons music, e.g. playing on
+Chaosradio.
+
+Latest addition: [Beyond Skyrim: Brumo OST](https://danielran.com/blog/beyond-skyrim-bruma-ost) by Daniel Ran is licensed
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Thanks.
+
 
 ## Use Case: publish a text/image of your own on the internet
 
