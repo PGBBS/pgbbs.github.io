@@ -5,3 +5,5 @@ ACM issued a
 GI has a Fachgruppe
 
 CCC features the Hacker-Ethik
+
+Asimov gave us the three laws of robotics
