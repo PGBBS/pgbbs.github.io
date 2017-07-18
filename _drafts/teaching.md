@@ -15,3 +15,7 @@ Oppenheimer.
 CHECK Klaus Zierer, Lernen 4.0 Paedagogik vor Technik. Moeglichkeiten
 und Grenzen einer Digitalisierung im Bildungsbereich, Schneider
 Verlag, Hohengehren
+
+Here's a scientific study, where already the title says it all:
+Adrian F. Ward, Kristen Duke, Ayelet Gneezy, and Maarten W. Bos, [Brain Drain: The Mere Presence of One’s Own
+Smartphone Reduces Available Cognitive Capacity](http://www.journals.uchicago.edu/doi/pdfplus/10.1086/691462), JACR, volume 2, number 2. Published online April 3, 2017. http://dx.doi.org/10.1086/691462
