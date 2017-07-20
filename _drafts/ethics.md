@@ -7,3 +7,7 @@ GI has a Fachgruppe
 CCC features the Hacker-Ethik
 
 Asimov gave us the three laws of robotics
+
+Bill Sourour,
+[Der Code, für den ich mich immer noch schäme](www.heise.de/-3746246),
+07 Jul 2017, Technology Review.
