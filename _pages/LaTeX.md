@@ -66,6 +66,23 @@ KomaScript `scrreprt`-class):
 [3]:{{ site.url }}/docs/thesis-de-scrreprt/rootFile.pdf
 [4]:{{ site.repo }}/docs/thesis-de-scrreprt
 
+## Document Classes
+
+The standard classes are `book`, `report`, `article` with [differences
+in the (default) settings and the available commands/environments](https://tex.stackexchange.com/a/36989). Here's
+a preview of some
+[documentclass options](https://texblog.org/2013/02/13/latex-documentclass-options-illustrated/).
+
+For presentations, there's the `beamer`-class. For a CV and a (business) letter,
+my choices are `moderncv` and `dinbrief`, respectively.
+
+There are plenty of alternatives: Many departments, work groups,
+conferences, and journals offer their own documentclasses. There are
+also the popular replacements `scrbook`, `scrreprt`, `scrartcl` from
+the KOMA-Script bundle. Here's a
+[list of incompatibilities](https://tex.stackexchange.com/a/73288) for the latter.
+
+
 ## Maintain your bibliography with BibTeX
 
 - [german introduction](http://www.juergenfenn.de/tex/dtk/bibonline.pdf)
@@ -78,7 +95,9 @@ pdf's), there's [JabRef](http://jabref.sourceforge.net/).
 
 see
 [tex-stackexchange](https://tex.stackexchange.com/questions/143/what-are-good-sites-to-find-citations-in-bibtex-format)
-for a list of sources for bibtex-entries
+for a list of sources for bibtex-entries, e.g.
+
+- [doi2bib](http://www.doi2bib.org/)
 
 ## Draw beautiful inline graphics with TikZ
 
