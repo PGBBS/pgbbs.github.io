@@ -10,6 +10,8 @@ date:   2016-08-25 11:21:35 +0200
   suggested by [Dwork & Naor
   (1993)](http://dl.acm.org/citation.cfm?id=705669), e.g. hashcash
   (compute 2nd pre-image on SHA256^2) or Ethash
+- original [Bitcoin paper](https://bitcoin.org/bitcoin.pdf) by Satoshi
+  Nakamoto (2008)
 
 ## Application: Hashcash
 
@@ -39,6 +41,9 @@ visit Ethereum's [blockchain](https://etherchain.org/)
 
 # Resources and Further Reading
 
+-
+  [The Blockchain Explained to Web Developers](https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html)
+  by Francois Zaninotto (3 parts)
 - concise (24 slides) presentation
   [Blockchain for Beginners](http://bford.info/log/2016/1102-cybsec-blockchain.pdf)
   by Bryan Ford
@@ -47,7 +52,10 @@ visit Ethereum's [blockchain](https://etherchain.org/)
 - 2h-podcast [Chaosradio 225
   (German)](http://chaosradio.ccc.de/cr225.html) on "Digitales Geld &
   Smart Contracts"
-- [Curated list of resources](https://github.com/McFrankline/Blockchain-stuff)
+-
+  [Curated list of resources](https://github.com/McFrankline/Blockchain-stuff)
+- Coursera Course:
+    [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 
 # Fun
 
