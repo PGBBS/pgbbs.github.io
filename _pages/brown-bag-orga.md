@@ -170,6 +170,9 @@ Jon Bentley has a column http://bit.ly/2ikzqSE
 work together through a book/lecture notes (best with lectures);
 usually requires weekly reading assignmests
 
+similarly, host a [papers we love](http://paperswelove.org/) event --
+and add the results to the [papers-we-love githbub repository](https://github.com/papers-we-love).
+
 ## MOOC
 
 from coursera.org
