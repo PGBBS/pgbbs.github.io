@@ -56,6 +56,7 @@ visit Ethereum's [blockchain](https://etherchain.org/)
   [Curated list of resources](https://github.com/McFrankline/Blockchain-stuff)
 - Coursera Course:
     [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
+- [What The Fuck is Ethereum](http://whatthefuckisethereum.com)
 
 # Fun
 
