@@ -72,8 +72,6 @@ Latest addition: [Beyond Skyrim: Brumo OST](https://danielran.com/blog/beyond-sk
 
 ## Use Case: publish a text/image of your own on the internet
 
-
-
 ## My Choice
 
 For texts and images, we use CC BY-SA. (Alternatively, CC BY.)
@@ -90,6 +88,19 @@ Access. Do it!
 
 CAVE [Abmahnungen wegen Creative
 Commons](https://netzpolitik.org/2017/neue-abmahnungen-der-cider-connection-wegen-creative-commons/)
+
+## Context: on the rule/impact of good/bad licencsing and DRM
+
+[DRM is toxic to culture](https://meshedinsights.com/2017/07/09/drm-is-toxic-to-culture/)
+
+TODO add this movie about the cultural "blackout" because it's
+impossible to find the license holders for lots material used in
+documentary films -- even for the director of the films who want to
+release a new edition on DVD (for which they need to clear the rights again).
+
+The Free Software Foundation runs the campaign
+[Defective By Design](https://www.defectivebydesign.org/) to support
+DRM-free environments.
 
 ## Others
 
