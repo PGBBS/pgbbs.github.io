@@ -4,7 +4,8 @@ layout: page
 --
 
 Cindi May, [Students are Better Off without a Laptop in the Classroom](https://www.scientificamerican.com/article/students-are-better-off-without-a-laptop-in-the-classroom/),
-Scientific American, 11 Jul 2017
+Scientific American, 11 Jul 2017, referring to RavizzaEtAl2017,
+[Logged In and Zoned Out](https://www.ncbi.nlm.nih.gov/pubmed/28182528)
 
 Interview mit Ralf Lankau,
 [Technologie in unseren Schulen schadet mehr, als sie nützt](http://www.heise.de/-3766725)
