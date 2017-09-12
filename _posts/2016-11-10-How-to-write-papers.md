@@ -104,6 +104,21 @@ date:   2016-11-10 11:21:35 +0200
 6. Related Work
 7. Conclusions
 
+## Abstract
+
+Quotation from Medawar1979, p. 66:
+
+> A summary must be complete in its own limits. It may well start with
+> a statement of the hypothesis under investigation and end with its
+> evalution. Nothing is more abjectly feeble than to write some such
+> sentence as "The relevance of these findings to the etiology of
+> Bright's disease is discussed." If it *has* been discussed, the
+> discussion should be summarized, too. If not, say nothing.
+
+He makes two points:
+- abstracts should be self-contained
+- generally, avoid empty phrases
+
 # Links
 
 - [Andreas Eschbachs 10-Punkte Text-ÜV](http://www.andreaseschbach.com/schreiben/10punkte/10punkte.html) (deutsch)
