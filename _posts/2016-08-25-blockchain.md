@@ -57,9 +57,11 @@ visit Ethereum's [blockchain](https://etherchain.org/)
 - Coursera Course:
     [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 - [What The Fuck is Ethereum](http://whatthefuckisethereum.com)
+- the [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) by the community
+- several [gentle introductions](https://bitsonblocks.net/)
 
 # Fun
 
 - The [2015 version](http://www.sytaylor.net/wp-content/uploads/2015/05/dilbert-chain.jpg) of this
   [1995 Dilbert comic](http://dilbert.com/strip/1995-11-17)
-- [Blockchain to secure nuclear weapons])(http://qz.com/801640/darpa-blockchain-a-blockchain-from-guardtime-is-being-verified-by-galois-under-a-government-contract/)
+- [Blockchain to secure nuclear weapons](http://qz.com/801640/darpa-blockchain-a-blockchain-from-guardtime-is-being-verified-by-galois-under-a-government-contract/)
