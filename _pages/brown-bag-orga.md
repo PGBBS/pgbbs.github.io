@@ -162,7 +162,9 @@ repository.
 
 ## Programming Pearls
 
-Jon Bentley has a column http://bit.ly/2ikzqSE
+Jon Bentley started a column of said name in the 1983
+[Communications of the ACM](https://dl.acm.org/citation.cfm?id=358164). The
+resulting book appeared in 1986 ([2nd edition](https://dl.acm.org/citation.cfm?id=318199) in 1999).
 
 ## Reading Group
 (a classic format)
