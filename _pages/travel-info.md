@@ -1,14 +1,30 @@
 ---
-title:  "How to reach us and what to do in Passau"
+title:  "How to reach us and what to do nearby"
 layout: page
 ---
 
 * This list will be my TOC
 {:toc}
 
-We are distributed over two buildings on the campus of the University of
-Passau: the IT-Centre/International House (short: ITZ/IH) and the
-Zentrum für Medien und Kommunikation (short: ZMK).
+We are distributed over two universities in Lower Bavaria:
+- [University of Applied Sciences Landshut](https://www.haw-landshut.de/en.html)
+- [University of Passau](http://www.uni-passau.de/en)
+
+# University of Applied Sciences Landshut
+
+We are on the main campus and you can reach us by
+
+- following the
+  [travel instructions](https://www.haw-landshut.de/en/visit-us.html) and
+- having a look at the [campus map](https://www.haw-landshut.de/fileadmin/Hochschule_Landshut_NEU/Ungeschuetzt/Hochschule/Anfahrt/170629_Gebaeudeplan_EN.pdf)
+
+We are on the first floor of the HS building, next to red main
+building A. The address is :
+
+    Am Lurzenhof 1
+	84032 Landshut
+
+# University of Passau
 
 Here are two maps of the University campus:
 
@@ -17,18 +33,13 @@ http://www.dhd2014.uni-passau.de/fileadmin/dokumente/Lageplan/Stadtplan_Universi
 - [campus map](
 http://www.uni-passau.de/fileadmin/dokumente/Lageplan/UNI-Lageplan_Info_mini.pdf)
 
-# ITZ/IH
-
-On the map, the ITZ is the building in the south, close to the sports
-centre. (Rumor has it that the shape is inspired by the
-"square root"-sign, but judge for yourself.)
+We are located in the ITZ, i.e. the building in the south, close to the sports
+centre. (Rumor has it that the shape is inspired by the "square root"-sign, but judge for yourself.)
 
 The address is :
 
     Innstrasse 43
     94032 Passau
-
-## Chair of Harald Kosch
 
 You can take the stairs or the elevator. In either case, turn left and
 walk down the hallway untily you reach a door labelled
@@ -37,38 +48,16 @@ reached your destination. Here are the exact x-y-coordinates
 on
 [OpenStreetmap](https://www.openstreetmap.org/?mlat=48.56591&mlon=13.45063#map=19/48.56591/13.45063).
 
-The office is held by [Ingrid
-Winter](http://www.fim.uni-passau.de/en/distributed-information-systems/).
+# APPENDIX Places to visit in/around Landshut
 
-Most meetings are held in R 249.
+For the moment, let us provide links to the
 
-
-## SR 001
-
-This room is located on the ground floor of the ITZ facing
-the soccer pitch. Here are the exact x-y-coordinates on
-[OpenStreetmap](
-https://www.openstreetmap.org/?mlat=48.56562&mlon=13.44964#map=19/48.56552/13.44952).
-
-# ZMK
-
-On the map, the ZMK is the building next to bridge between cantine and
-IM.
-
-The address is :
-
-    Innstrasse 33a
-    94032 Passau
-
-
-## Professorship of Michael Granitzer
-
-Michael Granitzer and his group are located (mostly) on the first
-floor. The office is held by [Annemarie Gertler-Weber](http://www.fim.uni-passau.de/medieninformatik).
-
-# APPENDIX Taxi in Passau
-
-Taxis in Passau are organized within the [Taxi Zentrale](http://taxi-zentrale-passau.de/).
+-
+  [tourist info of the city Landshut](http://www.landshut.de/portal/tourismus.html)
+  - and its [event calendar](https://www.landshut-tourismus.bayern/de/aktuelles/veranstaltungskalender.html#)
+-
+  [tourist info of the district Landshut](https://www.landkreis-landshut.de/Freizeit-Tourismus.aspx)
+  - [list of travel tips by Gerhard Laußer](https://www.sehenswertes-bayern.de/stadt/landshut-sehenswertes-ausflugsziele-bilder-landshut-freizeitmoeglichkeiten.html)
 
 # APPENDIX Places to visit in/around Passau
 
@@ -135,3 +124,11 @@ A guided tour will/should take you to the following places
   the "Invasion" room stands at 35'.)
 - [LaserTag Arena Passau](https://de-de.facebook.com/LaserTag-Arena-Passau-734413493368568/)
 - [Theater im Fürstbischöflichen Opernhaus Passau](http://www.landestheater-niederbayern.de/content/stadttheater-passau)
+
+# APPENDIX Places to visit in/around Lower Bavaria (dt. "Empfehlungen für Tagesausflüge")
+
+- [Baumwipfelpfad](https://www.baumwipfelpfad.bayern/bayerischer-wald/)
+  in the Bavarian Forest
+- [Prague](https://www.prague.eu/en) in the Czech
+  Republic
+- [Vienna](https://www.wien.info/de)
