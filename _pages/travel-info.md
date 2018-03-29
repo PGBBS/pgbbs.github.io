@@ -52,12 +52,10 @@ on
 
 For the moment, let us provide links to the
 
--
-  [tourist info of the city Landshut](http://www.landshut.de/portal/tourismus.html)
-  - and its [event calendar](https://www.landshut-tourismus.bayern/de/aktuelles/veranstaltungskalender.html#)
--
-  [tourist info of the district Landshut](https://www.landkreis-landshut.de/Freizeit-Tourismus.aspx)
-  - [list of travel tips by Gerhard Laußer](https://www.sehenswertes-bayern.de/stadt/landshut-sehenswertes-ausflugsziele-bilder-landshut-freizeitmoeglichkeiten.html)
+- [tourist info of the city Landshut](http://www.landshut.de/portal/tourismus.html)
+- and its [event calendar](https://www.landshut-tourismus.bayern/de/aktuelles/veranstaltungskalender.html#)
+- [tourist info of the district Landshut](https://www.landkreis-landshut.de/Freizeit-Tourismus.aspx)
+- [list of travel tips by Gerhard Laußer](https://www.sehenswertes-bayern.de/stadt/landshut-sehenswertes-ausflugsziele-bilder-landshut-freizeitmoeglichkeiten.html)
 
 # APPENDIX Places to visit in/around Passau
 
