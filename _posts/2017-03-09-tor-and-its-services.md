@@ -160,3 +160,6 @@ is based on hidden services
 
 - Sueddeutsche Zeitung, ["Das Darknet macht keine Waffen](http://www.sueddeutsche.de/digital/tor-netzwerk-das-darknet-macht-keine-waffen-1.3101766) (german), interview with Falk Garbsch, 31 Jul 2016
 - Phillip Rogaway (2015), ["The Moral Character of Cryptographic Work"](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf)
+- Mike Barlow and Gregory Fell (2016), ["Patrolling the dark
+  net"](https://www.oreilly.com/ideas/patrolling-the-dark-net),
+  O'Reilly Media
